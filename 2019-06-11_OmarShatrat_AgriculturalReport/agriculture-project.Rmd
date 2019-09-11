@@ -1,0 +1,143 @@
+---
+title: "Agriculture Report"
+author: "Omar Shatrat"
+date: "6/6/2019"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+```
+
+# Introduction
+
+As it pertains to farming crops, the two major agricultural systems are conventional farming and organic farming. Conventional farming involves commonly used techniques often needed to yield crops at a commercial scale. Organic farming is harder to implement at a commercial scale and differs from conventional farming in several ways. Organic farming is done so crops are grown in a fashion that is suitable for their environment. One such technique is called cover cropping, which is the practice of using soil for different crops year-round in order to keep fields healthy and lively. Such practices effectively deter weeds and promote water retention, even if the cover crops being planted are not ones that a particular farm may have plans to sell or use.
+
+Another major difference is that organic farming uses pesticides that are considered safe and natural, such as finely chopped onions and garlic, to deter contamination. Conventional farming does not hold themselves to these same standards, instead opting to use synthetic and sometimes harmful pesticides in their crop production. As mentioned before, one benefit of conventional farming is that it has long been easy to deploy at the commercial level. Although organic farming definitely has better effects on the soil, it has not always been as easy to scale as conventional farming, especially for crops such as strawberries. Commercialized organic farming has improved over the years thanks in part to farms such as Swanton Berry Farms in Davenport, CA, which have experimented and worked to alleviate this issue.
+
+Historically, organic farming was practiced for millennia before the use of artificial chemicals was ever introduced. Many farmers opted to use natural fertilizers as they were affordable, effective, and easy to transport. It was around the 1940s when farmers were introduced to artificial pesticides. Many of these pesticides had immense short term benefits but were shown to negatively impact soil fertility over time. Their use exploded, leading to the decade being dubbed as the "pesticide era". Many scientists and activists looked for ways to remedy the issue of prolonged agricultural disaster, and their answer was to focus on increasing environmental awareness. This concept caused many to demand that more organic farming be done, which farmers had no issue with because of the profitability associated with selling organic crops. 
+
+Within California specifically, organic farming is done at a rate that could feed people across the country and the world. Over 10 million hectares of land are used throughout California for farming and agricultural purposes, with most areas being located towards the central valley. This figure is down from around 14 million hectares in the 1950s. Additionally, California's Central Valley has experienced a rapid amount of sinking and drying out as a result of the immense water needed to cultivate crops. Organic agriculture used to be supply driven, but is now almost entirely demand driven as a result of various events that have happened over the decades. One such event was the California Gold Rush, which drove people to California from around the country. This subsequently caused the price of many items to rise as demand increased for them. Cattle were sold for around $5 a head prior to the Gold Rush and prices rose to a high of $500 before settling at around $150.
+
+
+# Methods
+
+## Data
+
+
+Organic vegetable acreage data were taken from the USDA Economic Research Service (available at https://www.ers.usda.gov/data-products/organic-production/organic-production/).
+
+
+## Analysis
+
+
+Data were standardized using a For loop by professor Naupaka Zimmerman in the R Programming Language.
+
+Data were then analyzed and visualized using the dplyr and ggplot2 packages in the R programming language.
+
+# Results
+
+```{r load-packages-and-data}
+
+library("tidyverse")
+
+organic <- read.csv("data/cleaned_data/organic_vegetables_cleaned.csv")
+
+```
+
+```{r 1.1}
+
+organic %>%
+  filter(type == "carrots"| type == "tomatoes" | type == "lettuce") %>%
+  ggplot(aes(x = year, y = acres/1000, color = state)) + geom_line() + facet_wrap(~ type) + ggtitle("Vegetable Acreage over Time", subtitle = "By State") + theme(
+    plot.title = element_text(hjust = 0.5),
+    plot.subtitle = element_text(hjust = 0.5)
+) + xlab("Year") + ylab('Acres (Thousands)') + theme(axis.text.x = element_text(angle = 90))
+
+```
+
+*Figure 1* Our graph shows that growth for carrots, lettuce, and tomatoes from 2001-2011 is greatest in California. These three crops has seen consistent growth in California across the time span. Almost no other state produces these crops in the same range as California, demonstrating the dominance California has in farming.
+
+```{r 1.2}
+
+organic %>%
+  filter(state == "California") %>%
+  filter(type == "carrots"| type == "tomatoes" | type == "lettuce") %>%
+ ggplot(aes(x = year, y = acres/1000, color = type)) + geom_line() + ggtitle("Vegetable Acreage over Time", subtitle = "Dominant Types") + theme(
+    plot.title = element_text(hjust = 0.5),
+    plot.subtitle = element_text(hjust = 0.5)
+) + xlab("Year") + ylab('Acres (Thousands)')
+
+``` 
+
+*Figure 2* This graph shows California crop growth compared to other California crops. Lettuce has always been grown in the largest quantity compared to carrots and tomatoes. Tomato crops briefly overtook carrot crops in 2005, but have since gone back to being the least grown crop. Carrot crops also experienced an immense growth from 2008-2010 before ultimately tumbling back down in 2011.
+
+
+
+```{r 1.3}
+
+organic %>%
+  filter(state == "California") %>%
+  filter(type == "carrots"| type == "tomatoes" | type == "lettuce") %>%
+  ggplot(aes(y = acres/1000, x = total_acres_all_vegetables/1000)) + geom_point() + geom_smooth(method = "lm", se = FALSE) + facet_wrap(~ type) + ggtitle("Vegetable Acreage vs. Total Acreage", subtitle = "Dominant Types") + theme(
+    plot.title = element_text(hjust = 0.5),
+    plot.subtitle = element_text(hjust = 0.5)
+) + xlab("Total Acres (Thousands)") + ylab('Vegetable Acres (Thousands)')
+
+```
+
+*Figure 3* As the total acreage increases, the acreage for each of these individual crops also increases. Lettuce is predicted to increase at the largest rate, while tomato is predicted to increase at the lowest rate. These results are consistent with out previous findings. 
+
+
+
+```{r 1.4}
+
+organic %>%
+  spread(type, acres) %>%
+  filter(state == "California") %>%
+  ggplot(aes(x = (carrots+tomatoes)/1000, y = lettuce/1000)) + geom_point() + geom_smooth(method = "lm") + ggtitle("Predicting Lettuce Acreage", subtitle = "Using Carrots & Tomatoes") + theme(
+    plot.title = element_text(hjust = 0.5),
+    plot.subtitle = element_text(hjust = 0.5)
+) + xlab("Carrots + Tomatoes (Thousands of Acres)") + ylab('Predicted Lettuce (Thousands of Acres)')
+
+organic %>%
+  spread(type, acres) %>%
+  filter(state == "California") %>%
+  ggplot(aes(x = (carrots+lettuce)/1000, y = tomatoes/1000)) + geom_point() + geom_smooth(method = "lm") + ggtitle("Predicting Tomato Acreage", subtitle = "Using Carrots & Lettuce") + theme(
+    plot.title = element_text(hjust = 0.5),
+    plot.subtitle = element_text(hjust = 0.5)
+) + xlab("Carrots + Lettuce (Thousands of Acres)") + ylab('Predicted Tomato (Thousands of Acres)')
+
+organic %>%
+  spread(type, acres) %>%
+  filter(state == "California") %>%
+  ggplot(aes(x = (lettuce+tomatoes)/1000, y = carrots/1000)) + geom_point() + geom_smooth(method = "lm") + ggtitle("Predicting Carrot Acreage", subtitle = "Using Lettuce & Tomato") + theme(
+    plot.title = element_text(hjust = 0.5),
+    plot.subtitle = element_text(hjust = 0.5)
+) + xlab("Lettuce + Tomato (Thousands of Acres)") + ylab('Predicted Carrot (Thousands of Acres)')
+
+```
+
+*Figure 4-6* Any two crops appear to be positive predictors of the remaining crop. Lettuce predictions when the sum of carrots and tomatoes is between 15 and 18 appear to have the slimmest confidence interval. Carrot acreage is has a slightly lower predicted growth than the other two crops.
+
+# Discussion
+
+After reading about California agriculture and visiting both Star Route Farms and Swanton Berry Farms, I was most curious to explore three central questions: 
+
+- Just how dominant is California agriculture?
+
+- Which crops are the most popular?
+
+- How do these crops interact with each other?
+
+My findings from exploring the data confirmed some of my initial suspicions and visualized them at scale, while other finding were contrary to what I initially thought. 
+
+My first figure confirmed that California was the major player among several crops in the country, but I did not anticipate it to be so far ahead of every other state. I feel that this is due to the fact that California has a very diverse climate that serves to accommodate many different crops. Temperatures range from cool and foggy to tropical and hot, and elevations vary tremendously as well. Another reason California does so well is due in part to the immense effort they have placed on environmental preservation and agricultural growth. The state is very innovative in its techniques for farming and irrigation, and has the resources needed to produce large quantities of food. Other states have been shown these same opportunities. As a result, California dominates production of several crops worldwide, including the three mentioned but also walnuts, almonds, grapes, and more. It is approaching monopolistic levels.
+
+Among the three crops analyzed (carrots, lettuce, tomato), lettuce has always grown at the highest rate. This is due to the simplicity of lettuce and the lack of resources needed to cultivate it. Lettuce mostly consists of water and is not as structurally complex as a tomato or a carrot, and thus can be grown in supremely large quantities. Carrots saw a dramatic spike and decline in 2010, which indicates something unique may have happened during that year. A study from UC Davis states that 90-100% of California carrots crops received a certain type of fertilizer. In 2010, the percentage decreased to 78%, and decrease of anywhere from 12-22% in initial fertilizer usage. This may mean that the fertilizer was effective at controlling carrot growth, and resulting in an explosion of carrots after being removed briefly from the equation. 
+
+When trying to predict individual crop acreage given total acreage, I found that my results to be consistent with what I saw in figure 2. My reasoning does not differ substantially, lettuce is easier to grow in large quantities than tomatoes and carrots. 
+
+When we used two crops to predict the third, tomato no longer had the lowest slope, it was now carrots. This is likely because the low quantity of tomatoes were being factored into predicting the carrot acreage and made the predictions lower. I feel that all of these crops are good indicators of the presence of other crops because having multiple thriving crops indicates a healthy farm. If a farm is capable of growing two crops, it likely will be able to grow the third just as well because it has the resources and techniques needed. The confidence interval widens for all the crops as I try to predict larger amounts. This indicates my model may not be as effective at predicting larger quantities. This makes sense because a variety of factors could be influencing growth at that point, such as weather, setting, and maintenance. 
+
+These cumulative finding suggest that areas with high geographic diversity are most suitable for agriculture. California has varying temperature and elevation across the entire state, and it has shown to produce one of the world's powerhouses in organic farming. Additionally, my finding suggest that is the focus of farming is simply to maximize yield, certain crops may be better suited for this. Lettuce, for example, can be cultivated in significantly larger portions than either tomato or carrots. Finally, being able to grow certain crops may not inhibit one's ability to grow other crops. Rather, this is a sign of a thriving farm and further investigation should be done to figure out how to best utilize its resources. 

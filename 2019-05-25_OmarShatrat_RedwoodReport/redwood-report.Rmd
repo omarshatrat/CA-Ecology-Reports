@@ -1,0 +1,141 @@
+---
+title: "Redwood Forest Growth Trends"
+author: "Omar Shatrat"
+date: "5/23/2019"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction
+
+The redwood forests in California are among the most ancient and diverse environments for life anywhere.The variation in soil age and unique climate allows for many different life forms to thrive and exist. Redwoods in California extend approximately from Southern Oregon to Southern Monterey Bay, where they experience a mean annual rainfall anywhere between 600 mm and 3000 mm. Aside from *Sequoia sempervirens* (coast redwood), redwood forests host a plethora of other species such as *Umbellularia californica* (California bay), *Notholithocarpus densiflorus* (tanoak), and *Pseudotsuga menziesii* (Douglas fir). Different types of fungi, invertebrates, and vertebrates including *Urodela* (salamanders), *Ariolimax columbianus* (Banana slugs), and *Letharia vulpina* (lichen) can also be found.
+
+In terms of topography, redwoods are usually positioned closer to bodies of water since these trees need to be properly hydrated to thrive. This being said, redwood forests generally follow Mediterranean climates. That is, they experience hot, dry summers and cold, wet winters. The reason redwoods are able to do well despite periodic hot weather is because these trees create their own micro-climate that holds a cool temperature of 5 to 25 degrees Celsius year-round. Fog is critically important as well, as cold air usually moves off the ocean and into land during summer months. Fog allows for redwoods to hydrate themselves as well as other organisms that may be close to them.
+
+Economically, redwoods are one of the most valuable species for lumber in California. Because of their light weight and resistance to fire, redwoods were used to construct houses throughout the Bay Area Peninsula and in San Francisco. Redwoods were also used as railroad ties throughout California. The 1906 earthquake in San Francisco caused a fire that went on to wipe out a lot of redwoods and structures that were built on redwoods. This was one of the events that caused people to call for the conservation of redwoods and protest their exploitation. The two major culminating organizations that arose from this movement were the Sierra Club and the Save the Redwoods League. 
+
+Both of these organizations have been instrumental in working to pass legislation advocating for the preservation and ethical use of redwoods. Redwoods have been heralded by many throughout California for the benefits they yield. They keep the climate exceptionally healthy and host many different types of life. Redwoods provided homes and refuge for people moving to California during the Gold Rush. For its influence, the redwood has a city in the Peninsula named after it called Redwood City. The redwood also appears on the official seal of the city of Palo Alto, and is the unofficial mascot of Stanford University. 
+
+# Methods
+
+## Field Methods
+
+We began our analysis of the redwood forest by performing transect sampling at Heritage Grove in Sam MacDonald Country Park in La Honda, CA. We  used a field tape measure and a magnetic compass to identify a transect 100 meters opposite of the stream. After identifying the transect, we used a three-way soil meter to obtain ph, soil moisture, and light exposure measurements for the soil every five meters along the transect. Trees within five meters of our transect were measured for diameter (at breast height) using routine measuring tape; the tree species was also noted in our final observations. 
+
+Analysis was done in relatively sunny weather, although the weather the day prior exhibited heavy precipitation. 
+
+## Analysis Methods
+
+All data recorded were entered into Google spreadsheets and exported for analysis in R Studio. Prior to exporting, input review was done by over 10 students and prof. Naupaka Zimmerman in order to standardize and clean the information so later analysis in R Studio would be more efficient.
+
+
+# Results
+
+
+
+```{r initializing environment}
+
+library(tidyverse)
+
+trees <- read.csv("data/2019-05-22_redwood_forest_data-dbh.csv")
+soil <- read.csv('data/2019-05-22_redwood_forest_data-soil.csv')
+
+```
+
+## Class-wide Data Analysis
+
+Our data indeed shows that redwoods are the most prominent tree species within the forest, however tanoaks are also present in great abundance. These are the two main species, however there are other species as well, and a considerable amount of deceased trees.
+
+```{r trees analysis for cumulative data}
+
+trees %>%
+  group_by(species_name) %>%
+  summarise(counts = n()) %>%
+  arrange(counts) %>%
+  mutate(species_name = factor(species_name, species_name)) %>%
+  ggplot(aes(x = species_name, y = counts, fill = counts)) + geom_bar(stat = "identity") + ggtitle("Species Frequency") + theme(plot.title = element_text(hjust = 0.5)) + xlab("Species") + ylab('Count') + scale_fill_continuous(high = "#132B43", low = "#56B1F7") + theme(axis.text.x = element_text(angle = 90))
+```
+
+Among these two major groups, there are some considerable differences. Redwoods have a much wider distribution and vary heavily in terms of circumference. Tanoak are much more confined in their distribution and tend to be very small in size compared to redwoods.
+
+```{r 2}
+trees %>%
+  filter(species_name == "Coast Redwood" | species_name == "Tanoak") %>%
+    ggplot(aes(x = tree_circumference, fill = species_name)) + geom_density() + ggtitle("Redwood-Tanoak Distribution") + theme(plot.title = element_text(hjust = 0.5)) + xlab("Tree Circumference (cm)") + ylab('Frequency')
+```
+
+In attempting to see if this trend changes with transect location, we created a scatter plot of tree circumference (cm) for both species along the transect. We found that redwoods tended to grow as they got further from the stream and tanoak were small in size regardless of transect position.
+
+```{r 3}
+trees %>%
+  filter(species_name == "Coast Redwood" | species_name == "Tanoak") %>%
+  ggplot(aes(x = transect_position_m, y = tree_circumference, color = species_name, shape = species_name)) + geom_point(size = 5) + geom_abline() + ggtitle("Transect Pos. vs. Circumference") + theme(plot.title = element_text(hjust = 0.5)) + xlab("Transect Position (m)") + ylab('Tree Circumference (cm)')
+
+```
+
+## Group 2 Data Analysis
+
+We began analysis of our group's data by observing the distribution of light exposure. The resulting graph shows that most areas of the forest are exposed to less than 1000 units of light. 
+
+```{r soil analysis for group 2 data}
+
+soil %>%
+  filter(group_number == 2) %>%
+  ggplot(aes(x = light, fill = TRUE)) + geom_density() + ggtitle("Light Distribution") + theme(plot.title = element_text(hjust = 0.5)) + xlab("Light Exposure") + ylab('Frequency')
+```
+
+We became curious as to if this observation had some relationship with transect position, which became the focus of our next graph. We observe that there is a scarce relationship (if any) between transect position and light exposure, although the latter points that demonstrate a brief relationship all have a ph of 7.
+
+```{r 4}
+soil %>%
+  filter(group_number == 2) %>%
+  ggplot(aes(x = transect_position_m, y = light, color = factor(ph))) + geom_point(shape = 16, size = 5) + geom_abline() + ggtitle("Transect Pos. vs. Light") + theme(plot.title = element_text(hjust = 0.5)) + xlab("Transect Position (m)") + ylab('Light Exposure')
+```
+
+Our final graph aimed to determine the relationship between transect position and soil moisture. We see a fairly strong, positive association between to two variables. Again, observations with a ph of 7 trended towards the high values on both axis.
+
+```{r 5}
+soil %>%
+  filter(group_number == 2) %>%
+  ggplot(aes(x = transect_position_m, y = soil_moisture, color = factor(ph))) + geom_point(shape = 16, size = 5) + geom_abline() + ggtitle("Transect Pos. vs. Soil Moisture") + theme(plot.title = element_text(hjust = 0.5)) + xlab("Transect Position (m)") + ylab('Soil Moisture')
+
+```
+
+
+# Discussion
+
+We noted earlier that redwoods vary more in size than tanoaks, although both species are prominent in terms of numbers. This may be an indicator that although tanoaks can live in the redwood forest, such an environment may not be suitable for tanoak growth and development. Redwoods benefit from having their own micro climate as well as the fog, tanoak do not appear to be as adept at utilizing these resources.
+
+It was shocking to see variables such as tree circumference and soil moisture rise as we got further away from the stream. We initially expected areas close to the water to have larger tree circumference and higher soil moisture. This observation may be a result of larger redwoods being able to harness fog to keep the soil around them moist, even if it is further from the stream. Additionally, the stream is directly next to the walking path. Trees around the path may not grow as much because people frequently walk around and possibly hinder growth with their presence. 
+
+It is noteworthy that soil with a ph of 7 consistently saw higher light exposure and soil moisture. Our sample size is small, however this is a trend worth investigating as it presents the possibility that soil with a ph of 7 produces better growth environments. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

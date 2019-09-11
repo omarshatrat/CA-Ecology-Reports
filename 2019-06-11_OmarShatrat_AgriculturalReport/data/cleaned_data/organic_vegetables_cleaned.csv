@@ -1,0 +1,2701 @@
+year,state,type,acres,total_acres_all_vegetables
+2002,Alabama,tomatoes,0,129
+2002,Alaska,tomatoes,0,0
+2002,Arizona,tomatoes,0,1645
+2002,Arkansas,tomatoes,0,4975
+2002,California,tomatoes,3212,38355
+2002,Colorado,tomatoes,24,2075
+2002,Connecticut,tomatoes,0,0
+2002,Delaware,tomatoes,0,0
+2002,Florida,tomatoes,0,927
+2002,Georgia,tomatoes,20,422
+2002,Hawaii,tomatoes,0,111
+2002,Idaho,tomatoes,0,91.35
+2002,Illinois,tomatoes,0,316
+2002,Indiana,tomatoes,1,416
+2002,Iowa,tomatoes,0,68
+2002,Kansas,tomatoes,0,102
+2002,Kentucky,tomatoes,0,0
+2002,Louisiana,tomatoes,0,0
+2002,Maine,tomatoes,0,0
+2002,Maryland,tomatoes,0,500
+2002,Massachusetts,tomatoes,0,0
+2002,Michigan,tomatoes,5,383
+2002,Minnesota,tomatoes,2,1076
+2002,Mississippi,tomatoes,0,0
+2002,Missouri,tomatoes,0,64
+2002,Montana,tomatoes,0,22
+2002,Nebraska,tomatoes,0,324
+2002,Nevada,tomatoes,0,16
+2002,New Hampshire,tomatoes,0,227.25
+2002,New Jersey,tomatoes,0,301
+2002,New Mexico,tomatoes,0,1040
+2002,New York,tomatoes,0,1621
+2002,North Carolina,tomatoes,45,607
+2002,North Dakota,tomatoes,0,25
+2002,Ohio,tomatoes,26,344
+2002,Oklahoma,tomatoes,0,40
+2002,Oregon,tomatoes,38,2648
+2002,Pennsylvania,tomatoes,0,425
+2002,Rhode Island,tomatoes,0.6,43.9
+2002,South Carolina,tomatoes,0,0
+2002,South Dakota,tomatoes,0,63
+2002,Tennessee,tomatoes,0,64
+2002,Texas,tomatoes,16,246
+2002,Utah,tomatoes,0,146
+2002,Vermont,tomatoes,0,746
+2002,Virginia,tomatoes,0,915
+2002,Washington,tomatoes,15,6802
+2002,West Virginia,tomatoes,0,24
+2002,Wisconsin,tomatoes,1,1541
+2002,Wyoming,tomatoes,0,0
+2003,Alabama,tomatoes,0,130
+2003,Alaska,tomatoes,0,215
+2003,Arizona,tomatoes,0,1379.5
+2003,Arkansas,tomatoes,0,20
+2003,California,tomatoes,3586,48446.625
+2003,Colorado,tomatoes,4,1619
+2003,Connecticut,tomatoes,0,0
+2003,Delaware,tomatoes,0,10
+2003,Florida,tomatoes,0,847
+2003,Georgia,tomatoes,0,674
+2003,Hawaii,tomatoes,22,141
+2003,Idaho,tomatoes,0,100
+2003,Illinois,tomatoes,0,295
+2003,Indiana,tomatoes,5,417
+2003,Iowa,tomatoes,0,362.68
+2003,Kansas,tomatoes,0,101
+2003,Kentucky,tomatoes,0,16
+2003,Louisiana,tomatoes,0,95
+2003,Maine,tomatoes,0,0
+2003,Maryland,tomatoes,0,500
+2003,Massachusetts,tomatoes,0,0
+2003,Michigan,tomatoes,0,1269.2
+2003,Minnesota,tomatoes,0,1148.96
+2003,Mississippi,tomatoes,0,0
+2003,Missouri,tomatoes,0,6
+2003,Montana,tomatoes,0,109
+2003,Nebraska,tomatoes,0,97
+2003,Nevada,tomatoes,0,33.25
+2003,New Hampshire,tomatoes,0,279
+2003,New Jersey,tomatoes,0,199
+2003,New Mexico,tomatoes,0,1040
+2003,New York,tomatoes,0,1671.7
+2003,North Carolina,tomatoes,42,778
+2003,North Dakota,tomatoes,0,75.5
+2003,Ohio,tomatoes,145.5,490
+2003,Oklahoma,tomatoes,14,76
+2003,Oregon,tomatoes,3.2,2782.4
+2003,Pennsylvania,tomatoes,18,636
+2003,Rhode Island,tomatoes,0.6,43.9
+2003,South Carolina,tomatoes,0,22
+2003,South Dakota,tomatoes,0,54.8
+2003,Tennessee,tomatoes,0,64
+2003,Texas,tomatoes,9.26,290.42
+2003,Utah,tomatoes,0,107.75
+2003,Vermont,tomatoes,0,818
+2003,Virginia,tomatoes,0,597.5
+2003,Washington,tomatoes,14,9555
+2003,West Virginia,tomatoes,0,42
+2003,Wisconsin,tomatoes,2,1237.43
+2003,Wyoming,tomatoes,0,2
+2004,Alabama,tomatoes,0,4
+2004,Alaska,tomatoes,0,16
+2004,Arizona,tomatoes,0,2156.008
+2004,Arkansas,tomatoes,0,32
+2004,California,tomatoes,3643.2,48915.86
+2004,Colorado,tomatoes,18.35,1555.15
+2004,Connecticut,tomatoes,7.94,145.22
+2004,Delaware,tomatoes,2,6
+2004,Florida,tomatoes,184,2379.5
+2004,Georgia,tomatoes,0.23,495.427
+2004,Hawaii,tomatoes,10.96,345.8475
+2004,Idaho,tomatoes,0.25,266.38
+2004,Illinois,tomatoes,2.1,119.59
+2004,Indiana,tomatoes,0,89.05
+2004,Iowa,tomatoes,0.25,204.7
+2004,Kansas,tomatoes,0,76.3
+2004,Kentucky,tomatoes,2.5,63.5
+2004,Louisiana,tomatoes,0,1
+2004,Maine,tomatoes,0.85,294.27
+2004,Maryland,tomatoes,0.03,373.139
+2004,Massachusetts,tomatoes,2.71,463.94
+2004,Michigan,tomatoes,0,230.54
+2004,Minnesota,tomatoes,3.5,1609.86
+2004,Mississippi,tomatoes,0,0
+2004,Missouri,tomatoes,0,58.5
+2004,Montana,tomatoes,3,176
+2004,Nebraska,tomatoes,1,67.25
+2004,Nevada,tomatoes,0,14
+2004,New Hampshire,tomatoes,0,178.9
+2004,New Jersey,tomatoes,0,166.97
+2004,New Mexico,tomatoes,0,527
+2004,New York,tomatoes,0,4483.0464
+2004,North Carolina,tomatoes,107,457.175
+2004,North Dakota,tomatoes,0,111
+2004,Ohio,tomatoes,0,601.3
+2004,Oklahoma,tomatoes,0,163
+2004,Oregon,tomatoes,12.67,2306.2
+2004,Pennsylvania,tomatoes,62,777.95
+2004,Rhode Island,tomatoes,1.1,33
+2004,South Carolina,tomatoes,0,32
+2004,South Dakota,tomatoes,1,5.05
+2004,Tennessee,tomatoes,0,42
+2004,Texas,tomatoes,0,817
+2004,Utah,tomatoes,0,193.9
+2004,Vermont,tomatoes,0,824
+2004,Virginia,tomatoes,0,213.5
+2004,Washington,tomatoes,14,6405.25
+2004,West Virginia,tomatoes,0,63
+2004,Wisconsin,tomatoes,3,960.427
+2004,Wyoming,tomatoes,0,1
+2005,Alabama,tomatoes,0,4
+2005,Alaska,tomatoes,0,19
+2005,Arizona,tomatoes,0,3638.94
+2005,Arkansas,tomatoes,0,35.6
+2005,California,tomatoes,6295.22,58327.37
+2005,Colorado,tomatoes,5.95,1956.78
+2005,Connecticut,tomatoes,9.07,168.31
+2005,Delaware,tomatoes,0,1
+2005,Florida,tomatoes,168,2139.5
+2005,Georgia,tomatoes,0.14,605.837
+2005,Hawaii,tomatoes,15.3,304.7375
+2005,Idaho,tomatoes,0.25,148.78
+2005,Illinois,tomatoes,0,357.25
+2005,Indiana,tomatoes,0,41.05
+2005,Iowa,tomatoes,1.9,166.7
+2005,Kansas,tomatoes,0,26.75
+2005,Kentucky,tomatoes,2.5,24.5
+2005,Louisiana,tomatoes,0,11
+2005,Maine,tomatoes,0.55,293.71
+2005,Maryland,tomatoes,0,360.7509
+2005,Massachusetts,tomatoes,5,498.97
+2005,Michigan,tomatoes,0.5,98.5
+2005,Minnesota,tomatoes,2.25,749.73
+2005,Mississippi,tomatoes,1,7.75
+2005,Missouri,tomatoes,0,39
+2005,Montana,tomatoes,4,183
+2005,Nebraska,tomatoes,0,53
+2005,Nevada,tomatoes,0,14
+2005,New Hampshire,tomatoes,0,216.4
+2005,New Jersey,tomatoes,10.12,236.645
+2005,New Mexico,tomatoes,20,643
+2005,New York,tomatoes,0,2952.45
+2005,North Carolina,tomatoes,10,640.445
+2005,North Dakota,tomatoes,0,65.15
+2005,Ohio,tomatoes,0,581.2
+2005,Oklahoma,tomatoes,0,180
+2005,Oregon,tomatoes,21,3737
+2005,Pennsylvania,tomatoes,54,868.8
+2005,Rhode Island,tomatoes,2.3,40.5
+2005,South Carolina,tomatoes,0,52.8
+2005,South Dakota,tomatoes,1,29.25
+2005,Tennessee,tomatoes,0,43
+2005,Texas,tomatoes,1,624.5
+2005,Utah,tomatoes,0,193.9
+2005,Vermont,tomatoes,0,963
+2005,Virginia,tomatoes,0,4859.4
+2005,Washington,tomatoes,20,10331
+2005,West Virginia,tomatoes,0,63
+2005,Wisconsin,tomatoes,4.405,927.89
+2005,Wyoming,tomatoes,0,0
+2006,Alabama,tomatoes,0,4
+2006,Alaska,tomatoes,0,0
+2006,Arizona,tomatoes,0,3217
+2006,Arkansas,tomatoes,0,10
+2006,California,tomatoes,6167.75,61703.649999999994
+2006,Colorado,tomatoes,10.41,1938.51
+2006,Connecticut,tomatoes,9.5,188.17000000000002
+2006,Delaware,tomatoes,0.5,2
+2006,Florida,tomatoes,162,3182.5
+2006,Georgia,tomatoes,0,760
+2006,Hawaii,tomatoes,0.19,213.51999999999998
+2006,Idaho,tomatoes,0.5,149.5
+2006,Illinois,tomatoes,0,1338.86
+2006,Indiana,tomatoes,0,173.35
+2006,Iowa,tomatoes,0.2,132.95
+2006,Kansas,tomatoes,1,22.98
+2006,Kentucky,tomatoes,0,33.5
+2006,Louisiana,tomatoes,0.5,12
+2006,Maine,tomatoes,30,722
+2006,Maryland,tomatoes,0,211.27
+2006,Massachusetts,tomatoes,4,590.9
+2006,Michigan,tomatoes,9.1,276.14
+2006,Minnesota,tomatoes,83.67,1199.25
+2006,Mississippi,tomatoes,2,3
+2006,Missouri,tomatoes,0,48.8
+2006,Montana,tomatoes,4,179.25
+2006,Nebraska,tomatoes,0,1402
+2006,Nevada,tomatoes,0,33
+2006,New Hampshire,tomatoes,0,197.75
+2006,New Jersey,tomatoes,24,684
+2006,New Mexico,tomatoes,0,305
+2006,New York,tomatoes,0,1814.44
+2006,North Carolina,tomatoes,10,902
+2006,North Dakota,tomatoes,24,134
+2006,Ohio,tomatoes,0,569.35
+2006,Oklahoma,tomatoes,0,215
+2006,Oregon,tomatoes,33,4373
+2006,Pennsylvania,tomatoes,59,826.13
+2006,Rhode Island,tomatoes,1.3,75.8
+2006,South Carolina,tomatoes,0,0
+2006,South Dakota,tomatoes,0.43,79.56
+2006,Tennessee,tomatoes,0,42
+2006,Texas,tomatoes,13.01,2291.23
+2006,Utah,tomatoes,0,0
+2006,Vermont,tomatoes,0,936
+2006,Virginia,tomatoes,8,322
+2006,Washington,tomatoes,47.07,14274.08
+2006,West Virginia,tomatoes,0,63
+2006,Wisconsin,tomatoes,6,781.4300000000001
+2006,Wyoming,tomatoes,0,0.5
+2007,Alabama,tomatoes,0,9
+2007,Alaska,tomatoes,0,0
+2007,Arizona,tomatoes,0,3436.35
+2007,Arkansas,tomatoes,6.5,33.25
+2007,California,tomatoes,7888.35,78470.81
+2007,Colorado,tomatoes,10.5,1977
+2007,Connecticut,tomatoes,18,199.17000000000002
+2007,Delaware,tomatoes,0,39
+2007,Florida,tomatoes,153,3308.5
+2007,Georgia,tomatoes,120,2113
+2007,Hawaii,tomatoes,0.19,133.39
+2007,Idaho,tomatoes,0,32.75
+2007,Illinois,tomatoes,0,381.6
+2007,Indiana,tomatoes,0,124.19
+2007,Iowa,tomatoes,3.24,195.49
+2007,Kansas,tomatoes,2,82.55
+2007,Kentucky,tomatoes,0,0
+2007,Louisiana,tomatoes,0.5,11
+2007,Maine,tomatoes,11,633
+2007,Maryland,tomatoes,0,268.8
+2007,Massachusetts,tomatoes,4,629
+2007,Michigan,tomatoes,8.75,1416.47
+2007,Minnesota,tomatoes,23.41,888.49
+2007,Mississippi,tomatoes,0,12
+2007,Missouri,tomatoes,0.2,276.25
+2007,Montana,tomatoes,4,85.45
+2007,Nebraska,tomatoes,0,1195.5
+2007,Nevada,tomatoes,0,661.98
+2007,New Hampshire,tomatoes,0,267
+2007,New Jersey,tomatoes,117,413.5
+2007,New Mexico,tomatoes,0,954
+2007,New York,tomatoes,0,2237.7
+2007,North Carolina,tomatoes,48,659.73
+2007,North Dakota,tomatoes,18,102.5
+2007,Ohio,tomatoes,40,1226.55
+2007,Oklahoma,tomatoes,0,236
+2007,Oregon,tomatoes,25,5272
+2007,Pennsylvania,tomatoes,0,1048.17
+2007,Rhode Island,tomatoes,3.1,117.5
+2007,South Carolina,tomatoes,19,193
+2007,South Dakota,tomatoes,12,110.42
+2007,Tennessee,tomatoes,0,208
+2007,Texas,tomatoes,36.34,1935.8400000000001
+2007,Utah,tomatoes,3,211
+2007,Vermont,tomatoes,0,903
+2007,Virginia,tomatoes,63.5,367.65
+2007,Washington,tomatoes,40,18176
+2007,West Virginia,tomatoes,0,0
+2007,Wisconsin,tomatoes,8,588.73
+2007,Wyoming,tomatoes,0,0
+2008,Alabama,tomatoes,0,11
+2008,Alaska,tomatoes,0,23.7
+2008,Arizona,tomatoes,9.09,11287.34
+2008,Arkansas,tomatoes,0,108
+2008,California,tomatoes,8291.01,91914.95999999999
+2008,Colorado,tomatoes,0.5,3554.05
+2008,Connecticut,tomatoes,6.5,157.47
+2008,Delaware,tomatoes,0,39
+2008,Florida,tomatoes,153,3620
+2008,Georgia,tomatoes,122,1875
+2008,Hawaii,tomatoes,0.65,230.70999999999998
+2008,Idaho,tomatoes,0.45,47.95
+2008,Illinois,tomatoes,0,225.39999999999998
+2008,Indiana,tomatoes,0,111.22
+2008,Iowa,tomatoes,2.73,229.32999999999998
+2008,Kansas,tomatoes,2,27.1
+2008,Kentucky,tomatoes,0,60
+2008,Louisiana,tomatoes,0.5,12.03
+2008,Maine,tomatoes,26,757
+2008,Maryland,tomatoes,16,249.65
+2008,Massachusetts,tomatoes,4.04,629.69
+2008,Michigan,tomatoes,6.85,1403.89
+2008,Minnesota,tomatoes,7.24,1010.5600000000001
+2008,Mississippi,tomatoes,0,12
+2008,Missouri,tomatoes,0.4,159.26999999999998
+2008,Montana,tomatoes,4,96.85
+2008,Nebraska,tomatoes,0,757.2
+2008,Nevada,tomatoes,0,31
+2008,New Hampshire,tomatoes,0,360.2
+2008,New Jersey,tomatoes,117,374.6
+2008,New Mexico,tomatoes,3,491
+2008,New York,tomatoes,222.2,3469.17
+2008,North Carolina,tomatoes,48,2372.94
+2008,North Dakota,tomatoes,0,232.60000000000002
+2008,Ohio,tomatoes,0,454.34000000000003
+2008,Oklahoma,tomatoes,0,236
+2008,Oregon,tomatoes,38,5789
+2008,Pennsylvania,tomatoes,0,1552.42
+2008,Rhode Island,tomatoes,3.5,120.39999999999999
+2008,South Carolina,tomatoes,0,122
+2008,South Dakota,tomatoes,0,6.12
+2008,Tennessee,tomatoes,0,208
+2008,Texas,tomatoes,17.43,1901.46
+2008,Utah,tomatoes,3,211
+2008,Vermont,tomatoes,0,914
+2008,Virginia,tomatoes,63.5,397.1
+2008,Washington,tomatoes,50.1,18294.449999999997
+2008,West Virginia,tomatoes,0,11.98
+2008,Wisconsin,tomatoes,18,454.39
+2008,Wyoming,tomatoes,0,0.1
+2010,Alabama,tomatoes,0,273.279998779297
+2010,Alaska,tomatoes,0,0
+2010,Arizona,tomatoes,18.5,7403.1798450946835
+2010,Arkansas,tomatoes,5,26.5
+2010,California,tomatoes,8561.61115306616,100336.47404678105
+2010,Colorado,tomatoes,25.4500000756234,3249.8399983315967
+2010,Connecticut,tomatoes,3.29999995231628,205.86999682903286
+2010,Delaware,tomatoes,0,50.0699996948242
+2010,Florida,tomatoes,532.350006103516,4679.769927978521
+2010,Georgia,tomatoes,2.25,2132.900019526482
+2010,Hawaii,tomatoes,6.64999997615814,308.3200020742419
+2010,Idaho,tomatoes,1.5,171.33000183105472
+2010,Illinois,tomatoes,0.904999999329448,338.295001085326
+2010,Indiana,tomatoes,7.75999999046326,247.6200002646449
+2010,Iowa,tomatoes,5.66999995708466,351.2300015926363
+2010,Kansas,tomatoes,0,23.84999990463257
+2010,Kentucky,tomatoes,0,87.8700008392334
+2010,Louisiana,tomatoes,0,24
+2010,Maine,tomatoes,53,537.079999923706
+2010,Maryland,tomatoes,12.8000001907349,731.8899965286259
+2010,Massachusetts,tomatoes,19.8600006103516,1434.5200256347657
+2010,Michigan,tomatoes,8.77999973297119,450.7440017741922
+2010,Minnesota,tomatoes,7.84000018239021,698.4200153326988
+2010,Mississippi,tomatoes,7,14
+2010,Missouri,tomatoes,1,85.289999961853
+2010,Montana,tomatoes,4,90.25999999046326
+2010,Nebraska,tomatoes,0.00999999977648258,279.0599999897924
+2010,Nevada,tomatoes,0,3421.499999523163
+2010,New Hampshire,tomatoes,15,300
+2010,New Jersey,tomatoes,26,403.710000038147
+2010,New Mexico,tomatoes,0,321.7700004577646
+2010,New York,tomatoes,125,2873.309998568599
+2010,North Carolina,tomatoes,153.120000839233,2366.800007058677
+2010,North Dakota,tomatoes,13.2299995422363,529.3099999427795
+2010,Ohio,tomatoes,3.52999997138977,421.43999409675644
+2010,Oklahoma,tomatoes,18,285
+2010,Oregon,tomatoes,5.25,4548.080004908152
+2010,Pennsylvania,tomatoes,4.25,1439.5466614723205
+2010,Rhode Island,tomatoes,3.16000008583069,38.5399993133545
+2010,South Carolina,tomatoes,0,240
+2010,South Dakota,tomatoes,0,122.25
+2010,Tennessee,tomatoes,0,2462.35009765625
+2010,Texas,tomatoes,17.3100000321865,502.89700342513623
+2010,Utah,tomatoes,1,192
+2010,Vermont,tomatoes,0,1143
+2010,Virginia,tomatoes,103.739998469129,1089.270028382763
+2010,Washington,tomatoes,39.000001527369,3372.700022913511
+2010,West Virginia,tomatoes,0,37
+2010,Wisconsin,tomatoes,39.6600000709295,3020.5499489313343
+2010,Wyoming,tomatoes,0,0
+2011,Alabama,tomatoes,0,0
+2011,Alaska,tomatoes,0,0
+2011,Arizona,tomatoes,21.25,9021.270142555246
+2011,Arkansas,tomatoes,12,133
+2011,California,tomatoes,7929.53314965963,88724.23900026089
+2011,Colorado,tomatoes,34.6099999621511,3264.310002472254
+2011,Connecticut,tomatoes,3.90000009536743,244.30000692606006
+2011,Delaware,tomatoes,0,58.0099983215332
+2011,Florida,tomatoes,568.850006103516,4591.969879150391
+2011,Georgia,tomatoes,0.125,2229.8499571979073
+2011,Hawaii,tomatoes,26.4899997711182,1014.5299713611614
+2011,Idaho,tomatoes,0,232.1000022888186
+2011,Illinois,tomatoes,1.50499999523163,412.46499884128565
+2011,Indiana,tomatoes,7,147.4600008726125
+2011,Iowa,tomatoes,3.64999997615814,456.5799964666371
+2011,Kansas,tomatoes,0,32.5
+2011,Kentucky,tomatoes,0,62.5
+2011,Louisiana,tomatoes,0,30.25
+2011,Maine,tomatoes,53,522.079999923706
+2011,Maryland,tomatoes,10.8799997344613,744.2350042983892
+2011,Massachusetts,tomatoes,4.69999980926514,1332.4999876022341
+2011,Michigan,tomatoes,10.5300001874566,645.1590073443948
+2011,Minnesota,tomatoes,0.90999998152256,1536.3199743777514
+2011,Mississippi,tomatoes,9,17.5
+2011,Missouri,tomatoes,0,241.0599975585941
+2011,Montana,tomatoes,3,482.0499999523163
+2011,Nebraska,tomatoes,0,195.24999856948853
+2011,Nevada,tomatoes,0,3561.499999523163
+2011,New Hampshire,tomatoes,15,329
+2011,New Jersey,tomatoes,90,512.710000038147
+2011,New Mexico,tomatoes,0,174.0599975585938
+2011,New York,tomatoes,45.0299999993294,2322.079997999598
+2011,North Carolina,tomatoes,180.810001373291,4471.449125289924
+2011,North Dakota,tomatoes,0.5,206.27999687194801
+2011,Ohio,tomatoes,1.02999997138977,602.2999956160783
+2011,Oklahoma,tomatoes,20,259
+2011,Oregon,tomatoes,5.25999999977648,4576.765013562514
+2011,Pennsylvania,tomatoes,3,1646.589994430542
+2011,Rhode Island,tomatoes,3.02999997138977,60.799999952316284
+2011,South Carolina,tomatoes,0,240
+2011,South Dakota,tomatoes,0,102.40000000596046
+2011,Tennessee,tomatoes,0,732.7999725341801
+2011,Texas,tomatoes,5.54999995231628,1334.5370204448745
+2011,Utah,tomatoes,1,24
+2011,Vermont,tomatoes,0,1053
+2011,Virginia,tomatoes,103.599998474121,1195.2200154811105
+2011,Washington,tomatoes,36.000001527369,3916.700018025931
+2011,West Virginia,tomatoes,0,65.5
+2011,Wisconsin,tomatoes,60.2599983215332,3633.039978742595
+2011,Wyoming,tomatoes,0,3.4300000667572
+2002,Alabama,lettuce,0,129
+2002,Alaska,lettuce,0,0
+2002,Arizona,lettuce,46,1645
+2002,Arkansas,lettuce,0,4975
+2002,California,lettuce,9969,38355
+2002,Colorado,lettuce,326,2075
+2002,Connecticut,lettuce,0,0
+2002,Delaware,lettuce,0,0
+2002,Florida,lettuce,51,927
+2002,Georgia,lettuce,0,422
+2002,Hawaii,lettuce,0,111
+2002,Idaho,lettuce,0,91.35
+2002,Illinois,lettuce,0,316
+2002,Indiana,lettuce,0,416
+2002,Iowa,lettuce,0,68
+2002,Kansas,lettuce,0,102
+2002,Kentucky,lettuce,0,0
+2002,Louisiana,lettuce,0,0
+2002,Maine,lettuce,0,0
+2002,Maryland,lettuce,0,500
+2002,Massachusetts,lettuce,0,0
+2002,Michigan,lettuce,1,383
+2002,Minnesota,lettuce,0,1076
+2002,Mississippi,lettuce,0,0
+2002,Missouri,lettuce,0,64
+2002,Montana,lettuce,0,22
+2002,Nebraska,lettuce,0,324
+2002,Nevada,lettuce,0,16
+2002,New Hampshire,lettuce,0,227.25
+2002,New Jersey,lettuce,0,301
+2002,New Mexico,lettuce,0,1040
+2002,New York,lettuce,0,1621
+2002,North Carolina,lettuce,0,607
+2002,North Dakota,lettuce,0,25
+2002,Ohio,lettuce,10,344
+2002,Oklahoma,lettuce,0,40
+2002,Oregon,lettuce,3,2648
+2002,Pennsylvania,lettuce,4,425
+2002,Rhode Island,lettuce,1.3,43.9
+2002,South Carolina,lettuce,0,0
+2002,South Dakota,lettuce,0,63
+2002,Tennessee,lettuce,0,64
+2002,Texas,lettuce,5,246
+2002,Utah,lettuce,0,146
+2002,Vermont,lettuce,0,746
+2002,Virginia,lettuce,0,915
+2002,Washington,lettuce,59,6802
+2002,West Virginia,lettuce,0,24
+2002,Wisconsin,lettuce,0,1541
+2002,Wyoming,lettuce,0,0
+2003,Alabama,lettuce,0,130
+2003,Alaska,lettuce,0,215
+2003,Arizona,lettuce,46,1379.5
+2003,Arkansas,lettuce,0,20
+2003,California,lettuce,11420,48446.625
+2003,Colorado,lettuce,323,1619
+2003,Connecticut,lettuce,0,0
+2003,Delaware,lettuce,0,10
+2003,Florida,lettuce,56,847
+2003,Georgia,lettuce,0,674
+2003,Hawaii,lettuce,9,141
+2003,Idaho,lettuce,0,100
+2003,Illinois,lettuce,1,295
+2003,Indiana,lettuce,0,417
+2003,Iowa,lettuce,0,362.68
+2003,Kansas,lettuce,0,101
+2003,Kentucky,lettuce,0,16
+2003,Louisiana,lettuce,0,95
+2003,Maine,lettuce,0,0
+2003,Maryland,lettuce,0,500
+2003,Massachusetts,lettuce,0,0
+2003,Michigan,lettuce,0,1269.2
+2003,Minnesota,lettuce,0,1148.96
+2003,Mississippi,lettuce,0,0
+2003,Missouri,lettuce,0,6
+2003,Montana,lettuce,0,109
+2003,Nebraska,lettuce,0,97
+2003,Nevada,lettuce,0,33.25
+2003,New Hampshire,lettuce,0,279
+2003,New Jersey,lettuce,0,199
+2003,New Mexico,lettuce,0,1040
+2003,New York,lettuce,0,1671.7
+2003,North Carolina,lettuce,0,778
+2003,North Dakota,lettuce,0,75.5
+2003,Ohio,lettuce,11,490
+2003,Oklahoma,lettuce,2,76
+2003,Oregon,lettuce,11,2782.4
+2003,Pennsylvania,lettuce,7,636
+2003,Rhode Island,lettuce,1.3,43.9
+2003,South Carolina,lettuce,0,22
+2003,South Dakota,lettuce,0,54.8
+2003,Tennessee,lettuce,0,64
+2003,Texas,lettuce,4.47,290.42
+2003,Utah,lettuce,0,107.75
+2003,Vermont,lettuce,0,818
+2003,Virginia,lettuce,0,597.5
+2003,Washington,lettuce,37,9555
+2003,West Virginia,lettuce,0,42
+2003,Wisconsin,lettuce,1,1237.43
+2003,Wyoming,lettuce,0,2
+2004,Alabama,lettuce,0,4
+2004,Alaska,lettuce,0,16
+2004,Arizona,lettuce,0,2156.008
+2004,Arkansas,lettuce,0,32
+2004,California,lettuce,12176.3,48915.86
+2004,Colorado,lettuce,332.27,1555.15
+2004,Connecticut,lettuce,3.33,145.22
+2004,Delaware,lettuce,0,6
+2004,Florida,lettuce,290,2379.5
+2004,Georgia,lettuce,0,495.427
+2004,Hawaii,lettuce,56.25,345.8475
+2004,Idaho,lettuce,1.65,266.38
+2004,Illinois,lettuce,1,119.59
+2004,Indiana,lettuce,0,89.05
+2004,Iowa,lettuce,0,204.7
+2004,Kansas,lettuce,0,76.3
+2004,Kentucky,lettuce,0,63.5
+2004,Louisiana,lettuce,0,1
+2004,Maine,lettuce,7,294.27
+2004,Maryland,lettuce,0.009,373.139
+2004,Massachusetts,lettuce,23.37,463.94
+2004,Michigan,lettuce,0,230.54
+2004,Minnesota,lettuce,507,1609.86
+2004,Mississippi,lettuce,0,0
+2004,Missouri,lettuce,0,58.5
+2004,Montana,lettuce,3,176
+2004,Nebraska,lettuce,8,67.25
+2004,Nevada,lettuce,0,14
+2004,New Hampshire,lettuce,0,178.9
+2004,New Jersey,lettuce,0,166.97
+2004,New Mexico,lettuce,0,527
+2004,New York,lettuce,0,4483.0464
+2004,North Carolina,lettuce,0,457.175
+2004,North Dakota,lettuce,0,111
+2004,Ohio,lettuce,0,601.3
+2004,Oklahoma,lettuce,0,163
+2004,Oregon,lettuce,0,2306.2
+2004,Pennsylvania,lettuce,45.8,777.95
+2004,Rhode Island,lettuce,2.5,33
+2004,South Carolina,lettuce,0,32
+2004,South Dakota,lettuce,0,5.05
+2004,Tennessee,lettuce,0,42
+2004,Texas,lettuce,0,817
+2004,Utah,lettuce,0,193.9
+2004,Vermont,lettuce,0,824
+2004,Virginia,lettuce,0,213.5
+2004,Washington,lettuce,0,6405.25
+2004,West Virginia,lettuce,0,63
+2004,Wisconsin,lettuce,0,960.427
+2004,Wyoming,lettuce,0,1
+2005,Alabama,lettuce,0,4
+2005,Alaska,lettuce,0,19
+2005,Arizona,lettuce,0,3638.94
+2005,Arkansas,lettuce,0,35.6
+2005,California,lettuce,11389,58327.37
+2005,Colorado,lettuce,246.05,1956.78
+2005,Connecticut,lettuce,4.46,168.31
+2005,Delaware,lettuce,0,1
+2005,Florida,lettuce,124,2139.5
+2005,Georgia,lettuce,0,605.837
+2005,Hawaii,lettuce,68.65,304.7375
+2005,Idaho,lettuce,0.75,148.78
+2005,Illinois,lettuce,0,357.25
+2005,Indiana,lettuce,0,41.05
+2005,Iowa,lettuce,0,166.7
+2005,Kansas,lettuce,0,26.75
+2005,Kentucky,lettuce,0,24.5
+2005,Louisiana,lettuce,0,11
+2005,Maine,lettuce,7.02,293.71
+2005,Maryland,lettuce,9e-4,360.7509
+2005,Massachusetts,lettuce,15.46,498.97
+2005,Michigan,lettuce,0,98.5
+2005,Minnesota,lettuce,0,749.73
+2005,Mississippi,lettuce,0.5,7.75
+2005,Missouri,lettuce,0,39
+2005,Montana,lettuce,3,183
+2005,Nebraska,lettuce,2,53
+2005,Nevada,lettuce,0,14
+2005,New Hampshire,lettuce,0,216.4
+2005,New Jersey,lettuce,0,236.645
+2005,New Mexico,lettuce,0,643
+2005,New York,lettuce,0,2952.45
+2005,North Carolina,lettuce,58,640.445
+2005,North Dakota,lettuce,0,65.15
+2005,Ohio,lettuce,0,581.2
+2005,Oklahoma,lettuce,0,180
+2005,Oregon,lettuce,0,3737
+2005,Pennsylvania,lettuce,64.3,868.8
+2005,Rhode Island,lettuce,2.5,40.5
+2005,South Carolina,lettuce,0,52.8
+2005,South Dakota,lettuce,0,29.25
+2005,Tennessee,lettuce,0,43
+2005,Texas,lettuce,0,624.5
+2005,Utah,lettuce,0,193.9
+2005,Vermont,lettuce,0,963
+2005,Virginia,lettuce,0,4859.4
+2005,Washington,lettuce,0,10331
+2005,West Virginia,lettuce,0,63
+2005,Wisconsin,lettuce,0,927.89
+2005,Wyoming,lettuce,0,0
+2006,Alabama,lettuce,0,4
+2006,Alaska,lettuce,0,0
+2006,Arizona,lettuce,28,3217
+2006,Arkansas,lettuce,0,10
+2006,California,lettuce,13194.31,61703.649999999994
+2006,Colorado,lettuce,852.22,1938.51
+2006,Connecticut,lettuce,2,188.17000000000002
+2006,Delaware,lettuce,0,2
+2006,Florida,lettuce,93.5,3182.5
+2006,Georgia,lettuce,0,760
+2006,Hawaii,lettuce,17.15,213.51999999999998
+2006,Idaho,lettuce,1,149.5
+2006,Illinois,lettuce,0,1338.86
+2006,Indiana,lettuce,0,173.35
+2006,Iowa,lettuce,2,132.95
+2006,Kansas,lettuce,0,22.98
+2006,Kentucky,lettuce,0,33.5
+2006,Louisiana,lettuce,0,12
+2006,Maine,lettuce,2,722
+2006,Maryland,lettuce,0,211.27
+2006,Massachusetts,lettuce,16.9,590.9
+2006,Michigan,lettuce,46.5,276.14
+2006,Minnesota,lettuce,9.7,1199.25
+2006,Mississippi,lettuce,0.5,3
+2006,Missouri,lettuce,0,48.8
+2006,Montana,lettuce,3,179.25
+2006,Nebraska,lettuce,3,1402
+2006,Nevada,lettuce,0,33
+2006,New Hampshire,lettuce,0,197.75
+2006,New Jersey,lettuce,20,684
+2006,New Mexico,lettuce,0,305
+2006,New York,lettuce,0,1814.44
+2006,North Carolina,lettuce,0,902
+2006,North Dakota,lettuce,0,134
+2006,Ohio,lettuce,0,569.35
+2006,Oklahoma,lettuce,0,215
+2006,Oregon,lettuce,143,4373
+2006,Pennsylvania,lettuce,33,826.13
+2006,Rhode Island,lettuce,3.9,75.8
+2006,South Carolina,lettuce,0,0
+2006,South Dakota,lettuce,5.25,79.56
+2006,Tennessee,lettuce,0,42
+2006,Texas,lettuce,72.6,2291.23
+2006,Utah,lettuce,0,0
+2006,Vermont,lettuce,0,936
+2006,Virginia,lettuce,0,322
+2006,Washington,lettuce,89.01,14274.08
+2006,West Virginia,lettuce,0,63
+2006,Wisconsin,lettuce,34.64,781.4300000000001
+2006,Wyoming,lettuce,0,0.5
+2007,Alabama,lettuce,0,9
+2007,Alaska,lettuce,0,0
+2007,Arizona,lettuce,2338,3436.35
+2007,Arkansas,lettuce,0,33.25
+2007,California,lettuce,21823.8,78470.81
+2007,Colorado,lettuce,852,1977
+2007,Connecticut,lettuce,2,199.17000000000002
+2007,Delaware,lettuce,0,39
+2007,Florida,lettuce,5,3308.5
+2007,Georgia,lettuce,0,2113
+2007,Hawaii,lettuce,6.9,133.39
+2007,Idaho,lettuce,0.75,32.75
+2007,Illinois,lettuce,17,381.6
+2007,Indiana,lettuce,0,124.19
+2007,Iowa,lettuce,0,195.49
+2007,Kansas,lettuce,0,82.55
+2007,Kentucky,lettuce,0,0
+2007,Louisiana,lettuce,0,11
+2007,Maine,lettuce,2,633
+2007,Maryland,lettuce,0,268.8
+2007,Massachusetts,lettuce,19.1,629
+2007,Michigan,lettuce,10.22,1416.47
+2007,Minnesota,lettuce,2,888.49
+2007,Mississippi,lettuce,1,12
+2007,Missouri,lettuce,0.5,276.25
+2007,Montana,lettuce,3,85.45
+2007,Nebraska,lettuce,0,1195.5
+2007,Nevada,lettuce,0,661.98
+2007,New Hampshire,lettuce,0,267
+2007,New Jersey,lettuce,0,413.5
+2007,New Mexico,lettuce,0,954
+2007,New York,lettuce,0,2237.7
+2007,North Carolina,lettuce,0,659.73
+2007,North Dakota,lettuce,0,102.5
+2007,Ohio,lettuce,0,1226.55
+2007,Oklahoma,lettuce,0,236
+2007,Oregon,lettuce,154,5272
+2007,Pennsylvania,lettuce,0,1048.17
+2007,Rhode Island,lettuce,10.1,117.5
+2007,South Carolina,lettuce,0,193
+2007,South Dakota,lettuce,0,110.42
+2007,Tennessee,lettuce,0,208
+2007,Texas,lettuce,4.32,1935.8400000000001
+2007,Utah,lettuce,0,211
+2007,Vermont,lettuce,0,903
+2007,Virginia,lettuce,0,367.65
+2007,Washington,lettuce,69,18176
+2007,West Virginia,lettuce,0,0
+2007,Wisconsin,lettuce,0,588.73
+2007,Wyoming,lettuce,0,0
+2008,Alabama,lettuce,0,11
+2008,Alaska,lettuce,0,23.7
+2008,Arizona,lettuce,5408.12,11287.34
+2008,Arkansas,lettuce,0,108
+2008,California,lettuce,21473.55,91914.95999999999
+2008,Colorado,lettuce,345,3554.05
+2008,Connecticut,lettuce,2,157.47
+2008,Delaware,lettuce,0,39
+2008,Florida,lettuce,5,3620
+2008,Georgia,lettuce,0,1875
+2008,Hawaii,lettuce,20.11,230.70999999999998
+2008,Idaho,lettuce,0.7,47.95
+2008,Illinois,lettuce,18,225.39999999999998
+2008,Indiana,lettuce,0,111.22
+2008,Iowa,lettuce,0,229.32999999999998
+2008,Kansas,lettuce,0,27.1
+2008,Kentucky,lettuce,0,60
+2008,Louisiana,lettuce,0.01,12.03
+2008,Maine,lettuce,2,757
+2008,Maryland,lettuce,7,249.65
+2008,Massachusetts,lettuce,19.1,629.69
+2008,Michigan,lettuce,0.22,1403.89
+2008,Minnesota,lettuce,11.75,1010.5600000000001
+2008,Mississippi,lettuce,1,12
+2008,Missouri,lettuce,0,159.26999999999998
+2008,Montana,lettuce,3,96.85
+2008,Nebraska,lettuce,0,757.2
+2008,Nevada,lettuce,0,31
+2008,New Hampshire,lettuce,0,360.2
+2008,New Jersey,lettuce,0,374.6
+2008,New Mexico,lettuce,1,491
+2008,New York,lettuce,0,3469.17
+2008,North Carolina,lettuce,0,2372.94
+2008,North Dakota,lettuce,0,232.60000000000002
+2008,Ohio,lettuce,0,454.34000000000003
+2008,Oklahoma,lettuce,0,236
+2008,Oregon,lettuce,323,5789
+2008,Pennsylvania,lettuce,0,1552.42
+2008,Rhode Island,lettuce,9.5,120.39999999999999
+2008,South Carolina,lettuce,0,122
+2008,South Dakota,lettuce,0,6.12
+2008,Tennessee,lettuce,0,208
+2008,Texas,lettuce,92.6,1901.46
+2008,Utah,lettuce,0,211
+2008,Vermont,lettuce,0,914
+2008,Virginia,lettuce,0,397.1
+2008,Washington,lettuce,35.5,18294.449999999997
+2008,West Virginia,lettuce,0,11.98
+2008,Wisconsin,lettuce,18,454.39
+2008,Wyoming,lettuce,0,0.1
+2010,Alabama,lettuce,0,273.279998779297
+2010,Alaska,lettuce,0,0
+2010,Arizona,lettuce,5385.1298828125,7403.1798450946835
+2010,Arkansas,lettuce,1,26.5
+2010,California,lettuce,25307.9834594727,100336.47404678105
+2010,Colorado,lettuce,308.05999994278,3249.8399983315967
+2010,Connecticut,lettuce,1,205.86999682903286
+2010,Delaware,lettuce,0,50.0699996948242
+2010,Florida,lettuce,0,4679.769927978521
+2010,Georgia,lettuce,0,2132.900019526482
+2010,Hawaii,lettuce,35.1100006103516,308.3200020742419
+2010,Idaho,lettuce,0,171.33000183105472
+2010,Illinois,lettuce,1.84000000357628,338.295001085326
+2010,Indiana,lettuce,0.430000007152557,247.6200002646449
+2010,Iowa,lettuce,2,351.2300015926363
+2010,Kansas,lettuce,0,23.84999990463257
+2010,Kentucky,lettuce,0,87.8700008392334
+2010,Louisiana,lettuce,1.75,24
+2010,Maine,lettuce,13,537.079999923706
+2010,Maryland,lettuce,0.75,731.8899965286259
+2010,Massachusetts,lettuce,168.779998779297,1434.5200256347657
+2010,Michigan,lettuce,5.46999998390675,450.7440017741922
+2010,Minnesota,lettuce,11.5800003111362,698.4200153326988
+2010,Mississippi,lettuce,1,14
+2010,Missouri,lettuce,0,85.289999961853
+2010,Montana,lettuce,0,90.25999999046326
+2010,Nebraska,lettuce,0.0199999995529652,279.0599999897924
+2010,Nevada,lettuce,1100,3421.499999523163
+2010,New Hampshire,lettuce,10,300
+2010,New Jersey,lettuce,0,403.710000038147
+2010,New Mexico,lettuce,0,321.7700004577646
+2010,New York,lettuce,117.039999999106,2873.309998568599
+2010,North Carolina,lettuce,24.5799999237061,2366.800007058677
+2010,North Dakota,lettuce,22.6000003814697,529.3099999427795
+2010,Ohio,lettuce,0.150000005960464,421.43999409675644
+2010,Oklahoma,lettuce,5,285
+2010,Oregon,lettuce,415.10000002384197,4548.080004908152
+2010,Pennsylvania,lettuce,3.84999990463257,1439.5466614723205
+2010,Rhode Island,lettuce,3.22000002861023,38.5399993133545
+2010,South Carolina,lettuce,0,240
+2010,South Dakota,lettuce,0,122.25
+2010,Tennessee,lettuce,0,2462.35009765625
+2010,Texas,lettuce,56.656699905172,502.89700342513623
+2010,Utah,lettuce,0,192
+2010,Vermont,lettuce,0,1143
+2010,Virginia,lettuce,0.0199999995529652,1089.270028382763
+2010,Washington,lettuce,74.6999969482422,3372.700022913511
+2010,West Virginia,lettuce,0,37
+2010,Wisconsin,lettuce,3.86000004410744,3020.5499489313343
+2010,Wyoming,lettuce,0,0
+2011,Alabama,lettuce,0,0
+2011,Alaska,lettuce,0,0
+2011,Arizona,lettuce,5660.03002929688,9021.270142555246
+2011,Arkansas,lettuce,5,133
+2011,California,lettuce,26605.8618164063,88724.23900026089
+2011,Colorado,lettuce,316.769999999553,3264.310002472254
+2011,Connecticut,lettuce,1.20000004768372,244.30000692606006
+2011,Delaware,lettuce,0,58.0099983215332
+2011,Florida,lettuce,0,4591.969879150391
+2011,Georgia,lettuce,23.3999996185303,2229.8499571979073
+2011,Hawaii,lettuce,219.089996337891,1014.5299713611614
+2011,Idaho,lettuce,4,232.1000022888186
+2011,Illinois,lettuce,1.75,412.46499884128565
+2011,Indiana,lettuce,0,147.4600008726125
+2011,Iowa,lettuce,0,456.5799964666371
+2011,Kansas,lettuce,0,32.5
+2011,Kentucky,lettuce,0,62.5
+2011,Louisiana,lettuce,0,30.25
+2011,Maine,lettuce,13,522.079999923706
+2011,Maryland,lettuce,3.0799999833107,744.2350042983892
+2011,Massachusetts,lettuce,170,1332.4999876022341
+2011,Michigan,lettuce,0.0599999986588955,645.1590073443948
+2011,Minnesota,lettuce,1.30000001192093,1536.3199743777514
+2011,Mississippi,lettuce,1.5,17.5
+2011,Missouri,lettuce,0,241.0599975585941
+2011,Montana,lettuce,1,482.0499999523163
+2011,Nebraska,lettuce,0,195.24999856948853
+2011,Nevada,lettuce,1150,3561.499999523163
+2011,New Hampshire,lettuce,10,329
+2011,New Jersey,lettuce,0,512.710000038147
+2011,New Mexico,lettuce,0,174.0599975585938
+2011,New York,lettuce,132.20000000298,2322.079997999598
+2011,North Carolina,lettuce,275.820007324219,4471.449125289924
+2011,North Dakota,lettuce,0,206.27999687194801
+2011,Ohio,lettuce,0.209999993443489,602.2999956160783
+2011,Oklahoma,lettuce,5,259
+2011,Oregon,lettuce,267,4576.765013562514
+2011,Pennsylvania,lettuce,2,1646.589994430542
+2011,Rhode Island,lettuce,1.73000001907349,60.799999952316284
+2011,South Carolina,lettuce,0,240
+2011,South Dakota,lettuce,0,102.40000000596046
+2011,Tennessee,lettuce,0,732.7999725341801
+2011,Texas,lettuce,8.39669990539551,1334.5370204448745
+2011,Utah,lettuce,0,24
+2011,Vermont,lettuce,0,1053
+2011,Virginia,lettuce,0,1195.2200154811105
+2011,Washington,lettuce,76.6999969482422,3916.700018025931
+2011,West Virginia,lettuce,0,65.5
+2011,Wisconsin,lettuce,11.0100002288818,3633.039978742595
+2011,Wyoming,lettuce,0,3.4300000667572
+2002,Alabama,carrots,0,129
+2002,Alaska,carrots,0,0
+2002,Arizona,carrots,200,1645
+2002,Arkansas,carrots,0,4975
+2002,California,carrots,7977,38355
+2002,Colorado,carrots,124,2075
+2002,Connecticut,carrots,0,0
+2002,Delaware,carrots,0,0
+2002,Florida,carrots,0,927
+2002,Georgia,carrots,0,422
+2002,Hawaii,carrots,0,111
+2002,Idaho,carrots,3.2,91.35
+2002,Illinois,carrots,0,316
+2002,Indiana,carrots,0,416
+2002,Iowa,carrots,0,68
+2002,Kansas,carrots,0,102
+2002,Kentucky,carrots,0,0
+2002,Louisiana,carrots,0,0
+2002,Maine,carrots,0,0
+2002,Maryland,carrots,0,500
+2002,Massachusetts,carrots,0,0
+2002,Michigan,carrots,0,383
+2002,Minnesota,carrots,1,1076
+2002,Mississippi,carrots,0,0
+2002,Missouri,carrots,0,64
+2002,Montana,carrots,0,22
+2002,Nebraska,carrots,0,324
+2002,Nevada,carrots,0,16
+2002,New Hampshire,carrots,0,227.25
+2002,New Jersey,carrots,0,301
+2002,New Mexico,carrots,0,1040
+2002,New York,carrots,0,1621
+2002,North Carolina,carrots,0,607
+2002,North Dakota,carrots,0,25
+2002,Ohio,carrots,2,344
+2002,Oklahoma,carrots,0,40
+2002,Oregon,carrots,0,2648
+2002,Pennsylvania,carrots,0,425
+2002,Rhode Island,carrots,6.8,43.9
+2002,South Carolina,carrots,0,0
+2002,South Dakota,carrots,0,63
+2002,Tennessee,carrots,0,64
+2002,Texas,carrots,4,246
+2002,Utah,carrots,0,146
+2002,Vermont,carrots,0,746
+2002,Virginia,carrots,0,915
+2002,Washington,carrots,326,6802
+2002,West Virginia,carrots,0,24
+2002,Wisconsin,carrots,40,1541
+2002,Wyoming,carrots,0,0
+2003,Alabama,carrots,0,130
+2003,Alaska,carrots,0,215
+2003,Arizona,carrots,200,1379.5
+2003,Arkansas,carrots,0,20
+2003,California,carrots,7415,48446.625
+2003,Colorado,carrots,130,1619
+2003,Connecticut,carrots,0,0
+2003,Delaware,carrots,0,10
+2003,Florida,carrots,0,847
+2003,Georgia,carrots,0,674
+2003,Hawaii,carrots,0,141
+2003,Idaho,carrots,0,100
+2003,Illinois,carrots,0,295
+2003,Indiana,carrots,0,417
+2003,Iowa,carrots,2,362.68
+2003,Kansas,carrots,0,101
+2003,Kentucky,carrots,0,16
+2003,Louisiana,carrots,0,95
+2003,Maine,carrots,0,0
+2003,Maryland,carrots,0,500
+2003,Massachusetts,carrots,0,0
+2003,Michigan,carrots,0,1269.2
+2003,Minnesota,carrots,0,1148.96
+2003,Mississippi,carrots,0,0
+2003,Missouri,carrots,0,6
+2003,Montana,carrots,0,109
+2003,Nebraska,carrots,0,97
+2003,Nevada,carrots,0,33.25
+2003,New Hampshire,carrots,0,279
+2003,New Jersey,carrots,0,199
+2003,New Mexico,carrots,0,1040
+2003,New York,carrots,0,1671.7
+2003,North Carolina,carrots,0,778
+2003,North Dakota,carrots,0,75.5
+2003,Ohio,carrots,2,490
+2003,Oklahoma,carrots,20,76
+2003,Oregon,carrots,0,2782.4
+2003,Pennsylvania,carrots,0,636
+2003,Rhode Island,carrots,0,43.9
+2003,South Carolina,carrots,0,22
+2003,South Dakota,carrots,0,54.8
+2003,Tennessee,carrots,0,64
+2003,Texas,carrots,2.76,290.42
+2003,Utah,carrots,0,107.75
+2003,Vermont,carrots,0,818
+2003,Virginia,carrots,0,597.5
+2003,Washington,carrots,161,9555
+2003,West Virginia,carrots,0,42
+2003,Wisconsin,carrots,10,1237.43
+2003,Wyoming,carrots,0,2
+2004,Alabama,carrots,0,4
+2004,Alaska,carrots,2.5,16
+2004,Arizona,carrots,200,2156.008
+2004,Arkansas,carrots,0,32
+2004,California,carrots,5591,48915.86
+2004,Colorado,carrots,121.77,1555.15
+2004,Connecticut,carrots,1.17,145.22
+2004,Delaware,carrots,0,6
+2004,Florida,carrots,0,2379.5
+2004,Georgia,carrots,0,495.427
+2004,Hawaii,carrots,0.5625,345.8475
+2004,Idaho,carrots,2.5,266.38
+2004,Illinois,carrots,1,119.59
+2004,Indiana,carrots,0,89.05
+2004,Iowa,carrots,0,204.7
+2004,Kansas,carrots,0,76.3
+2004,Kentucky,carrots,0,63.5
+2004,Louisiana,carrots,0,1
+2004,Maine,carrots,3.05,294.27
+2004,Maryland,carrots,0,373.139
+2004,Massachusetts,carrots,1.27,463.94
+2004,Michigan,carrots,0,230.54
+2004,Minnesota,carrots,0.5,1609.86
+2004,Mississippi,carrots,0,0
+2004,Missouri,carrots,0,58.5
+2004,Montana,carrots,0,176
+2004,Nebraska,carrots,0,67.25
+2004,Nevada,carrots,0,14
+2004,New Hampshire,carrots,0,178.9
+2004,New Jersey,carrots,0,166.97
+2004,New Mexico,carrots,0,527
+2004,New York,carrots,0,4483.0464
+2004,North Carolina,carrots,0,457.175
+2004,North Dakota,carrots,0,111
+2004,Ohio,carrots,0,601.3
+2004,Oklahoma,carrots,0,163
+2004,Oregon,carrots,4.5,2306.2
+2004,Pennsylvania,carrots,0.25,777.95
+2004,Rhode Island,carrots,0,33
+2004,South Carolina,carrots,0,32
+2004,South Dakota,carrots,0.5,5.05
+2004,Tennessee,carrots,0,42
+2004,Texas,carrots,0,817
+2004,Utah,carrots,0,193.9
+2004,Vermont,carrots,0,824
+2004,Virginia,carrots,0,213.5
+2004,Washington,carrots,139,6405.25
+2004,West Virginia,carrots,0,63
+2004,Wisconsin,carrots,0,960.427
+2004,Wyoming,carrots,0,1
+2005,Alabama,carrots,0,4
+2005,Alaska,carrots,2.5,19
+2005,Arizona,carrots,140,3638.94
+2005,Arkansas,carrots,0,35.6
+2005,California,carrots,5409,58327.37
+2005,Colorado,carrots,30.55,1956.78
+2005,Connecticut,carrots,1.47,168.31
+2005,Delaware,carrots,0,1
+2005,Florida,carrots,0,2139.5
+2005,Georgia,carrots,0,605.837
+2005,Hawaii,carrots,0.5625,304.7375
+2005,Idaho,carrots,4,148.78
+2005,Illinois,carrots,0,357.25
+2005,Indiana,carrots,0,41.05
+2005,Iowa,carrots,0,166.7
+2005,Kansas,carrots,0,26.75
+2005,Kentucky,carrots,0,24.5
+2005,Louisiana,carrots,0,11
+2005,Maine,carrots,3.02,293.71
+2005,Maryland,carrots,0,360.7509
+2005,Massachusetts,carrots,1.27,498.97
+2005,Michigan,carrots,0,98.5
+2005,Minnesota,carrots,0,749.73
+2005,Mississippi,carrots,0.25,7.75
+2005,Missouri,carrots,0,39
+2005,Montana,carrots,0,183
+2005,Nebraska,carrots,0,53
+2005,Nevada,carrots,0,14
+2005,New Hampshire,carrots,0,216.4
+2005,New Jersey,carrots,0,236.645
+2005,New Mexico,carrots,0,643
+2005,New York,carrots,0,2952.45
+2005,North Carolina,carrots,0,640.445
+2005,North Dakota,carrots,0,65.15
+2005,Ohio,carrots,0,581.2
+2005,Oklahoma,carrots,0,180
+2005,Oregon,carrots,3,3737
+2005,Pennsylvania,carrots,0,868.8
+2005,Rhode Island,carrots,0,40.5
+2005,South Carolina,carrots,0,52.8
+2005,South Dakota,carrots,0,29.25
+2005,Tennessee,carrots,0,43
+2005,Texas,carrots,0,624.5
+2005,Utah,carrots,0,193.9
+2005,Vermont,carrots,0,963
+2005,Virginia,carrots,0,4859.4
+2005,Washington,carrots,138,10331
+2005,West Virginia,carrots,0,63
+2005,Wisconsin,carrots,3,927.89
+2005,Wyoming,carrots,0,0
+2006,Alabama,carrots,0,4
+2006,Alaska,carrots,0,0
+2006,Arizona,carrots,140,3217
+2006,Arkansas,carrots,0,10
+2006,California,carrots,7312.11,61703.649999999994
+2006,Colorado,carrots,152.85,1938.51
+2006,Connecticut,carrots,0.17,188.17000000000002
+2006,Delaware,carrots,0,2
+2006,Florida,carrots,0,3182.5
+2006,Georgia,carrots,0,760
+2006,Hawaii,carrots,0,213.51999999999998
+2006,Idaho,carrots,4,149.5
+2006,Illinois,carrots,0,1338.86
+2006,Indiana,carrots,0,173.35
+2006,Iowa,carrots,0,132.95
+2006,Kansas,carrots,0,22.98
+2006,Kentucky,carrots,0,33.5
+2006,Louisiana,carrots,0,12
+2006,Maine,carrots,2,722
+2006,Maryland,carrots,0,211.27
+2006,Massachusetts,carrots,4,590.9
+2006,Michigan,carrots,0.1,276.14
+2006,Minnesota,carrots,0.72,1199.25
+2006,Mississippi,carrots,0.5,3
+2006,Missouri,carrots,0,48.8
+2006,Montana,carrots,2,179.25
+2006,Nebraska,carrots,0,1402
+2006,Nevada,carrots,0,33
+2006,New Hampshire,carrots,0,197.75
+2006,New Jersey,carrots,3,684
+2006,New Mexico,carrots,0,305
+2006,New York,carrots,0,1814.44
+2006,North Carolina,carrots,0,902
+2006,North Dakota,carrots,0,134
+2006,Ohio,carrots,0,569.35
+2006,Oklahoma,carrots,0,215
+2006,Oregon,carrots,12,4373
+2006,Pennsylvania,carrots,0,826.13
+2006,Rhode Island,carrots,0,75.8
+2006,South Carolina,carrots,0,0
+2006,South Dakota,carrots,0.25,79.56
+2006,Tennessee,carrots,0,42
+2006,Texas,carrots,47.58,2291.23
+2006,Utah,carrots,0,0
+2006,Vermont,carrots,0,936
+2006,Virginia,carrots,0,322
+2006,Washington,carrots,300,14274.08
+2006,West Virginia,carrots,0,63
+2006,Wisconsin,carrots,3,781.4300000000001
+2006,Wyoming,carrots,0,0.5
+2007,Alabama,carrots,0,9
+2007,Alaska,carrots,0,0
+2007,Arizona,carrots,235,3436.35
+2007,Arkansas,carrots,0,33.25
+2007,California,carrots,11634.2,78470.81
+2007,Colorado,carrots,153,1977
+2007,Connecticut,carrots,0.17,199.17000000000002
+2007,Delaware,carrots,0,39
+2007,Florida,carrots,0,3308.5
+2007,Georgia,carrots,0,2113
+2007,Hawaii,carrots,0,133.39
+2007,Idaho,carrots,3,32.75
+2007,Illinois,carrots,0,381.6
+2007,Indiana,carrots,0,124.19
+2007,Iowa,carrots,9,195.49
+2007,Kansas,carrots,0,82.55
+2007,Kentucky,carrots,0,0
+2007,Louisiana,carrots,0,11
+2007,Maine,carrots,2,633
+2007,Maryland,carrots,0,268.8
+2007,Massachusetts,carrots,4,629
+2007,Michigan,carrots,1,1416.47
+2007,Minnesota,carrots,4,888.49
+2007,Mississippi,carrots,1,12
+2007,Missouri,carrots,0.1,276.25
+2007,Montana,carrots,0,85.45
+2007,Nebraska,carrots,0,1195.5
+2007,Nevada,carrots,0,661.98
+2007,New Hampshire,carrots,0,267
+2007,New Jersey,carrots,0,413.5
+2007,New Mexico,carrots,0,954
+2007,New York,carrots,0,2237.7
+2007,North Carolina,carrots,0,659.73
+2007,North Dakota,carrots,0,102.5
+2007,Ohio,carrots,0,1226.55
+2007,Oklahoma,carrots,0,236
+2007,Oregon,carrots,32,5272
+2007,Pennsylvania,carrots,0,1048.17
+2007,Rhode Island,carrots,0.9,117.5
+2007,South Carolina,carrots,0,193
+2007,South Dakota,carrots,0,110.42
+2007,Tennessee,carrots,0,208
+2007,Texas,carrots,44.61,1935.8400000000001
+2007,Utah,carrots,0,211
+2007,Vermont,carrots,0,903
+2007,Virginia,carrots,0,367.65
+2007,Washington,carrots,399,18176
+2007,West Virginia,carrots,0,0
+2007,Wisconsin,carrots,15.08,588.73
+2007,Wyoming,carrots,0,0
+2008,Alabama,carrots,0,11
+2008,Alaska,carrots,2.95,23.7
+2008,Arizona,carrots,305,11287.34
+2008,Arkansas,carrots,0,108
+2008,California,carrots,11496.57,91914.95999999999
+2008,Colorado,carrots,0,3554.05
+2008,Connecticut,carrots,0.17,157.47
+2008,Delaware,carrots,0,39
+2008,Florida,carrots,0,3620
+2008,Georgia,carrots,0,1875
+2008,Hawaii,carrots,0.12,230.70999999999998
+2008,Idaho,carrots,0.2,47.95
+2008,Illinois,carrots,0,225.39999999999998
+2008,Indiana,carrots,0,111.22
+2008,Iowa,carrots,0,229.32999999999998
+2008,Kansas,carrots,0,27.1
+2008,Kentucky,carrots,0,60
+2008,Louisiana,carrots,0,12.03
+2008,Maine,carrots,3,757
+2008,Maryland,carrots,1,249.65
+2008,Massachusetts,carrots,4,629.69
+2008,Michigan,carrots,5,1403.89
+2008,Minnesota,carrots,10.76,1010.5600000000001
+2008,Mississippi,carrots,1,12
+2008,Missouri,carrots,0,159.26999999999998
+2008,Montana,carrots,0,96.85
+2008,Nebraska,carrots,0,757.2
+2008,Nevada,carrots,0,31
+2008,New Hampshire,carrots,0,360.2
+2008,New Jersey,carrots,0,374.6
+2008,New Mexico,carrots,0,491
+2008,New York,carrots,0,3469.17
+2008,North Carolina,carrots,0,2372.94
+2008,North Dakota,carrots,1.6,232.60000000000002
+2008,Ohio,carrots,0,454.34000000000003
+2008,Oklahoma,carrots,0,236
+2008,Oregon,carrots,13,5789
+2008,Pennsylvania,carrots,0,1552.42
+2008,Rhode Island,carrots,0.8,120.39999999999999
+2008,South Carolina,carrots,0,122
+2008,South Dakota,carrots,0,6.12
+2008,Tennessee,carrots,0,208
+2008,Texas,carrots,12.8,1901.46
+2008,Utah,carrots,0,211
+2008,Vermont,carrots,0,914
+2008,Virginia,carrots,0,397.1
+2008,Washington,carrots,552,18294.449999999997
+2008,West Virginia,carrots,0,11.98
+2008,Wisconsin,carrots,5,454.39
+2008,Wyoming,carrots,0,0.1
+2010,Alabama,carrots,0,273.279998779297
+2010,Alaska,carrots,0,0
+2010,Arizona,carrots,78,7403.1798450946835
+2010,Arkansas,carrots,1,26.5
+2010,California,carrots,23101.39,100336.47404678105
+2010,Colorado,carrots,0.03,3249.8399983315967
+2010,Connecticut,carrots,0.17,205.86999682903286
+2010,Delaware,carrots,0,50.0699996948242
+2010,Florida,carrots,0,4679.769927978521
+2010,Georgia,carrots,0,2132.900019526482
+2010,Hawaii,carrots,3.12,308.3200020742419
+2010,Idaho,carrots,5,171.33000183105472
+2010,Illinois,carrots,0.06,338.295001085326
+2010,Indiana,carrots,0.21,247.6200002646449
+2010,Iowa,carrots,0.9,351.2300015926363
+2010,Kansas,carrots,0,23.84999990463257
+2010,Kentucky,carrots,0,87.8700008392334
+2010,Louisiana,carrots,0,24
+2010,Maine,carrots,8,537.079999923706
+2010,Maryland,carrots,0.75,731.8899965286259
+2010,Massachusetts,carrots,10.4,1434.5200256347657
+2010,Michigan,carrots,0.17,450.7440017741922
+2010,Minnesota,carrots,2.31,698.4200153326988
+2010,Mississippi,carrots,1,14
+2010,Missouri,carrots,0,85.289999961853
+2010,Montana,carrots,0,90.25999999046326
+2010,Nebraska,carrots,0.02,279.0599999897924
+2010,Nevada,carrots,0,3421.499999523163
+2010,New Hampshire,carrots,0,300
+2010,New Jersey,carrots,0,403.710000038147
+2010,New Mexico,carrots,0,321.7700004577646
+2010,New York,carrots,80.02,2873.309998568599
+2010,North Carolina,carrots,0.35,2366.800007058677
+2010,North Dakota,carrots,0.75,529.3099999427795
+2010,Ohio,carrots,0,421.43999409675644
+2010,Oklahoma,carrots,2,285
+2010,Oregon,carrots,7,4548.080004908152
+2010,Pennsylvania,carrots,1.6,1439.5466614723205
+2010,Rhode Island,carrots,0.82,38.5399993133545
+2010,South Carolina,carrots,0,240
+2010,South Dakota,carrots,0,122.25
+2010,Tennessee,carrots,0,2462.35009765625
+2010,Texas,carrots,57.91,502.89700342513623
+2010,Utah,carrots,0,192
+2010,Vermont,carrots,0,1143
+2010,Virginia,carrots,0.01,1089.270028382763
+2010,Washington,carrots,275,3372.700022913511
+2010,West Virginia,carrots,0,37
+2010,Wisconsin,carrots,5.36,3020.5499489313343
+2010,Wyoming,carrots,0,0
+2011,Alabama,carrots,0,0
+2011,Alaska,carrots,0,0
+2011,Arizona,carrots,1,9021.270142555246
+2011,Arkansas,carrots,2,133
+2011,California,carrots,11382,88724.23900026089
+2011,Colorado,carrots,0,3264.310002472254
+2011,Connecticut,carrots,1,244.30000692606006
+2011,Delaware,carrots,0,58.0099983215332
+2011,Florida,carrots,0,4591.969879150391
+2011,Georgia,carrots,0,2229.8499571979073
+2011,Hawaii,carrots,37,1014.5299713611614
+2011,Idaho,carrots,43,232.1000022888186
+2011,Illinois,carrots,0,412.46499884128565
+2011,Indiana,carrots,0,147.4600008726125
+2011,Iowa,carrots,0,456.5799964666371
+2011,Kansas,carrots,0,32.5
+2011,Kentucky,carrots,0,62.5
+2011,Louisiana,carrots,0,30.25
+2011,Maine,carrots,8,522.079999923706
+2011,Maryland,carrots,2,744.2350042983892
+2011,Massachusetts,carrots,5,1332.4999876022341
+2011,Michigan,carrots,0,645.1590073443948
+2011,Minnesota,carrots,2,1536.3199743777514
+2011,Mississippi,carrots,1,17.5
+2011,Missouri,carrots,0,241.0599975585941
+2011,Montana,carrots,0,482.0499999523163
+2011,Nebraska,carrots,0,195.24999856948853
+2011,Nevada,carrots,0,3561.499999523163
+2011,New Hampshire,carrots,85,329
+2011,New Jersey,carrots,0,512.710000038147
+2011,New Mexico,carrots,0,174.0599975585938
+2011,New York,carrots,44,2322.079997999598
+2011,North Carolina,carrots,0,4471.449125289924
+2011,North Dakota,carrots,0,206.27999687194801
+2011,Ohio,carrots,0,602.2999956160783
+2011,Oklahoma,carrots,3,259
+2011,Oregon,carrots,12,4576.765013562514
+2011,Pennsylvania,carrots,1,1646.589994430542
+2011,Rhode Island,carrots,0,60.799999952316284
+2011,South Carolina,carrots,0,240
+2011,South Dakota,carrots,0,102.40000000596046
+2011,Tennessee,carrots,0,732.7999725341801
+2011,Texas,carrots,3,1334.5370204448745
+2011,Utah,carrots,0,24
+2011,Vermont,carrots,0,1053
+2011,Virginia,carrots,0,1195.2200154811105
+2011,Washington,carrots,431,3916.700018025931
+2011,West Virginia,carrots,0,65.5
+2011,Wisconsin,carrots,15,3633.039978742595
+2011,Wyoming,carrots,0,3.4300000667572
+2002,Alabama,mixed_less_than_5_acres,2,129
+2002,Alaska,mixed_less_than_5_acres,0,0
+2002,Arizona,mixed_less_than_5_acres,0,1645
+2002,Arkansas,mixed_less_than_5_acres,2,4975
+2002,California,mixed_less_than_5_acres,758,38355
+2002,Colorado,mixed_less_than_5_acres,0,2075
+2002,Connecticut,mixed_less_than_5_acres,0,0
+2002,Delaware,mixed_less_than_5_acres,0,0
+2002,Florida,mixed_less_than_5_acres,31,927
+2002,Georgia,mixed_less_than_5_acres,30,422
+2002,Hawaii,mixed_less_than_5_acres,0,111
+2002,Idaho,mixed_less_than_5_acres,19.7,91.35
+2002,Illinois,mixed_less_than_5_acres,15,316
+2002,Indiana,mixed_less_than_5_acres,19,416
+2002,Iowa,mixed_less_than_5_acres,16,68
+2002,Kansas,mixed_less_than_5_acres,9,102
+2002,Kentucky,mixed_less_than_5_acres,0,0
+2002,Louisiana,mixed_less_than_5_acres,0,0
+2002,Maine,mixed_less_than_5_acres,0,0
+2002,Maryland,mixed_less_than_5_acres,0,500
+2002,Massachusetts,mixed_less_than_5_acres,0,0
+2002,Michigan,mixed_less_than_5_acres,21,383
+2002,Minnesota,mixed_less_than_5_acres,48,1076
+2002,Mississippi,mixed_less_than_5_acres,0,0
+2002,Missouri,mixed_less_than_5_acres,1,64
+2002,Montana,mixed_less_than_5_acres,7,22
+2002,Nebraska,mixed_less_than_5_acres,0,324
+2002,Nevada,mixed_less_than_5_acres,8,16
+2002,New Hampshire,mixed_less_than_5_acres,40.25,227.25
+2002,New Jersey,mixed_less_than_5_acres,0,301
+2002,New Mexico,mixed_less_than_5_acres,0,1040
+2002,New York,mixed_less_than_5_acres,2,1621
+2002,North Carolina,mixed_less_than_5_acres,35,607
+2002,North Dakota,mixed_less_than_5_acres,0,25
+2002,Ohio,mixed_less_than_5_acres,188,344
+2002,Oklahoma,mixed_less_than_5_acres,20,40
+2002,Oregon,mixed_less_than_5_acres,74,2648
+2002,Pennsylvania,mixed_less_than_5_acres,84,425
+2002,Rhode Island,mixed_less_than_5_acres,35.1,43.9
+2002,South Carolina,mixed_less_than_5_acres,0,0
+2002,South Dakota,mixed_less_than_5_acres,0,63
+2002,Tennessee,mixed_less_than_5_acres,12,64
+2002,Texas,mixed_less_than_5_acres,0,246
+2002,Utah,mixed_less_than_5_acres,0,146
+2002,Vermont,mixed_less_than_5_acres,0,746
+2002,Virginia,mixed_less_than_5_acres,37,915
+2002,Washington,mixed_less_than_5_acres,0,6802
+2002,West Virginia,mixed_less_than_5_acres,0,24
+2002,Wisconsin,mixed_less_than_5_acres,411,1541
+2002,Wyoming,mixed_less_than_5_acres,0,0
+2003,Alabama,mixed_less_than_5_acres,130,130
+2003,Alaska,mixed_less_than_5_acres,0,215
+2003,Arizona,mixed_less_than_5_acres,0,1379.5
+2003,Arkansas,mixed_less_than_5_acres,2,20
+2003,California,mixed_less_than_5_acres,2020.5,48446.625
+2003,Colorado,mixed_less_than_5_acres,0,1619
+2003,Connecticut,mixed_less_than_5_acres,0,0
+2003,Delaware,mixed_less_than_5_acres,0,10
+2003,Florida,mixed_less_than_5_acres,37,847
+2003,Georgia,mixed_less_than_5_acres,19,674
+2003,Hawaii,mixed_less_than_5_acres,6,141
+2003,Idaho,mixed_less_than_5_acres,19,100
+2003,Illinois,mixed_less_than_5_acres,9,295
+2003,Indiana,mixed_less_than_5_acres,29.5,417
+2003,Iowa,mixed_less_than_5_acres,65.01,362.68
+2003,Kansas,mixed_less_than_5_acres,8,101
+2003,Kentucky,mixed_less_than_5_acres,0,16
+2003,Louisiana,mixed_less_than_5_acres,0,95
+2003,Maine,mixed_less_than_5_acres,0,0
+2003,Maryland,mixed_less_than_5_acres,0,500
+2003,Massachusetts,mixed_less_than_5_acres,0,0
+2003,Michigan,mixed_less_than_5_acres,648.4,1269.2
+2003,Minnesota,mixed_less_than_5_acres,11,1148.96
+2003,Mississippi,mixed_less_than_5_acres,0,0
+2003,Missouri,mixed_less_than_5_acres,4,6
+2003,Montana,mixed_less_than_5_acres,19,109
+2003,Nebraska,mixed_less_than_5_acres,0,97
+2003,Nevada,mixed_less_than_5_acres,5.25,33.25
+2003,New Hampshire,mixed_less_than_5_acres,41,279
+2003,New Jersey,mixed_less_than_5_acres,0,199
+2003,New Mexico,mixed_less_than_5_acres,0,1040
+2003,New York,mixed_less_than_5_acres,0,1671.7
+2003,North Carolina,mixed_less_than_5_acres,42,778
+2003,North Dakota,mixed_less_than_5_acres,1,75.5
+2003,Ohio,mixed_less_than_5_acres,220.5,490
+2003,Oklahoma,mixed_less_than_5_acres,30,76
+2003,Oregon,mixed_less_than_5_acres,116,2782.4
+2003,Pennsylvania,mixed_less_than_5_acres,125,636
+2003,Rhode Island,mixed_less_than_5_acres,6.8,43.9
+2003,South Carolina,mixed_less_than_5_acres,0,22
+2003,South Dakota,mixed_less_than_5_acres,0,54.8
+2003,Tennessee,mixed_less_than_5_acres,5,64
+2003,Texas,mixed_less_than_5_acres,3.2,290.42
+2003,Utah,mixed_less_than_5_acres,0,107.75
+2003,Vermont,mixed_less_than_5_acres,0,818
+2003,Virginia,mixed_less_than_5_acres,38.5,597.5
+2003,Washington,mixed_less_than_5_acres,30,9555
+2003,West Virginia,mixed_less_than_5_acres,0,42
+2003,Wisconsin,mixed_less_than_5_acres,259.85,1237.43
+2003,Wyoming,mixed_less_than_5_acres,0,2
+2004,Alabama,mixed_less_than_5_acres,4,4
+2004,Alaska,mixed_less_than_5_acres,13.5,16
+2004,Arizona,mixed_less_than_5_acres,0,2156.008
+2004,Arkansas,mixed_less_than_5_acres,8.5,32
+2004,California,mixed_less_than_5_acres,1789.38,48915.86
+2004,Colorado,mixed_less_than_5_acres,1,1555.15
+2004,Connecticut,mixed_less_than_5_acres,32.52,145.22
+2004,Delaware,mixed_less_than_5_acres,2,6
+2004,Florida,mixed_less_than_5_acres,32.5,2379.5
+2004,Georgia,mixed_less_than_5_acres,7,495.427
+2004,Hawaii,mixed_less_than_5_acres,246.225,345.8475
+2004,Idaho,mixed_less_than_5_acres,26.58,266.38
+2004,Illinois,mixed_less_than_5_acres,27.17,119.59
+2004,Indiana,mixed_less_than_5_acres,10.05,89.05
+2004,Iowa,mixed_less_than_5_acres,124.5,204.7
+2004,Kansas,mixed_less_than_5_acres,14,76.3
+2004,Kentucky,mixed_less_than_5_acres,0,63.5
+2004,Louisiana,mixed_less_than_5_acres,1,1
+2004,Maine,mixed_less_than_5_acres,195.37,294.27
+2004,Maryland,mixed_less_than_5_acres,42.9,373.139
+2004,Massachusetts,mixed_less_than_5_acres,110.28,463.94
+2004,Michigan,mixed_less_than_5_acres,171.54,230.54
+2004,Minnesota,mixed_less_than_5_acres,42.08,1609.86
+2004,Mississippi,mixed_less_than_5_acres,0,0
+2004,Missouri,mixed_less_than_5_acres,1,58.5
+2004,Montana,mixed_less_than_5_acres,26,176
+2004,Nebraska,mixed_less_than_5_acres,40.75,67.25
+2004,Nevada,mixed_less_than_5_acres,6,14
+2004,New Hampshire,mixed_less_than_5_acres,80.6,178.9
+2004,New Jersey,mixed_less_than_5_acres,1.5,166.97
+2004,New Mexico,mixed_less_than_5_acres,55,527
+2004,New York,mixed_less_than_5_acres,0,4483.0464
+2004,North Carolina,mixed_less_than_5_acres,24.525,457.175
+2004,North Dakota,mixed_less_than_5_acres,0,111
+2004,Ohio,mixed_less_than_5_acres,277,601.3
+2004,Oklahoma,mixed_less_than_5_acres,0,163
+2004,Oregon,mixed_less_than_5_acres,118.1,2306.2
+2004,Pennsylvania,mixed_less_than_5_acres,112.5,777.95
+2004,Rhode Island,mixed_less_than_5_acres,7.1,33
+2004,South Carolina,mixed_less_than_5_acres,0,32
+2004,South Dakota,mixed_less_than_5_acres,0,5.05
+2004,Tennessee,mixed_less_than_5_acres,2,42
+2004,Texas,mixed_less_than_5_acres,126,817
+2004,Utah,mixed_less_than_5_acres,0,193.9
+2004,Vermont,mixed_less_than_5_acres,0,824
+2004,Virginia,mixed_less_than_5_acres,15.75,213.5
+2004,Washington,mixed_less_than_5_acres,5,6405.25
+2004,West Virginia,mixed_less_than_5_acres,35,63
+2004,Wisconsin,mixed_less_than_5_acres,326.005,960.427
+2004,Wyoming,mixed_less_than_5_acres,1,1
+2005,Alabama,mixed_less_than_5_acres,4,4
+2005,Alaska,mixed_less_than_5_acres,16.5,19
+2005,Arizona,mixed_less_than_5_acres,0,3638.94
+2005,Arkansas,mixed_less_than_5_acres,7,35.6
+2005,California,mixed_less_than_5_acres,2188.5,58327.37
+2005,Colorado,mixed_less_than_5_acres,4,1956.78
+2005,Connecticut,mixed_less_than_5_acres,40.8,168.31
+2005,Delaware,mixed_less_than_5_acres,1,1
+2005,Florida,mixed_less_than_5_acres,32.5,2139.5
+2005,Georgia,mixed_less_than_5_acres,8,605.837
+2005,Hawaii,mixed_less_than_5_acres,198.725,304.7375
+2005,Idaho,mixed_less_than_5_acres,53.38,148.78
+2005,Illinois,mixed_less_than_5_acres,9.65,357.25
+2005,Indiana,mixed_less_than_5_acres,18.55,41.05
+2005,Iowa,mixed_less_than_5_acres,118.4,166.7
+2005,Kansas,mixed_less_than_5_acres,11,26.75
+2005,Kentucky,mixed_less_than_5_acres,13,24.5
+2005,Louisiana,mixed_less_than_5_acres,11,11
+2005,Maine,mixed_less_than_5_acres,189.9,293.71
+2005,Maryland,mixed_less_than_5_acres,58.75,360.7509
+2005,Massachusetts,mixed_less_than_5_acres,103.52,498.97
+2005,Michigan,mixed_less_than_5_acres,7,98.5
+2005,Minnesota,mixed_less_than_5_acres,111.26,749.73
+2005,Mississippi,mixed_less_than_5_acres,0,7.75
+2005,Missouri,mixed_less_than_5_acres,1,39
+2005,Montana,mixed_less_than_5_acres,31,183
+2005,Nebraska,mixed_less_than_5_acres,2,53
+2005,Nevada,mixed_less_than_5_acres,6,14
+2005,New Hampshire,mixed_less_than_5_acres,88.1,216.4
+2005,New Jersey,mixed_less_than_5_acres,0,236.645
+2005,New Mexico,mixed_less_than_5_acres,71,643
+2005,New York,mixed_less_than_5_acres,1,2952.45
+2005,North Carolina,mixed_less_than_5_acres,28.695,640.445
+2005,North Dakota,mixed_less_than_5_acres,0,65.15
+2005,Ohio,mixed_less_than_5_acres,286,581.2
+2005,Oklahoma,mixed_less_than_5_acres,0,180
+2005,Oregon,mixed_less_than_5_acres,136,3737
+2005,Pennsylvania,mixed_less_than_5_acres,108,868.8
+2005,Rhode Island,mixed_less_than_5_acres,7,40.5
+2005,South Carolina,mixed_less_than_5_acres,0,52.8
+2005,South Dakota,mixed_less_than_5_acres,0,29.25
+2005,Tennessee,mixed_less_than_5_acres,2,43
+2005,Texas,mixed_less_than_5_acres,61,624.5
+2005,Utah,mixed_less_than_5_acres,0,193.9
+2005,Vermont,mixed_less_than_5_acres,0,963
+2005,Virginia,mixed_less_than_5_acres,16.75,4859.4
+2005,Washington,mixed_less_than_5_acres,5,10331
+2005,West Virginia,mixed_less_than_5_acres,35,63
+2005,Wisconsin,mixed_less_than_5_acres,244.425,927.89
+2005,Wyoming,mixed_less_than_5_acres,0,0
+2006,Alabama,mixed_less_than_5_acres,4,4
+2006,Alaska,mixed_less_than_5_acres,0,0
+2006,Arizona,mixed_less_than_5_acres,3,3217
+2006,Arkansas,mixed_less_than_5_acres,0,10
+2006,California,mixed_less_than_5_acres,69.52,61703.649999999994
+2006,Colorado,mixed_less_than_5_acres,0,1938.51
+2006,Connecticut,mixed_less_than_5_acres,54.6,188.17000000000002
+2006,Delaware,mixed_less_than_5_acres,1.5,2
+2006,Florida,mixed_less_than_5_acres,35,3182.5
+2006,Georgia,mixed_less_than_5_acres,17,760
+2006,Hawaii,mixed_less_than_5_acres,51.18,213.51999999999998
+2006,Idaho,mixed_less_than_5_acres,53,149.5
+2006,Illinois,mixed_less_than_5_acres,5.8,1338.86
+2006,Indiana,mixed_less_than_5_acres,0.25,173.35
+2006,Iowa,mixed_less_than_5_acres,50.2,132.95
+2006,Kansas,mixed_less_than_5_acres,16.25,22.98
+2006,Kentucky,mixed_less_than_5_acres,12,33.5
+2006,Louisiana,mixed_less_than_5_acres,2.5,12
+2006,Maine,mixed_less_than_5_acres,354,722
+2006,Maryland,mixed_less_than_5_acres,32.87,211.27
+2006,Massachusetts,mixed_less_than_5_acres,168,590.9
+2006,Michigan,mixed_less_than_5_acres,0,276.14
+2006,Minnesota,mixed_less_than_5_acres,71.69,1199.25
+2006,Mississippi,mixed_less_than_5_acres,0,3
+2006,Missouri,mixed_less_than_5_acres,8.8,48.8
+2006,Montana,mixed_less_than_5_acres,33,179.25
+2006,Nebraska,mixed_less_than_5_acres,0,1402
+2006,Nevada,mixed_less_than_5_acres,10,33
+2006,New Hampshire,mixed_less_than_5_acres,97.75,197.75
+2006,New Jersey,mixed_less_than_5_acres,145,684
+2006,New Mexico,mixed_less_than_5_acres,55,305
+2006,New York,mixed_less_than_5_acres,7,1814.44
+2006,North Carolina,mixed_less_than_5_acres,493,902
+2006,North Dakota,mixed_less_than_5_acres,1.5,134
+2006,Ohio,mixed_less_than_5_acres,286.75,569.35
+2006,Oklahoma,mixed_less_than_5_acres,0,215
+2006,Oregon,mixed_less_than_5_acres,138,4373
+2006,Pennsylvania,mixed_less_than_5_acres,121,826.13
+2006,Rhode Island,mixed_less_than_5_acres,8.2,75.8
+2006,South Carolina,mixed_less_than_5_acres,0,0
+2006,South Dakota,mixed_less_than_5_acres,0.63,79.56
+2006,Tennessee,mixed_less_than_5_acres,2,42
+2006,Texas,mixed_less_than_5_acres,19.93,2291.23
+2006,Utah,mixed_less_than_5_acres,0,0
+2006,Vermont,mixed_less_than_5_acres,0,936
+2006,Virginia,mixed_less_than_5_acres,26,322
+2006,Washington,mixed_less_than_5_acres,155,14274.08
+2006,West Virginia,mixed_less_than_5_acres,35,63
+2006,Wisconsin,mixed_less_than_5_acres,134.15,781.4300000000001
+2006,Wyoming,mixed_less_than_5_acres,0,0.5
+2007,Alabama,mixed_less_than_5_acres,9,9
+2007,Alaska,mixed_less_than_5_acres,0,0
+2007,Arizona,mixed_less_than_5_acres,0,3436.35
+2007,Arkansas,mixed_less_than_5_acres,6.75,33.25
+2007,California,mixed_less_than_5_acres,90.5,78470.81
+2007,Colorado,mixed_less_than_5_acres,3,1977
+2007,Connecticut,mixed_less_than_5_acres,57,199.17000000000002
+2007,Delaware,mixed_less_than_5_acres,0,39
+2007,Florida,mixed_less_than_5_acres,59,3308.5
+2007,Georgia,mixed_less_than_5_acres,25,2113
+2007,Hawaii,mixed_less_than_5_acres,60,133.39
+2007,Idaho,mixed_less_than_5_acres,25.5,32.75
+2007,Illinois,mixed_less_than_5_acres,23.6,381.6
+2007,Indiana,mixed_less_than_5_acres,10.55,124.19
+2007,Iowa,mixed_less_than_5_acres,59.3,195.49
+2007,Kansas,mixed_less_than_5_acres,18.25,82.55
+2007,Kentucky,mixed_less_than_5_acres,0,0
+2007,Louisiana,mixed_less_than_5_acres,2.5,11
+2007,Maine,mixed_less_than_5_acres,338,633
+2007,Maryland,mixed_less_than_5_acres,67.8,268.8
+2007,Massachusetts,mixed_less_than_5_acres,167,629
+2007,Michigan,mixed_less_than_5_acres,84.82,1416.47
+2007,Minnesota,mixed_less_than_5_acres,77.78,888.49
+2007,Mississippi,mixed_less_than_5_acres,0,12
+2007,Missouri,mixed_less_than_5_acres,12.45,276.25
+2007,Montana,mixed_less_than_5_acres,25.25,85.45
+2007,Nebraska,mixed_less_than_5_acres,0,1195.5
+2007,Nevada,mixed_less_than_5_acres,11,661.98
+2007,New Hampshire,mixed_less_than_5_acres,101,267
+2007,New Jersey,mixed_less_than_5_acres,0,413.5
+2007,New Mexico,mixed_less_than_5_acres,38,954
+2007,New York,mixed_less_than_5_acres,1,2237.7
+2007,North Carolina,mixed_less_than_5_acres,52.52,659.73
+2007,North Dakota,mixed_less_than_5_acres,3.5,102.5
+2007,Ohio,mixed_less_than_5_acres,85.5,1226.55
+2007,Oklahoma,mixed_less_than_5_acres,0,236
+2007,Oregon,mixed_less_than_5_acres,186,5272
+2007,Pennsylvania,mixed_less_than_5_acres,145.42,1048.17
+2007,Rhode Island,mixed_less_than_5_acres,9.7,117.5
+2007,South Carolina,mixed_less_than_5_acres,32,193
+2007,South Dakota,mixed_less_than_5_acres,3.25,110.42
+2007,Tennessee,mixed_less_than_5_acres,14,208
+2007,Texas,mixed_less_than_5_acres,37.84,1935.8400000000001
+2007,Utah,mixed_less_than_5_acres,0,211
+2007,Vermont,mixed_less_than_5_acres,0,903
+2007,Virginia,mixed_less_than_5_acres,5.1,367.65
+2007,Washington,mixed_less_than_5_acres,0,18176
+2007,West Virginia,mixed_less_than_5_acres,0,0
+2007,Wisconsin,mixed_less_than_5_acres,49.48,588.73
+2007,Wyoming,mixed_less_than_5_acres,0,0
+2008,Alabama,mixed_less_than_5_acres,11,11
+2008,Alaska,mixed_less_than_5_acres,9.25,23.7
+2008,Arizona,mixed_less_than_5_acres,128.33,11287.34
+2008,Arkansas,mixed_less_than_5_acres,7,108
+2008,California,mixed_less_than_5_acres,28,91914.95999999999
+2008,Colorado,mixed_less_than_5_acres,0,3554.05
+2008,Connecticut,mixed_less_than_5_acres,46.44,157.47
+2008,Delaware,mixed_less_than_5_acres,0,39
+2008,Florida,mixed_less_than_5_acres,59,3620
+2008,Georgia,mixed_less_than_5_acres,10,1875
+2008,Hawaii,mixed_less_than_5_acres,69,230.70999999999998
+2008,Idaho,mixed_less_than_5_acres,3.1,47.95
+2008,Illinois,mixed_less_than_5_acres,19.75,225.39999999999998
+2008,Indiana,mixed_less_than_5_acres,31.72,111.22
+2008,Iowa,mixed_less_than_5_acres,151.37,229.32999999999998
+2008,Kansas,mixed_less_than_5_acres,1.9,27.1
+2008,Kentucky,mixed_less_than_5_acres,0,60
+2008,Louisiana,mixed_less_than_5_acres,3.5,12.03
+2008,Maine,mixed_less_than_5_acres,419,757
+2008,Maryland,mixed_less_than_5_acres,101.4,249.65
+2008,Massachusetts,mixed_less_than_5_acres,165.65,629.69
+2008,Michigan,mixed_less_than_5_acres,98.5,1403.89
+2008,Minnesota,mixed_less_than_5_acres,152.78,1010.5600000000001
+2008,Mississippi,mixed_less_than_5_acres,0,12
+2008,Missouri,mixed_less_than_5_acres,21.07,159.26999999999998
+2008,Montana,mixed_less_than_5_acres,29.6,96.85
+2008,Nebraska,mixed_less_than_5_acres,8,757.2
+2008,Nevada,mixed_less_than_5_acres,11,31
+2008,New Hampshire,mixed_less_than_5_acres,119.6,360.2
+2008,New Jersey,mixed_less_than_5_acres,0,374.6
+2008,New Mexico,mixed_less_than_5_acres,43,491
+2008,New York,mixed_less_than_5_acres,17.2,3469.17
+2008,North Carolina,mixed_less_than_5_acres,32,2372.94
+2008,North Dakota,mixed_less_than_5_acres,27,232.60000000000002
+2008,Ohio,mixed_less_than_5_acres,122.24,454.34000000000003
+2008,Oklahoma,mixed_less_than_5_acres,0,236
+2008,Oregon,mixed_less_than_5_acres,160,5789
+2008,Pennsylvania,mixed_less_than_5_acres,176.92,1552.42
+2008,Rhode Island,mixed_less_than_5_acres,12.2,120.39999999999999
+2008,South Carolina,mixed_less_than_5_acres,22,122
+2008,South Dakota,mixed_less_than_5_acres,2,6.12
+2008,Tennessee,mixed_less_than_5_acres,14,208
+2008,Texas,mixed_less_than_5_acres,74.24,1901.46
+2008,Utah,mixed_less_than_5_acres,208,211
+2008,Vermont,mixed_less_than_5_acres,0,914
+2008,Virginia,mixed_less_than_5_acres,15.1,397.1
+2008,Washington,mixed_less_than_5_acres,57,18294.449999999997
+2008,West Virginia,mixed_less_than_5_acres,1.98,11.98
+2008,Wisconsin,mixed_less_than_5_acres,123.28,454.39
+2008,Wyoming,mixed_less_than_5_acres,0.1,0.1
+2010,Alabama,mixed_less_than_5_acres,5.5,273.279998779297
+2010,Alaska,mixed_less_than_5_acres,0,0
+2010,Arizona,mixed_less_than_5_acres,35.7799999713898,7403.1798450946835
+2010,Arkansas,mixed_less_than_5_acres,5,26.5
+2010,California,mixed_less_than_5_acres,1485.5589838028,100336.47404678105
+2010,Colorado,mixed_less_than_5_acres,43.7599983215332,3249.8399983315967
+2010,Connecticut,mixed_less_than_5_acres,44.8200011253357,205.86999682903286
+2010,Delaware,mixed_less_than_5_acres,4.75,50.0699996948242
+2010,Florida,mixed_less_than_5_acres,0,4679.769927978521
+2010,Georgia,mixed_less_than_5_acres,97,2132.900019526482
+2010,Hawaii,mixed_less_than_5_acres,130,308.3200020742419
+2010,Idaho,mixed_less_than_5_acres,42.9000015258789,171.33000183105472
+2010,Illinois,mixed_less_than_5_acres,29.1899995803833,338.295001085326
+2010,Indiana,mixed_less_than_5_acres,117.60000038147,247.6200002646449
+2010,Iowa,mixed_less_than_5_acres,169.850004196167,351.2300015926363
+2010,Kansas,mixed_less_than_5_acres,4.5,23.84999990463257
+2010,Kentucky,mixed_less_than_5_acres,0,87.8700008392334
+2010,Louisiana,mixed_less_than_5_acres,22.25,24
+2010,Maine,mixed_less_than_5_acres,363.079999923706,537.079999923706
+2010,Maryland,mixed_less_than_5_acres,90.5999984741211,731.8899965286259
+2010,Massachusetts,mixed_less_than_5_acres,113.419998168945,1434.5200256347657
+2010,Michigan,mixed_less_than_5_acres,54.6200012266636,450.7440017741922
+2010,Minnesota,mixed_less_than_5_acres,96.3900022506714,698.4200153326988
+2010,Mississippi,mixed_less_than_5_acres,5,14
+2010,Missouri,mixed_less_than_5_acres,68.5900001525879,85.289999961853
+2010,Montana,mixed_less_than_5_acres,47,90.25999999046326
+2010,Nebraska,mixed_less_than_5_acres,5,279.0599999897924
+2010,Nevada,mixed_less_than_5_acres,7.59999990463257,3421.499999523163
+2010,New Hampshire,mixed_less_than_5_acres,85,300
+2010,New Jersey,mixed_less_than_5_acres,4.71000003814697,403.710000038147
+2010,New Mexico,mixed_less_than_5_acres,73.8550033569336,321.7700004577646
+2010,New York,mixed_less_than_5_acres,2225.19999980927,2873.309998568599
+2010,North Carolina,mixed_less_than_5_acres,30.4399995803833,2366.800007058677
+2010,North Dakota,mixed_less_than_5_acres,5.73000001907349,529.3099999427795
+2010,Ohio,mixed_less_than_5_acres,253.439994424582,421.43999409675644
+2010,Oklahoma,mixed_less_than_5_acres,28,285
+2010,Oregon,mixed_less_than_5_acres,138.60000000149,4548.080004908152
+2010,Pennsylvania,mixed_less_than_5_acres,228.076662063599,1439.5466614723205
+2010,Rhode Island,mixed_less_than_5_acres,6.36999988555908,38.5399993133545
+2010,South Carolina,mixed_less_than_5_acres,0,240
+2010,South Dakota,mixed_less_than_5_acres,0.75,122.25
+2010,Tennessee,mixed_less_than_5_acres,0,2462.35009765625
+2010,Texas,mixed_less_than_5_acres,43.1803016662598,502.89700342513623
+2010,Utah,mixed_less_than_5_acres,10,192
+2010,Vermont,mixed_less_than_5_acres,0,1143
+2010,Virginia,mixed_less_than_5_acres,6.75000023841858,1089.270028382763
+2010,Washington,mixed_less_than_5_acres,10.5,3372.700022913511
+2010,West Virginia,mixed_less_than_5_acres,0,37
+2010,Wisconsin,mixed_less_than_5_acres,388.009991407394,3020.5499489313343
+2010,Wyoming,mixed_less_than_5_acres,0,0
+2011,Alabama,mixed_less_than_5_acres,6.5,0
+2011,Alaska,mixed_less_than_5_acres,0,0
+2011,Arizona,mixed_less_than_5_acres,31.289999961853,9021.270142555246
+2011,Arkansas,mixed_less_than_5_acres,20,133
+2011,California,mixed_less_than_5_acres,1482.44601154327,88724.23900026089
+2011,Colorado,mixed_less_than_5_acres,25.1000003814697,3264.310002472254
+2011,Connecticut,mixed_less_than_5_acres,52.300000667572,244.30000692606006
+2011,Delaware,mixed_less_than_5_acres,4.75,58.0099983215332
+2011,Florida,mixed_less_than_5_acres,2,4591.969879150391
+2011,Georgia,mixed_less_than_5_acres,26.9699999988079,2229.8499571979073
+2011,Hawaii,mixed_less_than_5_acres,148.490000009537,1014.5299713611614
+2011,Idaho,mixed_less_than_5_acres,49.5999984741211,232.1000022888186
+2011,Illinois,mixed_less_than_5_acres,62.360000371933,412.46499884128565
+2011,Indiana,mixed_less_than_5_acres,12.9300001859665,147.4600008726125
+2011,Iowa,mixed_less_than_5_acres,71.3199996948242,456.5799964666371
+2011,Kansas,mixed_less_than_5_acres,11.5,32.5
+2011,Kentucky,mixed_less_than_5_acres,0,62.5
+2011,Louisiana,mixed_less_than_5_acres,13.25,30.25
+2011,Maine,mixed_less_than_5_acres,363.079999923706,522.079999923706
+2011,Maryland,mixed_less_than_5_acres,69.4000015258789,744.2350042983892
+2011,Massachusetts,mixed_less_than_5_acres,194,1332.4999876022341
+2011,Michigan,mixed_less_than_5_acres,58.2899992465973,645.1590073443948
+2011,Minnesota,mixed_less_than_5_acres,77.2799987792969,1536.3199743777514
+2011,Mississippi,mixed_less_than_5_acres,6,17.5
+2011,Missouri,mixed_less_than_5_acres,62.4200005531311,241.0599975585941
+2011,Montana,mixed_less_than_5_acres,27.0499999523163,482.0499999523163
+2011,Nebraska,mixed_less_than_5_acres,7.40000009536743,195.24999856948853
+2011,Nevada,mixed_less_than_5_acres,7.59999990463257,3561.499999523163
+2011,New Hampshire,mixed_less_than_5_acres,219,329
+2011,New Jersey,mixed_less_than_5_acres,4.71000003814697,512.710000038147
+2011,New Mexico,mixed_less_than_5_acres,34.0999984741211,174.0599975585938
+2011,New York,mixed_less_than_5_acres,1758.44999980927,2322.079997999598
+2011,North Carolina,mixed_less_than_5_acres,16.4890003204346,4471.449125289924
+2011,North Dakota,mixed_less_than_5_acres,10.3800001144409,206.27999687194801
+2011,Ohio,mixed_less_than_5_acres,407.159994125366,602.2999956160783
+2011,Oklahoma,mixed_less_than_5_acres,43,259
+2011,Oregon,mixed_less_than_5_acres,143.869999982417,4576.765013562514
+2011,Pennsylvania,mixed_less_than_5_acres,219.989994049072,1646.589994430542
+2011,Rhode Island,mixed_less_than_5_acres,7.94000005722046,60.799999952316284
+2011,South Carolina,mixed_less_than_5_acres,0,240
+2011,South Dakota,mixed_less_than_5_acres,5.40000000596046,102.40000000596046
+2011,Tennessee,mixed_less_than_5_acres,0,732.7999725341801
+2011,Texas,mixed_less_than_5_acres,42.1803016662598,1334.5370204448745
+2011,Utah,mixed_less_than_5_acres,20,24
+2011,Vermont,mixed_less_than_5_acres,0,1053
+2011,Virginia,mixed_less_than_5_acres,17.0399999171495,1195.2200154811105
+2011,Washington,mixed_less_than_5_acres,19.5,3916.700018025931
+2011,West Virginia,mixed_less_than_5_acres,28.5,65.5
+2011,Wisconsin,mixed_less_than_5_acres,465.370007514954,3633.039978742595
+2011,Wyoming,mixed_less_than_5_acres,3.4300000667572,3.4300000667572
+2002,Alabama,mixed_more_than_5_acres,0,129
+2002,Alaska,mixed_more_than_5_acres,0,0
+2002,Arizona,mixed_more_than_5_acres,0,1645
+2002,Arkansas,mixed_more_than_5_acres,0,4975
+2002,California,mixed_more_than_5_acres,4513,38355
+2002,Colorado,mixed_more_than_5_acres,0,2075
+2002,Connecticut,mixed_more_than_5_acres,0,0
+2002,Delaware,mixed_more_than_5_acres,0,0
+2002,Florida,mixed_more_than_5_acres,127,927
+2002,Georgia,mixed_more_than_5_acres,155,422
+2002,Hawaii,mixed_more_than_5_acres,16,111
+2002,Idaho,mixed_more_than_5_acres,31.2,91.35
+2002,Illinois,mixed_more_than_5_acres,45,316
+2002,Indiana,mixed_more_than_5_acres,15,416
+2002,Iowa,mixed_more_than_5_acres,5,68
+2002,Kansas,mixed_more_than_5_acres,9,102
+2002,Kentucky,mixed_more_than_5_acres,0,0
+2002,Louisiana,mixed_more_than_5_acres,0,0
+2002,Maine,mixed_more_than_5_acres,0,0
+2002,Maryland,mixed_more_than_5_acres,0,500
+2002,Massachusetts,mixed_more_than_5_acres,0,0
+2002,Michigan,mixed_more_than_5_acres,241,383
+2002,Minnesota,mixed_more_than_5_acres,119,1076
+2002,Mississippi,mixed_more_than_5_acres,0,0
+2002,Missouri,mixed_more_than_5_acres,0,64
+2002,Montana,mixed_more_than_5_acres,10,22
+2002,Nebraska,mixed_more_than_5_acres,10,324
+2002,Nevada,mixed_more_than_5_acres,8,16
+2002,New Hampshire,mixed_more_than_5_acres,187,227.25
+2002,New Jersey,mixed_more_than_5_acres,0,301
+2002,New Mexico,mixed_more_than_5_acres,0,1040
+2002,New York,mixed_more_than_5_acres,30,1621
+2002,North Carolina,mixed_more_than_5_acres,304,607
+2002,North Dakota,mixed_more_than_5_acres,0,25
+2002,Ohio,mixed_more_than_5_acres,117,344
+2002,Oklahoma,mixed_more_than_5_acres,0,40
+2002,Oregon,mixed_more_than_5_acres,668,2648
+2002,Pennsylvania,mixed_more_than_5_acres,310,425
+2002,Rhode Island,mixed_more_than_5_acres,0.1,43.9
+2002,South Carolina,mixed_more_than_5_acres,0,0
+2002,South Dakota,mixed_more_than_5_acres,25,63
+2002,Tennessee,mixed_more_than_5_acres,52,64
+2002,Texas,mixed_more_than_5_acres,0,246
+2002,Utah,mixed_more_than_5_acres,0,146
+2002,Vermont,mixed_more_than_5_acres,0,746
+2002,Virginia,mixed_more_than_5_acres,278,915
+2002,Washington,mixed_more_than_5_acres,0,6802
+2002,West Virginia,mixed_more_than_5_acres,24,24
+2002,Wisconsin,mixed_more_than_5_acres,129,1541
+2002,Wyoming,mixed_more_than_5_acres,0,0
+2003,Alabama,mixed_more_than_5_acres,0,130
+2003,Alaska,mixed_more_than_5_acres,0,215
+2003,Arizona,mixed_more_than_5_acres,0,1379.5
+2003,Arkansas,mixed_more_than_5_acres,15,20
+2003,California,mixed_more_than_5_acres,6202,48446.625
+2003,Colorado,mixed_more_than_5_acres,0,1619
+2003,Connecticut,mixed_more_than_5_acres,0,0
+2003,Delaware,mixed_more_than_5_acres,10,10
+2003,Florida,mixed_more_than_5_acres,131,847
+2003,Georgia,mixed_more_than_5_acres,200,674
+2003,Hawaii,mixed_more_than_5_acres,20,141
+2003,Idaho,mixed_more_than_5_acres,31,100
+2003,Illinois,mixed_more_than_5_acres,31,295
+2003,Indiana,mixed_more_than_5_acres,1.5,417
+2003,Iowa,mixed_more_than_5_acres,193.8,362.68
+2003,Kansas,mixed_more_than_5_acres,0,101
+2003,Kentucky,mixed_more_than_5_acres,16,16
+2003,Louisiana,mixed_more_than_5_acres,0,95
+2003,Maine,mixed_more_than_5_acres,0,0
+2003,Maryland,mixed_more_than_5_acres,0,500
+2003,Massachusetts,mixed_more_than_5_acres,0,0
+2003,Michigan,mixed_more_than_5_acres,296,1269.2
+2003,Minnesota,mixed_more_than_5_acres,167.31,1148.96
+2003,Mississippi,mixed_more_than_5_acres,0,0
+2003,Missouri,mixed_more_than_5_acres,0,6
+2003,Montana,mixed_more_than_5_acres,0,109
+2003,Nebraska,mixed_more_than_5_acres,0,97
+2003,Nevada,mixed_more_than_5_acres,28,33.25
+2003,New Hampshire,mixed_more_than_5_acres,238,279
+2003,New Jersey,mixed_more_than_5_acres,0,199
+2003,New Mexico,mixed_more_than_5_acres,0,1040
+2003,New York,mixed_more_than_5_acres,0,1671.7
+2003,North Carolina,mixed_more_than_5_acres,557,778
+2003,North Dakota,mixed_more_than_5_acres,0,75.5
+2003,Ohio,mixed_more_than_5_acres,108,490
+2003,Oklahoma,mixed_more_than_5_acres,10,76
+2003,Oregon,mixed_more_than_5_acres,732,2782.4
+2003,Pennsylvania,mixed_more_than_5_acres,444,636
+2003,Rhode Island,mixed_more_than_5_acres,35.1,43.9
+2003,South Carolina,mixed_more_than_5_acres,0,22
+2003,South Dakota,mixed_more_than_5_acres,30,54.8
+2003,Tennessee,mixed_more_than_5_acres,19,64
+2003,Texas,mixed_more_than_5_acres,0,290.42
+2003,Utah,mixed_more_than_5_acres,0,107.75
+2003,Vermont,mixed_more_than_5_acres,0,818
+2003,Virginia,mixed_more_than_5_acres,175,597.5
+2003,Washington,mixed_more_than_5_acres,0,9555
+2003,West Virginia,mixed_more_than_5_acres,42,42
+2003,Wisconsin,mixed_more_than_5_acres,98.58,1237.43
+2003,Wyoming,mixed_more_than_5_acres,0,2
+2004,Alabama,mixed_more_than_5_acres,0,4
+2004,Alaska,mixed_more_than_5_acres,0,16
+2004,Arizona,mixed_more_than_5_acres,383.94,2156.008
+2004,Arkansas,mixed_more_than_5_acres,7.5,32
+2004,California,mixed_more_than_5_acres,8092.87,48915.86
+2004,Colorado,mixed_more_than_5_acres,39.66,1555.15
+2004,Connecticut,mixed_more_than_5_acres,92.37,145.22
+2004,Delaware,mixed_more_than_5_acres,0,6
+2004,Florida,mixed_more_than_5_acres,1838,2379.5
+2004,Georgia,mixed_more_than_5_acres,443.197,495.427
+2004,Hawaii,mixed_more_than_5_acres,20,345.8475
+2004,Idaho,mixed_more_than_5_acres,37.55,266.38
+2004,Illinois,mixed_more_than_5_acres,58.35,119.59
+2004,Indiana,mixed_more_than_5_acres,79,89.05
+2004,Iowa,mixed_more_than_5_acres,8.9,204.7
+2004,Kansas,mixed_more_than_5_acres,16,76.3
+2004,Kentucky,mixed_more_than_5_acres,60,63.5
+2004,Louisiana,mixed_more_than_5_acres,0,1
+2004,Maine,mixed_more_than_5_acres,13,294.27
+2004,Maryland,mixed_more_than_5_acres,330,373.139
+2004,Massachusetts,mixed_more_than_5_acres,249.51,463.94
+2004,Michigan,mixed_more_than_5_acres,54,230.54
+2004,Minnesota,mixed_more_than_5_acres,96.3,1609.86
+2004,Mississippi,mixed_more_than_5_acres,0,0
+2004,Missouri,mixed_more_than_5_acres,20,58.5
+2004,Montana,mixed_more_than_5_acres,141,176
+2004,Nebraska,mixed_more_than_5_acres,15,67.25
+2004,Nevada,mixed_more_than_5_acres,8,14
+2004,New Hampshire,mixed_more_than_5_acres,98.3,178.9
+2004,New Jersey,mixed_more_than_5_acres,165.47,166.97
+2004,New Mexico,mixed_more_than_5_acres,252,527
+2004,New York,mixed_more_than_5_acres,56,4483.0464
+2004,North Carolina,mixed_more_than_5_acres,277,457.175
+2004,North Dakota,mixed_more_than_5_acres,0,111
+2004,Ohio,mixed_more_than_5_acres,210,601.3
+2004,Oklahoma,mixed_more_than_5_acres,163,163
+2004,Oregon,mixed_more_than_5_acres,211.6,2306.2
+2004,Pennsylvania,mixed_more_than_5_acres,556.4,777.95
+2004,Rhode Island,mixed_more_than_5_acres,22.3,33
+2004,South Carolina,mixed_more_than_5_acres,32,32
+2004,South Dakota,mixed_more_than_5_acres,0.5,5.05
+2004,Tennessee,mixed_more_than_5_acres,40,42
+2004,Texas,mixed_more_than_5_acres,226,817
+2004,Utah,mixed_more_than_5_acres,193.9,193.9
+2004,Vermont,mixed_more_than_5_acres,824,824
+2004,Virginia,mixed_more_than_5_acres,197.75,213.5
+2004,Washington,mixed_more_than_5_acres,415.75,6405.25
+2004,West Virginia,mixed_more_than_5_acres,27,63
+2004,Wisconsin,mixed_more_than_5_acres,103.726,960.427
+2004,Wyoming,mixed_more_than_5_acres,0,1
+2005,Alabama,mixed_more_than_5_acres,0,4
+2005,Alaska,mixed_more_than_5_acres,0,19
+2005,Arizona,mixed_more_than_5_acres,3331.94,3638.94
+2005,Arkansas,mixed_more_than_5_acres,28.6,35.6
+2005,California,mixed_more_than_5_acres,20475,58327.37
+2005,Colorado,mixed_more_than_5_acres,37.03,1956.78
+2005,Connecticut,mixed_more_than_5_acres,100.54,168.31
+2005,Delaware,mixed_more_than_5_acres,0,1
+2005,Florida,mixed_more_than_5_acres,1780,2139.5
+2005,Georgia,mixed_more_than_5_acres,506.697,605.837
+2005,Hawaii,mixed_more_than_5_acres,20,304.7375
+2005,Idaho,mixed_more_than_5_acres,59.5,148.78
+2005,Illinois,mixed_more_than_5_acres,303.85,357.25
+2005,Indiana,mixed_more_than_5_acres,22.5,41.05
+2005,Iowa,mixed_more_than_5_acres,33.9,166.7
+2005,Kansas,mixed_more_than_5_acres,5.75,26.75
+2005,Kentucky,mixed_more_than_5_acres,9,24.5
+2005,Louisiana,mixed_more_than_5_acres,0,11
+2005,Maine,mixed_more_than_5_acres,18.22,293.71
+2005,Maryland,mixed_more_than_5_acres,302,360.7509
+2005,Massachusetts,mixed_more_than_5_acres,273.8,498.97
+2005,Michigan,mixed_more_than_5_acres,33.5,98.5
+2005,Minnesota,mixed_more_than_5_acres,150.05,749.73
+2005,Mississippi,mixed_more_than_5_acres,6,7.75
+2005,Missouri,mixed_more_than_5_acres,38,39
+2005,Montana,mixed_more_than_5_acres,141,183
+2005,Nebraska,mixed_more_than_5_acres,15,53
+2005,Nevada,mixed_more_than_5_acres,8,14
+2005,New Hampshire,mixed_more_than_5_acres,128.3,216.4
+2005,New Jersey,mixed_more_than_5_acres,226.525,236.645
+2005,New Mexico,mixed_more_than_5_acres,331,643
+2005,New York,mixed_more_than_5_acres,25,2952.45
+2005,North Carolina,mixed_more_than_5_acres,226.9,640.445
+2005,North Dakota,mixed_more_than_5_acres,0,65.15
+2005,Ohio,mixed_more_than_5_acres,286.2,581.2
+2005,Oklahoma,mixed_more_than_5_acres,180,180
+2005,Oregon,mixed_more_than_5_acres,257,3737
+2005,Pennsylvania,mixed_more_than_5_acres,642.5,868.8
+2005,Rhode Island,mixed_more_than_5_acres,27.5,40.5
+2005,South Carolina,mixed_more_than_5_acres,52.8,52.8
+2005,South Dakota,mixed_more_than_5_acres,1,29.25
+2005,Tennessee,mixed_more_than_5_acres,40,43
+2005,Texas,mixed_more_than_5_acres,237,624.5
+2005,Utah,mixed_more_than_5_acres,193.9,193.9
+2005,Vermont,mixed_more_than_5_acres,963,963
+2005,Virginia,mixed_more_than_5_acres,4842.65,4859.4
+2005,Washington,mixed_more_than_5_acres,14,10331
+2005,West Virginia,mixed_more_than_5_acres,27,63
+2005,Wisconsin,mixed_more_than_5_acres,104.25,927.89
+2005,Wyoming,mixed_more_than_5_acres,0,0
+2006,Alabama,mixed_more_than_5_acres,0,4
+2006,Alaska,mixed_more_than_5_acres,0,0
+2006,Arizona,mixed_more_than_5_acres,84,3217
+2006,Arkansas,mixed_more_than_5_acres,0,10
+2006,California,mixed_more_than_5_acres,17840.66,61703.649999999994
+2006,Colorado,mixed_more_than_5_acres,0,1938.51
+2006,Connecticut,mixed_more_than_5_acres,121.9,188.17000000000002
+2006,Delaware,mixed_more_than_5_acres,0,2
+2006,Florida,mixed_more_than_5_acres,2760,3182.5
+2006,Georgia,mixed_more_than_5_acres,659,760
+2006,Hawaii,mixed_more_than_5_acres,145,213.51999999999998
+2006,Idaho,mixed_more_than_5_acres,60,149.5
+2006,Illinois,mixed_more_than_5_acres,315,1338.86
+2006,Indiana,mixed_more_than_5_acres,12.25,173.35
+2006,Iowa,mixed_more_than_5_acres,76.55,132.95
+2006,Kansas,mixed_more_than_5_acres,0,22.98
+2006,Kentucky,mixed_more_than_5_acres,21.5,33.5
+2006,Louisiana,mixed_more_than_5_acres,9,12
+2006,Maine,mixed_more_than_5_acres,334,722
+2006,Maryland,mixed_more_than_5_acres,178.4,211.27
+2006,Massachusetts,mixed_more_than_5_acres,398,590.9
+2006,Michigan,mixed_more_than_5_acres,118,276.14
+2006,Minnesota,mixed_more_than_5_acres,30.81,1199.25
+2006,Mississippi,mixed_more_than_5_acres,0,3
+2006,Missouri,mixed_more_than_5_acres,0,48.8
+2006,Montana,mixed_more_than_5_acres,135,179.25
+2006,Nebraska,mixed_more_than_5_acres,944.5,1402
+2006,Nevada,mixed_more_than_5_acres,20,33
+2006,New Hampshire,mixed_more_than_5_acres,100,197.75
+2006,New Jersey,mixed_more_than_5_acres,380,684
+2006,New Mexico,mixed_more_than_5_acres,124,305
+2006,New York,mixed_more_than_5_acres,25,1814.44
+2006,North Carolina,mixed_more_than_5_acres,57,902
+2006,North Dakota,mixed_more_than_5_acres,0,134
+2006,Ohio,mixed_more_than_5_acres,221,569.35
+2006,Oklahoma,mixed_more_than_5_acres,0,215
+2006,Oregon,mixed_more_than_5_acres,173,4373
+2006,Pennsylvania,mixed_more_than_5_acres,595,826.13
+2006,Rhode Island,mixed_more_than_5_acres,62.2,75.8
+2006,South Carolina,mixed_more_than_5_acres,0,0
+2006,South Dakota,mixed_more_than_5_acres,70,79.56
+2006,Tennessee,mixed_more_than_5_acres,0,42
+2006,Texas,mixed_more_than_5_acres,111.8,2291.23
+2006,Utah,mixed_more_than_5_acres,0,0
+2006,Vermont,mixed_more_than_5_acres,936,936
+2006,Virginia,mixed_more_than_5_acres,288,322
+2006,Washington,mixed_more_than_5_acres,13683,14274.08
+2006,West Virginia,mixed_more_than_5_acres,27,63
+2006,Wisconsin,mixed_more_than_5_acres,72.9,781.4300000000001
+2006,Wyoming,mixed_more_than_5_acres,0,0.5
+2007,Alabama,mixed_more_than_5_acres,0,9
+2007,Alaska,mixed_more_than_5_acres,0,0
+2007,Arizona,mixed_more_than_5_acres,0,3436.35
+2007,Arkansas,mixed_more_than_5_acres,10,33.25
+2007,California,mixed_more_than_5_acres,9149.7,78470.81
+2007,Colorado,mixed_more_than_5_acres,35.5,1977
+2007,Connecticut,mixed_more_than_5_acres,122,199.17000000000002
+2007,Delaware,mixed_more_than_5_acres,39,39
+2007,Florida,mixed_more_than_5_acres,443.5,3308.5
+2007,Georgia,mixed_more_than_5_acres,768,2113
+2007,Hawaii,mixed_more_than_5_acres,66.3,133.39
+2007,Idaho,mixed_more_than_5_acres,0,32.75
+2007,Illinois,mixed_more_than_5_acres,17,381.6
+2007,Indiana,mixed_more_than_5_acres,35,124.19
+2007,Iowa,mixed_more_than_5_acres,123.95,195.49
+2007,Kansas,mixed_more_than_5_acres,48.2,82.55
+2007,Kentucky,mixed_more_than_5_acres,0,0
+2007,Louisiana,mixed_more_than_5_acres,8,11
+2007,Maine,mixed_more_than_5_acres,280,633
+2007,Maryland,mixed_more_than_5_acres,201,268.8
+2007,Massachusetts,mixed_more_than_5_acres,434.9,629
+2007,Michigan,mixed_more_than_5_acres,320.42,1416.47
+2007,Minnesota,mixed_more_than_5_acres,178.5,888.49
+2007,Mississippi,mixed_more_than_5_acres,0,12
+2007,Missouri,mixed_more_than_5_acres,7,276.25
+2007,Montana,mixed_more_than_5_acres,51,85.45
+2007,Nebraska,mixed_more_than_5_acres,608,1195.5
+2007,Nevada,mixed_more_than_5_acres,20,661.98
+2007,New Hampshire,mixed_more_than_5_acres,166,267
+2007,New Jersey,mixed_more_than_5_acres,0,413.5
+2007,New Mexico,mixed_more_than_5_acres,140,954
+2007,New York,mixed_more_than_5_acres,0,2237.7
+2007,North Carolina,mixed_more_than_5_acres,419,659.73
+2007,North Dakota,mixed_more_than_5_acres,17,102.5
+2007,Ohio,mixed_more_than_5_acres,1083.58,1226.55
+2007,Oklahoma,mixed_more_than_5_acres,0,236
+2007,Oregon,mixed_more_than_5_acres,56,5272
+2007,Pennsylvania,mixed_more_than_5_acres,898,1048.17
+2007,Rhode Island,mixed_more_than_5_acres,93.5,117.5
+2007,South Carolina,mixed_more_than_5_acres,142,193
+2007,South Dakota,mixed_more_than_5_acres,88,110.42
+2007,Tennessee,mixed_more_than_5_acres,108,208
+2007,Texas,mixed_more_than_5_acres,61.8,1935.8400000000001
+2007,Utah,mixed_more_than_5_acres,208,211
+2007,Vermont,mixed_more_than_5_acres,903,903
+2007,Virginia,mixed_more_than_5_acres,179.05,367.65
+2007,Washington,mixed_more_than_5_acres,0,18176
+2007,West Virginia,mixed_more_than_5_acres,0,0
+2007,Wisconsin,mixed_more_than_5_acres,148.83,588.73
+2007,Wyoming,mixed_more_than_5_acres,0,0
+2008,Alabama,mixed_more_than_5_acres,0,11
+2008,Alaska,mixed_more_than_5_acres,11.5,23.7
+2008,Arizona,mixed_more_than_5_acres,0,11287.34
+2008,Arkansas,mixed_more_than_5_acres,0,108
+2008,California,mixed_more_than_5_acres,11317.62,91914.95999999999
+2008,Colorado,mixed_more_than_5_acres,908.55,3554.05
+2008,Connecticut,mixed_more_than_5_acres,102.36,157.47
+2008,Delaware,mixed_more_than_5_acres,39,39
+2008,Florida,mixed_more_than_5_acres,755,3620
+2008,Georgia,mixed_more_than_5_acres,1082,1875
+2008,Hawaii,mixed_more_than_5_acres,38,230.70999999999998
+2008,Idaho,mixed_more_than_5_acres,43.5,47.95
+2008,Illinois,mixed_more_than_5_acres,69.35,225.39999999999998
+2008,Indiana,mixed_more_than_5_acres,79.5,111.22
+2008,Iowa,mixed_more_than_5_acres,67.03,229.32999999999998
+2008,Kansas,mixed_more_than_5_acres,6,27.1
+2008,Kentucky,mixed_more_than_5_acres,0,60
+2008,Louisiana,mixed_more_than_5_acres,8,12.03
+2008,Maine,mixed_more_than_5_acres,307,757
+2008,Maryland,mixed_more_than_5_acres,124.25,249.65
+2008,Massachusetts,mixed_more_than_5_acres,436.9,629.69
+2008,Michigan,mixed_more_than_5_acres,318.72,1403.89
+2008,Minnesota,mixed_more_than_5_acres,104.83,1010.5600000000001
+2008,Mississippi,mixed_more_than_5_acres,0,12
+2008,Missouri,mixed_more_than_5_acres,22.8,159.26999999999998
+2008,Montana,mixed_more_than_5_acres,58,96.85
+2008,Nebraska,mixed_more_than_5_acres,0,757.2
+2008,Nevada,mixed_more_than_5_acres,20,31
+2008,New Hampshire,mixed_more_than_5_acres,240.6,360.2
+2008,New Jersey,mixed_more_than_5_acres,0,374.6
+2008,New Mexico,mixed_more_than_5_acres,155.5,491
+2008,New York,mixed_more_than_5_acres,28.23,3469.17
+2008,North Carolina,mixed_more_than_5_acres,555,2372.94
+2008,North Dakota,mixed_more_than_5_acres,3.6,232.60000000000002
+2008,Ohio,mixed_more_than_5_acres,329,454.34000000000003
+2008,Oklahoma,mixed_more_than_5_acres,0,236
+2008,Oregon,mixed_more_than_5_acres,46,5789
+2008,Pennsylvania,mixed_more_than_5_acres,1366.5,1552.42
+2008,Rhode Island,mixed_more_than_5_acres,94.1,120.39999999999999
+2008,South Carolina,mixed_more_than_5_acres,100,122
+2008,South Dakota,mixed_more_than_5_acres,0,6.12
+2008,Tennessee,mixed_more_than_5_acres,108,208
+2008,Texas,mixed_more_than_5_acres,22.5,1901.46
+2008,Utah,mixed_more_than_5_acres,0,211
+2008,Vermont,mixed_more_than_5_acres,914,914
+2008,Virginia,mixed_more_than_5_acres,198,397.1
+2008,Washington,mixed_more_than_5_acres,0,18294.449999999997
+2008,West Virginia,mixed_more_than_5_acres,10,11.98
+2008,Wisconsin,mixed_more_than_5_acres,145.86,454.39
+2008,Wyoming,mixed_more_than_5_acres,0,0.1
+2010,Alabama,mixed_more_than_5_acres,267.779998779297,273.279998779297
+2010,Alaska,mixed_more_than_5_acres,0,0
+2010,Arizona,mixed_more_than_5_acres,194.520000457764,7403.1798450946835
+2010,Arkansas,mixed_more_than_5_acres,11.5,26.5
+2010,California,mixed_more_than_5_acres,19756.6694641113,100336.47404678105
+2010,Colorado,mixed_more_than_5_acres,783.25,3249.8399983315967
+2010,Connecticut,mixed_more_than_5_acres,155.979995727539,205.86999682903286
+2010,Delaware,mixed_more_than_5_acres,0,50.0699996948242
+2010,Florida,mixed_more_than_5_acres,3311.17993164063,4679.769927978521
+2010,Georgia,mixed_more_than_5_acres,1758.77001953125,2132.900019526482
+2010,Hawaii,mixed_more_than_5_acres,10.6099996566772,308.3200020742419
+2010,Idaho,mixed_more_than_5_acres,99.5,171.33000183105472
+2010,Illinois,mixed_more_than_5_acres,133.400001525879,338.295001085326
+2010,Indiana,mixed_more_than_5_acres,116,247.6200002646449
+2010,Iowa,mixed_more_than_5_acres,137.289996981621,351.2300015926363
+2010,Kansas,mixed_more_than_5_acres,9.34999990463257,23.84999990463257
+2010,Kentucky,mixed_more_than_5_acres,64.5,87.8700008392334
+2010,Louisiana,mixed_more_than_5_acres,0,24
+2010,Maine,mixed_more_than_5_acres,100,537.079999923706
+2010,Maryland,mixed_more_than_5_acres,626.98999786377,731.8899965286259
+2010,Massachusetts,mixed_more_than_5_acres,672.960021972656,1434.5200256347657
+2010,Michigan,mixed_more_than_5_acres,98.5799989700317,450.7440017741922
+2010,Minnesota,mixed_more_than_5_acres,479.950012207031,698.4200153326988
+2010,Mississippi,mixed_more_than_5_acres,0,14
+2010,Missouri,mixed_more_than_5_acres,15.6999998092651,85.289999961853
+2010,Montana,mixed_more_than_5_acres,37,90.25999999046326
+2010,Nebraska,mixed_more_than_5_acres,0.25,279.0599999897924
+2010,Nevada,mixed_more_than_5_acres,1513.89999961853,3421.499999523163
+2010,New Hampshire,mixed_more_than_5_acres,190,300
+2010,New Jersey,mixed_more_than_5_acres,0,403.710000038147
+2010,New Mexico,mixed_more_than_5_acres,106.795001983643,321.7700004577646
+2010,New York,mixed_more_than_5_acres,219.25,2873.309998568599
+2010,North Carolina,mixed_more_than_5_acres,1595.30999755859,2366.800007058677
+2010,North Dakota,mixed_more_than_5_acres,0,529.3099999427795
+2010,Ohio,mixed_more_than_5_acres,143.829999923706,421.43999409675644
+2010,Oklahoma,mixed_more_than_5_acres,120,285
+2010,Oregon,mixed_more_than_5_acres,2466.5299987793,4548.080004908152
+2010,Pennsylvania,mixed_more_than_5_acres,629.520011901855,1439.5466614723205
+2010,Rhode Island,mixed_more_than_5_acres,24.9699993133545,38.5399993133545
+2010,South Carolina,mixed_more_than_5_acres,240,240
+2010,South Dakota,mixed_more_than_5_acres,0,122.25
+2010,Tennessee,mixed_more_than_5_acres,2462.35009765625,2462.35009765625
+2010,Texas,mixed_more_than_5_acres,201.360000610352,502.89700342513623
+2010,Utah,mixed_more_than_5_acres,145,192
+2010,Vermont,mixed_more_than_5_acres,0,1143
+2010,Virginia,mixed_more_than_5_acres,960.280029296875,1089.270028382763
+2010,Washington,mixed_more_than_5_acres,1117,3372.700022913511
+2010,West Virginia,mixed_more_than_5_acres,37,37
+2010,Wisconsin,mixed_more_than_5_acres,2303.80995750427,3020.5499489313343
+2010,Wyoming,mixed_more_than_5_acres,0,0
+2011,Alabama,mixed_more_than_5_acres,42.9099998474121,0
+2011,Alaska,mixed_more_than_5_acres,0,0
+2011,Arizona,mixed_more_than_5_acres,287.090005874634,9021.270142555246
+2011,Arkansas,mixed_more_than_5_acres,94,133
+2011,California,mixed_more_than_5_acres,17594.3502931595,88724.23900026089
+2011,Colorado,mixed_more_than_5_acres,815.51000213623,3264.310002472254
+2011,Connecticut,mixed_more_than_5_acres,185.100006103516,244.30000692606006
+2011,Delaware,mixed_more_than_5_acres,53.2599983215332,58.0099983215332
+2011,Florida,mixed_more_than_5_acres,3335.8798828125,4591.969879150391
+2011,Georgia,mixed_more_than_5_acres,1909.32995605469,2229.8499571979073
+2011,Hawaii,mixed_more_than_5_acres,10.6099996566772,1014.5299713611614
+2011,Idaho,mixed_more_than_5_acres,109.800003051758,232.1000022888186
+2011,Illinois,mixed_more_than_5_acres,191.349998474121,412.46499884128565
+2011,Indiana,mixed_more_than_5_acres,127.530000686646,147.4600008726125
+2011,Iowa,mixed_more_than_5_acres,348.839996337891,456.5799964666371
+2011,Kansas,mixed_more_than_5_acres,6,32.5
+2011,Kentucky,mixed_more_than_5_acres,62.5,62.5
+2011,Louisiana,mixed_more_than_5_acres,17,30.25
+2011,Maine,mixed_more_than_5_acres,85,522.079999923706
+2011,Maryland,mixed_more_than_5_acres,658.675003051758,744.2350042983892
+2011,Massachusetts,mixed_more_than_5_acres,508.799987792969,1332.4999876022341
+2011,Michigan,mixed_more_than_5_acres,213.285003662109,645.1590073443948
+2011,Minnesota,mixed_more_than_5_acres,750.349975585938,1536.3199743777514
+2011,Mississippi,mixed_more_than_5_acres,0,17.5
+2011,Missouri,mixed_more_than_5_acres,178.639997005463,241.0599975585941
+2011,Montana,mixed_more_than_5_acres,448,482.0499999523163
+2011,Nebraska,mixed_more_than_5_acres,51.8499984741211,195.24999856948853
+2011,Nevada,mixed_more_than_5_acres,1583.89999961853,3561.499999523163
+2011,New Hampshire,mixed_more_than_5_acres,0,329
+2011,New Jersey,mixed_more_than_5_acres,0,512.710000038147
+2011,New Mexico,mixed_more_than_5_acres,82.439998626709,174.0599975585938
+2011,New York,mixed_more_than_5_acres,212.75,2322.079997999598
+2011,North Carolina,mixed_more_than_5_acres,1289.86002349854,4471.449125289924
+2011,North Dakota,mixed_more_than_5_acres,187.699996948242,206.27999687194801
+2011,Ohio,mixed_more_than_5_acres,159.400001525879,602.2999956160783
+2011,Oklahoma,mixed_more_than_5_acres,186,259
+2011,Oregon,mixed_more_than_5_acres,2696.33000183105,4576.765013562514
+2011,Pennsylvania,mixed_more_than_5_acres,746.570013046265,1646.589994430542
+2011,Rhode Island,mixed_more_than_5_acres,43,60.799999952316284
+2011,South Carolina,mixed_more_than_5_acres,240,240
+2011,South Dakota,mixed_more_than_5_acres,94,102.40000000596046
+2011,Tennessee,mixed_more_than_5_acres,634.599975585938,732.7999725341801
+2011,Texas,mixed_more_than_5_acres,1152.6900177002,1334.5370204448745
+2011,Utah,mixed_more_than_5_acres,0,24
+2011,Vermont,mixed_more_than_5_acres,0,1053
+2011,Virginia,mixed_more_than_5_acres,1072.08001708984,1195.2200154811105
+2011,Washington,mixed_more_than_5_acres,1251,3916.700018025931
+2011,West Virginia,mixed_more_than_5_acres,37,65.5
+2011,Wisconsin,mixed_more_than_5_acres,2756.09997272491,3633.039978742595
+2011,Wyoming,mixed_more_than_5_acres,0,3.4300000667572
+2002,Alabama,unclassified_vegetables,127,129
+2002,Alaska,unclassified_vegetables,0,0
+2002,Arizona,unclassified_vegetables,1399,1645
+2002,Arkansas,unclassified_vegetables,4973,4975
+2002,California,unclassified_vegetables,11926,38355
+2002,Colorado,unclassified_vegetables,1601,2075
+2002,Connecticut,unclassified_vegetables,0,0
+2002,Delaware,unclassified_vegetables,0,0
+2002,Florida,unclassified_vegetables,718,927
+2002,Georgia,unclassified_vegetables,217,422
+2002,Hawaii,unclassified_vegetables,95,111
+2002,Idaho,unclassified_vegetables,37.25,91.35
+2002,Illinois,unclassified_vegetables,256,316
+2002,Indiana,unclassified_vegetables,381,416
+2002,Iowa,unclassified_vegetables,47,68
+2002,Kansas,unclassified_vegetables,84,102
+2002,Kentucky,unclassified_vegetables,0,0
+2002,Louisiana,unclassified_vegetables,0,0
+2002,Maine,unclassified_vegetables,0,0
+2002,Maryland,unclassified_vegetables,500,500
+2002,Massachusetts,unclassified_vegetables,0,0
+2002,Michigan,unclassified_vegetables,115,383
+2002,Minnesota,unclassified_vegetables,906,1076
+2002,Mississippi,unclassified_vegetables,0,0
+2002,Missouri,unclassified_vegetables,63,64
+2002,Montana,unclassified_vegetables,5,22
+2002,Nebraska,unclassified_vegetables,314,324
+2002,Nevada,unclassified_vegetables,0,16
+2002,New Hampshire,unclassified_vegetables,0,227.25
+2002,New Jersey,unclassified_vegetables,301,301
+2002,New Mexico,unclassified_vegetables,1040,1040
+2002,New York,unclassified_vegetables,1589,1621
+2002,North Carolina,unclassified_vegetables,223,607
+2002,North Dakota,unclassified_vegetables,25,25
+2002,Ohio,unclassified_vegetables,1,344
+2002,Oklahoma,unclassified_vegetables,20,40
+2002,Oregon,unclassified_vegetables,1865,2648
+2002,Pennsylvania,unclassified_vegetables,27,425
+2002,Rhode Island,unclassified_vegetables,0,43.9
+2002,South Carolina,unclassified_vegetables,0,0
+2002,South Dakota,unclassified_vegetables,38,63
+2002,Tennessee,unclassified_vegetables,0,64
+2002,Texas,unclassified_vegetables,221,246
+2002,Utah,unclassified_vegetables,146,146
+2002,Vermont,unclassified_vegetables,746,746
+2002,Virginia,unclassified_vegetables,600,915
+2002,Washington,unclassified_vegetables,6402,6802
+2002,West Virginia,unclassified_vegetables,0,24
+2002,Wisconsin,unclassified_vegetables,960,1541
+2002,Wyoming,unclassified_vegetables,0,0
+2003,Alabama,unclassified_vegetables,0,130
+2003,Alaska,unclassified_vegetables,215,215
+2003,Arizona,unclassified_vegetables,1133.5,1379.5
+2003,Arkansas,unclassified_vegetables,3,20
+2003,California,unclassified_vegetables,17803.125,48446.625
+2003,Colorado,unclassified_vegetables,1162,1619
+2003,Connecticut,unclassified_vegetables,0,0
+2003,Delaware,unclassified_vegetables,0,10
+2003,Florida,unclassified_vegetables,623,847
+2003,Georgia,unclassified_vegetables,455,674
+2003,Hawaii,unclassified_vegetables,84,141
+2003,Idaho,unclassified_vegetables,50,100
+2003,Illinois,unclassified_vegetables,254,295
+2003,Indiana,unclassified_vegetables,381,417
+2003,Iowa,unclassified_vegetables,101.87,362.68
+2003,Kansas,unclassified_vegetables,93,101
+2003,Kentucky,unclassified_vegetables,0,16
+2003,Louisiana,unclassified_vegetables,95,95
+2003,Maine,unclassified_vegetables,0,0
+2003,Maryland,unclassified_vegetables,500,500
+2003,Massachusetts,unclassified_vegetables,0,0
+2003,Michigan,unclassified_vegetables,324.8,1269.2
+2003,Minnesota,unclassified_vegetables,970.65,1148.96
+2003,Mississippi,unclassified_vegetables,0,0
+2003,Missouri,unclassified_vegetables,2,6
+2003,Montana,unclassified_vegetables,90,109
+2003,Nebraska,unclassified_vegetables,97,97
+2003,Nevada,unclassified_vegetables,0,33.25
+2003,New Hampshire,unclassified_vegetables,0,279
+2003,New Jersey,unclassified_vegetables,199,199
+2003,New Mexico,unclassified_vegetables,1040,1040
+2003,New York,unclassified_vegetables,1671.7,1671.7
+2003,North Carolina,unclassified_vegetables,137,778
+2003,North Dakota,unclassified_vegetables,74.5,75.5
+2003,Ohio,unclassified_vegetables,3,490
+2003,Oklahoma,unclassified_vegetables,0,76
+2003,Oregon,unclassified_vegetables,1920.2,2782.4
+2003,Pennsylvania,unclassified_vegetables,42,636
+2003,Rhode Island,unclassified_vegetables,0.1,43.9
+2003,South Carolina,unclassified_vegetables,22,22
+2003,South Dakota,unclassified_vegetables,24.8,54.8
+2003,Tennessee,unclassified_vegetables,40,64
+2003,Texas,unclassified_vegetables,270.73,290.42
+2003,Utah,unclassified_vegetables,107.75,107.75
+2003,Vermont,unclassified_vegetables,818,818
+2003,Virginia,unclassified_vegetables,384,597.5
+2003,Washington,unclassified_vegetables,9313,9555
+2003,West Virginia,unclassified_vegetables,0,42
+2003,Wisconsin,unclassified_vegetables,866,1237.43
+2003,Wyoming,unclassified_vegetables,2,2
+2004,Alabama,unclassified_vegetables,0,4
+2004,Alaska,unclassified_vegetables,0,16
+2004,Arizona,unclassified_vegetables,1572.068,2156.008
+2004,Arkansas,unclassified_vegetables,16,32
+2004,California,unclassified_vegetables,17623.11,48915.86
+2004,Colorado,unclassified_vegetables,1042.1,1555.15
+2004,Connecticut,unclassified_vegetables,7.89,145.22
+2004,Delaware,unclassified_vegetables,2,6
+2004,Florida,unclassified_vegetables,35,2379.5
+2004,Georgia,unclassified_vegetables,45,495.427
+2004,Hawaii,unclassified_vegetables,11.85,345.8475
+2004,Idaho,unclassified_vegetables,197.85,266.38
+2004,Illinois,unclassified_vegetables,29.97,119.59
+2004,Indiana,unclassified_vegetables,0,89.05
+2004,Iowa,unclassified_vegetables,71.05,204.7
+2004,Kansas,unclassified_vegetables,46.3,76.3
+2004,Kentucky,unclassified_vegetables,1,63.5
+2004,Louisiana,unclassified_vegetables,0,1
+2004,Maine,unclassified_vegetables,75,294.27
+2004,Maryland,unclassified_vegetables,0.2,373.139
+2004,Massachusetts,unclassified_vegetables,76.8,463.94
+2004,Michigan,unclassified_vegetables,5,230.54
+2004,Minnesota,unclassified_vegetables,960.48,1609.86
+2004,Mississippi,unclassified_vegetables,0,0
+2004,Missouri,unclassified_vegetables,37.5,58.5
+2004,Montana,unclassified_vegetables,3,176
+2004,Nebraska,unclassified_vegetables,2.5,67.25
+2004,Nevada,unclassified_vegetables,0,14
+2004,New Hampshire,unclassified_vegetables,0,178.9
+2004,New Jersey,unclassified_vegetables,0,166.97
+2004,New Mexico,unclassified_vegetables,220,527
+2004,New York,unclassified_vegetables,4427.0464,4483.0464
+2004,North Carolina,unclassified_vegetables,48.65,457.175
+2004,North Dakota,unclassified_vegetables,111,111
+2004,Ohio,unclassified_vegetables,114.3,601.3
+2004,Oklahoma,unclassified_vegetables,0,163
+2004,Oregon,unclassified_vegetables,1959.33,2306.2
+2004,Pennsylvania,unclassified_vegetables,1,777.95
+2004,Rhode Island,unclassified_vegetables,0,33
+2004,South Carolina,unclassified_vegetables,0,32
+2004,South Dakota,unclassified_vegetables,3.05,5.05
+2004,Tennessee,unclassified_vegetables,0,42
+2004,Texas,unclassified_vegetables,465,817
+2004,Utah,unclassified_vegetables,0,193.9
+2004,Vermont,unclassified_vegetables,0,824
+2004,Virginia,unclassified_vegetables,0,213.5
+2004,Washington,unclassified_vegetables,5831.5,6405.25
+2004,West Virginia,unclassified_vegetables,1,63
+2004,Wisconsin,unclassified_vegetables,527.696,960.427
+2004,Wyoming,unclassified_vegetables,0,1
+2005,Alabama,unclassified_vegetables,0,4
+2005,Alaska,unclassified_vegetables,0,19
+2005,Arizona,unclassified_vegetables,167,3638.94
+2005,Arkansas,unclassified_vegetables,0,35.6
+2005,California,unclassified_vegetables,12571,58327.37
+2005,Colorado,unclassified_vegetables,1633.2,1956.78
+2005,Connecticut,unclassified_vegetables,11.97,168.31
+2005,Delaware,unclassified_vegetables,0,1
+2005,Florida,unclassified_vegetables,35,2139.5
+2005,Georgia,unclassified_vegetables,91,605.837
+2005,Hawaii,unclassified_vegetables,1.5,304.7375
+2005,Idaho,unclassified_vegetables,30.9,148.78
+2005,Illinois,unclassified_vegetables,43.75,357.25
+2005,Indiana,unclassified_vegetables,0,41.05
+2005,Iowa,unclassified_vegetables,12.5,166.7
+2005,Kansas,unclassified_vegetables,10,26.75
+2005,Kentucky,unclassified_vegetables,0,24.5
+2005,Louisiana,unclassified_vegetables,0,11
+2005,Maine,unclassified_vegetables,75,293.71
+2005,Maryland,unclassified_vegetables,0,360.7509
+2005,Massachusetts,unclassified_vegetables,99.92,498.97
+2005,Michigan,unclassified_vegetables,57.5,98.5
+2005,Minnesota,unclassified_vegetables,486.17,749.73
+2005,Mississippi,unclassified_vegetables,0,7.75
+2005,Missouri,unclassified_vegetables,0,39
+2005,Montana,unclassified_vegetables,4,183
+2005,Nebraska,unclassified_vegetables,34,53
+2005,Nevada,unclassified_vegetables,0,14
+2005,New Hampshire,unclassified_vegetables,0,216.4
+2005,New Jersey,unclassified_vegetables,0,236.645
+2005,New Mexico,unclassified_vegetables,221,643
+2005,New York,unclassified_vegetables,2926.45,2952.45
+2005,North Carolina,unclassified_vegetables,316.85,640.445
+2005,North Dakota,unclassified_vegetables,65.15,65.15
+2005,Ohio,unclassified_vegetables,9,581.2
+2005,Oklahoma,unclassified_vegetables,0,180
+2005,Oregon,unclassified_vegetables,3320,3737
+2005,Pennsylvania,unclassified_vegetables,0,868.8
+2005,Rhode Island,unclassified_vegetables,1.2,40.5
+2005,South Carolina,unclassified_vegetables,0,52.8
+2005,South Dakota,unclassified_vegetables,27.25,29.25
+2005,Tennessee,unclassified_vegetables,1,43
+2005,Texas,unclassified_vegetables,325.5,624.5
+2005,Utah,unclassified_vegetables,0,193.9
+2005,Vermont,unclassified_vegetables,0,963
+2005,Virginia,unclassified_vegetables,0,4859.4
+2005,Washington,unclassified_vegetables,10154,10331
+2005,West Virginia,unclassified_vegetables,1,63
+2005,Wisconsin,unclassified_vegetables,571.81,927.89
+2005,Wyoming,unclassified_vegetables,0,0
+2006,Alabama,unclassified_vegetables,0,4
+2006,Alaska,unclassified_vegetables,0,0
+2006,Arizona,unclassified_vegetables,2962,3217
+2006,Arkansas,unclassified_vegetables,10,10
+2006,California,unclassified_vegetables,17119.3,61703.649999999994
+2006,Colorado,unclassified_vegetables,923.03,1938.51
+2006,Connecticut,unclassified_vegetables,0,188.17000000000002
+2006,Delaware,unclassified_vegetables,0,2
+2006,Florida,unclassified_vegetables,132,3182.5
+2006,Georgia,unclassified_vegetables,84,760
+2006,Hawaii,unclassified_vegetables,0,213.51999999999998
+2006,Idaho,unclassified_vegetables,31,149.5
+2006,Illinois,unclassified_vegetables,1018.06,1338.86
+2006,Indiana,unclassified_vegetables,160.85,173.35
+2006,Iowa,unclassified_vegetables,4,132.95
+2006,Kansas,unclassified_vegetables,5.73,22.98
+2006,Kentucky,unclassified_vegetables,0,33.5
+2006,Louisiana,unclassified_vegetables,0,12
+2006,Maine,unclassified_vegetables,0,722
+2006,Maryland,unclassified_vegetables,0,211.27
+2006,Massachusetts,unclassified_vegetables,0,590.9
+2006,Michigan,unclassified_vegetables,102.44,276.14
+2006,Minnesota,unclassified_vegetables,1002.66,1199.25
+2006,Mississippi,unclassified_vegetables,0,3
+2006,Missouri,unclassified_vegetables,40,48.8
+2006,Montana,unclassified_vegetables,2.25,179.25
+2006,Nebraska,unclassified_vegetables,454.5,1402
+2006,Nevada,unclassified_vegetables,3,33
+2006,New Hampshire,unclassified_vegetables,0,197.75
+2006,New Jersey,unclassified_vegetables,112,684
+2006,New Mexico,unclassified_vegetables,126,305
+2006,New York,unclassified_vegetables,1782.44,1814.44
+2006,North Carolina,unclassified_vegetables,342,902
+2006,North Dakota,unclassified_vegetables,108.5,134
+2006,Ohio,unclassified_vegetables,61.6,569.35
+2006,Oklahoma,unclassified_vegetables,215,215
+2006,Oregon,unclassified_vegetables,3874,4373
+2006,Pennsylvania,unclassified_vegetables,18.13,826.13
+2006,Rhode Island,unclassified_vegetables,0.2,75.8
+2006,South Carolina,unclassified_vegetables,0,0
+2006,South Dakota,unclassified_vegetables,3,79.56
+2006,Tennessee,unclassified_vegetables,40,42
+2006,Texas,unclassified_vegetables,2026.31,2291.23
+2006,Utah,unclassified_vegetables,0,0
+2006,Vermont,unclassified_vegetables,0,936
+2006,Virginia,unclassified_vegetables,0,322
+2006,Washington,unclassified_vegetables,0,14274.08
+2006,West Virginia,unclassified_vegetables,1,63
+2006,Wisconsin,unclassified_vegetables,530.74,781.4300000000001
+2006,Wyoming,unclassified_vegetables,0.5,0.5
+2007,Alabama,unclassified_vegetables,0,9
+2007,Alaska,unclassified_vegetables,0,0
+2007,Arizona,unclassified_vegetables,863.35,3436.35
+2007,Arkansas,unclassified_vegetables,10,33.25
+2007,California,unclassified_vegetables,27884.26,78470.81
+2007,Colorado,unclassified_vegetables,923,1977
+2007,Connecticut,unclassified_vegetables,0,199.17000000000002
+2007,Delaware,unclassified_vegetables,0,39
+2007,Florida,unclassified_vegetables,2648,3308.5
+2007,Georgia,unclassified_vegetables,1200,2113
+2007,Hawaii,unclassified_vegetables,0,133.39
+2007,Idaho,unclassified_vegetables,3.5,32.75
+2007,Illinois,unclassified_vegetables,324,381.6
+2007,Indiana,unclassified_vegetables,78.64,124.19
+2007,Iowa,unclassified_vegetables,0,195.49
+2007,Kansas,unclassified_vegetables,14.1,82.55
+2007,Kentucky,unclassified_vegetables,0,0
+2007,Louisiana,unclassified_vegetables,0,11
+2007,Maine,unclassified_vegetables,0,633
+2007,Maryland,unclassified_vegetables,0,268.8
+2007,Massachusetts,unclassified_vegetables,0,629
+2007,Michigan,unclassified_vegetables,991.26,1416.47
+2007,Minnesota,unclassified_vegetables,602.8,888.49
+2007,Mississippi,unclassified_vegetables,10,12
+2007,Missouri,unclassified_vegetables,256,276.25
+2007,Montana,unclassified_vegetables,2.2,85.45
+2007,Nebraska,unclassified_vegetables,587.5,1195.5
+2007,Nevada,unclassified_vegetables,630.98,661.98
+2007,New Hampshire,unclassified_vegetables,0,267
+2007,New Jersey,unclassified_vegetables,296.5,413.5
+2007,New Mexico,unclassified_vegetables,776,954
+2007,New York,unclassified_vegetables,2236.7,2237.7
+2007,North Carolina,unclassified_vegetables,140.21,659.73
+2007,North Dakota,unclassified_vegetables,64,102.5
+2007,Ohio,unclassified_vegetables,17.47,1226.55
+2007,Oklahoma,unclassified_vegetables,236,236
+2007,Oregon,unclassified_vegetables,4819,5272
+2007,Pennsylvania,unclassified_vegetables,4.75,1048.17
+2007,Rhode Island,unclassified_vegetables,0.2,117.5
+2007,South Carolina,unclassified_vegetables,0,193
+2007,South Dakota,unclassified_vegetables,7.17,110.42
+2007,Tennessee,unclassified_vegetables,86,208
+2007,Texas,unclassified_vegetables,1750.93,1935.8400000000001
+2007,Utah,unclassified_vegetables,0,211
+2007,Vermont,unclassified_vegetables,0,903
+2007,Virginia,unclassified_vegetables,120,367.65
+2007,Washington,unclassified_vegetables,17668,18176
+2007,West Virginia,unclassified_vegetables,0,0
+2007,Wisconsin,unclassified_vegetables,367.34,588.73
+2007,Wyoming,unclassified_vegetables,0,0
+2008,Alabama,unclassified_vegetables,0,11
+2008,Alaska,unclassified_vegetables,0,23.7
+2008,Arizona,unclassified_vegetables,5436.8,11287.34
+2008,Arkansas,unclassified_vegetables,101,108
+2008,California,unclassified_vegetables,39308.21,91914.95999999999
+2008,Colorado,unclassified_vegetables,2300,3554.05
+2008,Connecticut,unclassified_vegetables,0,157.47
+2008,Delaware,unclassified_vegetables,0,39
+2008,Florida,unclassified_vegetables,2648,3620
+2008,Georgia,unclassified_vegetables,661,1875
+2008,Hawaii,unclassified_vegetables,102.83,230.70999999999998
+2008,Idaho,unclassified_vegetables,0,47.95
+2008,Illinois,unclassified_vegetables,118.3,225.39999999999998
+2008,Indiana,unclassified_vegetables,0,111.22
+2008,Iowa,unclassified_vegetables,8.2,229.32999999999998
+2008,Kansas,unclassified_vegetables,17.2,27.1
+2008,Kentucky,unclassified_vegetables,60,60
+2008,Louisiana,unclassified_vegetables,0.02,12.03
+2008,Maine,unclassified_vegetables,0,757
+2008,Maryland,unclassified_vegetables,0,249.65
+2008,Massachusetts,unclassified_vegetables,0,629.69
+2008,Michigan,unclassified_vegetables,974.6,1403.89
+2008,Minnesota,unclassified_vegetables,723.2,1010.5600000000001
+2008,Mississippi,unclassified_vegetables,10,12
+2008,Missouri,unclassified_vegetables,115,159.26999999999998
+2008,Montana,unclassified_vegetables,2.25,96.85
+2008,Nebraska,unclassified_vegetables,749.2,757.2
+2008,Nevada,unclassified_vegetables,0,31
+2008,New Hampshire,unclassified_vegetables,0,360.2
+2008,New Jersey,unclassified_vegetables,257.6,374.6
+2008,New Mexico,unclassified_vegetables,288.5,491
+2008,New York,unclassified_vegetables,3201.54,3469.17
+2008,North Carolina,unclassified_vegetables,1737.94,2372.94
+2008,North Dakota,unclassified_vegetables,200.4,232.60000000000002
+2008,Ohio,unclassified_vegetables,3.1,454.34000000000003
+2008,Oklahoma,unclassified_vegetables,236,236
+2008,Oregon,unclassified_vegetables,5209,5789
+2008,Pennsylvania,unclassified_vegetables,9,1552.42
+2008,Rhode Island,unclassified_vegetables,0.3,120.39999999999999
+2008,South Carolina,unclassified_vegetables,0,122
+2008,South Dakota,unclassified_vegetables,4.12,6.12
+2008,Tennessee,unclassified_vegetables,86,208
+2008,Texas,unclassified_vegetables,1681.89,1901.46
+2008,Utah,unclassified_vegetables,0,211
+2008,Vermont,unclassified_vegetables,0,914
+2008,Virginia,unclassified_vegetables,120.5,397.1
+2008,Washington,unclassified_vegetables,17599.85,18294.449999999997
+2008,West Virginia,unclassified_vegetables,0,11.98
+2008,Wisconsin,unclassified_vegetables,144.25,454.39
+2008,Wyoming,unclassified_vegetables,0,0.1
+2010,Alabama,unclassified_vegetables,0,273.279998779297
+2010,Alaska,unclassified_vegetables,0,0
+2010,Arizona,unclassified_vegetables,1691.24996185303,7403.1798450946835
+2010,Arkansas,unclassified_vegetables,3,26.5
+2010,California,unclassified_vegetables,22123.2609863281,100336.47404678105
+2010,Colorado,unclassified_vegetables,2089.28999999166,3249.8399983315967
+2010,Connecticut,unclassified_vegetables,0.600000023841858,205.86999682903286
+2010,Delaware,unclassified_vegetables,45.3199996948242,50.0699996948242
+2010,Florida,unclassified_vegetables,836.239990234375,4679.769927978521
+2010,Georgia,unclassified_vegetables,274.879999995232,2132.900019526482
+2010,Hawaii,unclassified_vegetables,122.830001831055,308.3200020742419
+2010,Idaho,unclassified_vegetables,22.4300003051758,171.33000183105472
+2010,Illinois,unclassified_vegetables,172.899999976158,338.295001085326
+2010,Indiana,unclassified_vegetables,5.61999988555908,247.6200002646449
+2010,Iowa,unclassified_vegetables,35.5200004577637,351.2300015926363
+2010,Kansas,unclassified_vegetables,10,23.84999990463257
+2010,Kentucky,unclassified_vegetables,23.3700008392334,87.8700008392334
+2010,Louisiana,unclassified_vegetables,0,24
+2010,Maine,unclassified_vegetables,0,537.079999923706
+2010,Maryland,unclassified_vegetables,0,731.8899965286259
+2010,Massachusetts,unclassified_vegetables,449.100006103516,1434.5200256347657
+2010,Michigan,unclassified_vegetables,283.124001860619,450.7440017741922
+2010,Minnesota,unclassified_vegetables,100.35000038147,698.4200153326988
+2010,Mississippi,unclassified_vegetables,0,14
+2010,Missouri,unclassified_vegetables,0,85.289999961853
+2010,Montana,unclassified_vegetables,2.25999999046326,90.25999999046326
+2010,Nebraska,unclassified_vegetables,273.759999990463,279.0599999897924
+2010,Nevada,unclassified_vegetables,800,3421.499999523163
+2010,New Hampshire,unclassified_vegetables,0,300
+2010,New Jersey,unclassified_vegetables,373,403.710000038147
+2010,New Mexico,unclassified_vegetables,141.119995117188,321.7700004577646
+2010,New York,unclassified_vegetables,106.799998760223,2873.309998568599
+2010,North Carolina,unclassified_vegetables,563.000009156764,2366.800007058677
+2010,North Dakota,unclassified_vegetables,487,529.3099999427795
+2010,Ohio,unclassified_vegetables,20.4899997711182,421.43999409675644
+2010,Oklahoma,unclassified_vegetables,112,285
+2010,Oregon,unclassified_vegetables,1515.60000610352,4548.080004908152
+2010,Pennsylvania,unclassified_vegetables,572.249987602234,1439.5466614723205
+2010,Rhode Island,unclassified_vegetables,0,38.5399993133545
+2010,South Carolina,unclassified_vegetables,0,240
+2010,South Dakota,unclassified_vegetables,121.5,122.25
+2010,Tennessee,unclassified_vegetables,0,2462.35009765625
+2010,Texas,unclassified_vegetables,126.480001211166,502.89700342513623
+2010,Utah,unclassified_vegetables,36,192
+2010,Vermont,unclassified_vegetables,1143,1143
+2010,Virginia,unclassified_vegetables,18.4700003787875,1089.270028382763
+2010,Washington,unclassified_vegetables,1856.5000244379,3372.700022913511
+2010,West Virginia,unclassified_vegetables,0,37
+2010,Wisconsin,unclassified_vegetables,279.849999904633,3020.5499489313343
+2010,Wyoming,unclassified_vegetables,0,0
+2011,Alabama,unclassified_vegetables,0,0
+2011,Alaska,unclassified_vegetables,0,0
+2011,Arizona,unclassified_vegetables,3020.61010742188,9021.270142555246
+2011,Arkansas,unclassified_vegetables,0,133
+2011,California,unclassified_vegetables,23730.0477294922,88724.23900026089
+2011,Colorado,unclassified_vegetables,2072.31999999285,3264.310002472254
+2011,Connecticut,unclassified_vegetables,0.800000011920929,244.30000692606006
+2011,Delaware,unclassified_vegetables,0,58.0099983215332
+2011,Florida,unclassified_vegetables,685.239990234375,4591.969879150391
+2011,Georgia,unclassified_vegetables,270.025001525879,2229.8499571979073
+2011,Hawaii,unclassified_vegetables,572.849975585938,1014.5299713611614
+2011,Idaho,unclassified_vegetables,25.7000007629395,232.1000022888186
+2011,Illinois,unclassified_vegetables,155.5,412.46499884128565
+2011,Indiana,unclassified_vegetables,0,147.4600008726125
+2011,Iowa,unclassified_vegetables,32.7700004577637,456.5799964666371
+2011,Kansas,unclassified_vegetables,15,32.5
+2011,Kentucky,unclassified_vegetables,0,62.5
+2011,Louisiana,unclassified_vegetables,0,30.25
+2011,Maine,unclassified_vegetables,0,522.079999923706
+2011,Maryland,unclassified_vegetables,0.200000002980232,744.2350042983892
+2011,Massachusetts,unclassified_vegetables,450,1332.4999876022341
+2011,Michigan,unclassified_vegetables,362.994004249573,645.1590073443948
+2011,Minnesota,unclassified_vegetables,704.480000019073,1536.3199743777514
+2011,Mississippi,unclassified_vegetables,0,17.5
+2011,Missouri,unclassified_vegetables,0,241.0599975585941
+2011,Montana,unclassified_vegetables,3,482.0499999523163
+2011,Nebraska,unclassified_vegetables,136,195.24999856948853
+2011,Nevada,unclassified_vegetables,820,3561.499999523163
+2011,New Hampshire,unclassified_vegetables,0,329
+2011,New Jersey,unclassified_vegetables,418,512.710000038147
+2011,New Mexico,unclassified_vegetables,57.5200004577637,174.0599975585938
+2011,New York,unclassified_vegetables,129.649998188019,2322.079997999598
+2011,North Carolina,unclassified_vegetables,2708.47009277344,4471.449125289924
+2011,North Dakota,unclassified_vegetables,7.69999980926514,206.27999687194801
+2011,Ohio,unclassified_vegetables,34.5,602.2999956160783
+2011,Oklahoma,unclassified_vegetables,2,259
+2011,Oregon,unclassified_vegetables,1452.30501174927,4576.765013562514
+2011,Pennsylvania,unclassified_vegetables,674.029987335205,1646.589994430542
+2011,Rhode Island,unclassified_vegetables,5.09999990463257,60.799999952316284
+2011,South Carolina,unclassified_vegetables,0,240
+2011,South Dakota,unclassified_vegetables,3,102.40000000596046
+2011,Tennessee,unclassified_vegetables,98.1999969482422,732.7999725341801
+2011,Texas,unclassified_vegetables,122.720001220703,1334.5370204448745
+2011,Utah,unclassified_vegetables,3,24
+2011,Vermont,unclassified_vegetables,1053,1053
+2011,Virginia,unclassified_vegetables,2.5,1195.2200154811105
+2011,Washington,unclassified_vegetables,2102.50001955032,3916.700018025931
+2011,West Virginia,unclassified_vegetables,0,65.5
+2011,Wisconsin,unclassified_vegetables,325.299999952316,3633.039978742595
+2011,Wyoming,unclassified_vegetables,0,3.4300000667572

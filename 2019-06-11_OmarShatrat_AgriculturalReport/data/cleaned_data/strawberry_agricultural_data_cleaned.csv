@@ -1,0 +1,967 @@
+Metric,Units,State,year,value
+Harvested acreage,acres,    Arkansas,1990,230
+Harvested acreage,acres,    California,1990,21000
+Harvested acreage,acres,    Florida,1990,5300
+Harvested acreage,acres,    Louisiana,1990,750
+Harvested acreage,acres,    Michigan,1990,2200
+Harvested acreage,acres,    New Jersey,1990,500
+Harvested acreage,acres,    New York,1990,2700
+Harvested acreage,acres,    North Carolina,1990,2100
+Harvested acreage,acres,    Ohio,1990,1100
+Harvested acreage,acres,    Oregon,1990,5700
+Harvested acreage,acres,    Pennsylvania,1990,1700
+Harvested acreage,acres,    Virginia,1990,NA
+Harvested acreage,acres,    Washington ,1990,1800
+Harvested acreage,acres,    Wisconsin,1990,1100
+Yield per acre,thousand pounds,    Arkansas,1990,2.4
+Yield per acre,thousand pounds,    California,1990,47
+Yield per acre,thousand pounds,    Florida,1990,22
+Yield per acre,thousand pounds,    Louisiana,1990,7.8
+Yield per acre,thousand pounds,    Michigan,1990,6.5
+Yield per acre,thousand pounds,    New Jersey,1990,4.2
+Yield per acre,thousand pounds,    New York,1990,6.3
+Yield per acre,thousand pounds,    North Carolina,1990,6
+Yield per acre,thousand pounds,    Ohio,1990,6.5
+Yield per acre,thousand pounds,    Oregon,1990,11.5
+Yield per acre,thousand pounds,    Pennsylvania,1990,4.3
+Yield per acre,thousand pounds,    Virginia,1990,NA
+Yield per acre,thousand pounds,    Washington ,1990,7
+Yield per acre,thousand pounds,    Wisconsin,1990,5
+Production,million pounds,    Arkansas,1990,0.6
+Production,million pounds,    California,1990,987
+Production,million pounds,    Florida,1990,116.6
+Production,million pounds,    Louisiana,1990,5.9
+Production,million pounds,    Michigan,1990,14.3
+Production,million pounds,    New Jersey,1990,2.1
+Production,million pounds,    New York,1990,17
+Production,million pounds,    North Carolina,1990,12.6
+Production,million pounds,    Ohio,1990,7.2
+Production,million pounds,    Oregon,1990,65.6
+Production,million pounds,    Pennsylvania,1990,7.3
+Production,million pounds,    Virginia,1990,NA
+Production,million pounds,    Washington ,1990,12.6
+Production,million pounds,    Wisconsin,1990,5.5
+Harvested acreage,acres,    Arkansas,1991,230
+Harvested acreage,acres,    California,1991,21100
+Harvested acreage,acres,    Florida,1991,5500
+Harvested acreage,acres,    Louisiana,1991,850
+Harvested acreage,acres,    Michigan,1991,2100
+Harvested acreage,acres,    New Jersey,1991,500
+Harvested acreage,acres,    New York,1991,3400
+Harvested acreage,acres,    North Carolina,1991,2200
+Harvested acreage,acres,    Ohio,1991,1000
+Harvested acreage,acres,    Oregon,1991,5600
+Harvested acreage,acres,    Pennsylvania,1991,1600
+Harvested acreage,acres,    Virginia,1991,NA
+Harvested acreage,acres,    Washington ,1991,1400
+Harvested acreage,acres,    Wisconsin,1991,1200
+Yield per acre,thousand pounds,    Arkansas,1991,3.5
+Yield per acre,thousand pounds,    California,1991,52
+Yield per acre,thousand pounds,    Florida,1991,24
+Yield per acre,thousand pounds,    Louisiana,1991,6.5
+Yield per acre,thousand pounds,    Michigan,1991,6.2
+Yield per acre,thousand pounds,    New Jersey,1991,3.8
+Yield per acre,thousand pounds,    New York,1991,5.6
+Yield per acre,thousand pounds,    North Carolina,1991,5.5
+Yield per acre,thousand pounds,    Ohio,1991,5.3
+Yield per acre,thousand pounds,    Oregon,1991,11
+Yield per acre,thousand pounds,    Pennsylvania,1991,3.8
+Yield per acre,thousand pounds,    Virginia,1991,NA
+Yield per acre,thousand pounds,    Washington ,1991,6
+Yield per acre,thousand pounds,    Wisconsin,1991,5
+Production,million pounds,    Arkansas,1991,0.8
+Production,million pounds,    California,1991,1097.2
+Production,million pounds,    Florida,1991,132
+Production,million pounds,    Louisiana,1991,5.5
+Production,million pounds,    Michigan,1991,13
+Production,million pounds,    New Jersey,1991,1.9
+Production,million pounds,    New York,1991,19
+Production,million pounds,    North Carolina,1991,12.1
+Production,million pounds,    Ohio,1991,5.3
+Production,million pounds,    Oregon,1991,61.6
+Production,million pounds,    Pennsylvania,1991,6.1
+Production,million pounds,    Virginia,1991,NA
+Production,million pounds,    Washington ,1991,8.4
+Production,million pounds,    Wisconsin,1991,6
+Harvested acreage,acres,    Arkansas,1992,230
+Harvested acreage,acres,    California,1992,24000
+Harvested acreage,acres,    Florida,1992,5400
+Harvested acreage,acres,    Louisiana,1992,1000
+Harvested acreage,acres,    Michigan,1992,2000
+Harvested acreage,acres,    New Jersey,1992,500
+Harvested acreage,acres,    New York,1992,2600
+Harvested acreage,acres,    North Carolina,1992,2300
+Harvested acreage,acres,    Ohio,1992,1200
+Harvested acreage,acres,    Oregon,1992,6100
+Harvested acreage,acres,    Pennsylvania,1992,1500
+Harvested acreage,acres,    Virginia,1992,NA
+Harvested acreage,acres,    Washington ,1992,1600
+Harvested acreage,acres,    Wisconsin,1992,1100
+Yield per acre,thousand pounds,    Arkansas,1992,2.4
+Yield per acre,thousand pounds,    California,1992,43
+Yield per acre,thousand pounds,    Florida,1992,30
+Yield per acre,thousand pounds,    Louisiana,1992,12
+Yield per acre,thousand pounds,    Michigan,1992,6.6
+Yield per acre,thousand pounds,    New Jersey,1992,5
+Yield per acre,thousand pounds,    New York,1992,3
+Yield per acre,thousand pounds,    North Carolina,1992,5.5
+Yield per acre,thousand pounds,    Ohio,1992,7.1
+Yield per acre,thousand pounds,    Oregon,1992,10
+Yield per acre,thousand pounds,    Pennsylvania,1992,3.9
+Yield per acre,thousand pounds,    Virginia,1992,NA
+Yield per acre,thousand pounds,    Washington ,1992,7
+Yield per acre,thousand pounds,    Wisconsin,1992,4.9
+Production,million pounds,    Arkansas,1992,0.6
+Production,million pounds,    California,1992,1032
+Production,million pounds,    Florida,1992,162
+Production,million pounds,    Louisiana,1992,12
+Production,million pounds,    Michigan,1992,13.2
+Production,million pounds,    New Jersey,1992,2.5
+Production,million pounds,    New York,1992,7.8
+Production,million pounds,    North Carolina,1992,12.7
+Production,million pounds,    Ohio,1992,8.5
+Production,million pounds,    Oregon,1992,61
+Production,million pounds,    Pennsylvania,1992,5.9
+Production,million pounds,    Virginia,1992,NA
+Production,million pounds,    Washington ,1992,11.2
+Production,million pounds,    Wisconsin,1992,5.4
+Harvested acreage,acres,    Arkansas,1993,230
+Harvested acreage,acres,    California,1993,25100
+Harvested acreage,acres,    Florida,1993,5800
+Harvested acreage,acres,    Louisiana,1993,1100
+Harvested acreage,acres,    Michigan,1993,1900
+Harvested acreage,acres,    New Jersey,1993,500
+Harvested acreage,acres,    New York,1993,2600
+Harvested acreage,acres,    North Carolina,1993,2400
+Harvested acreage,acres,    Ohio,1993,1200
+Harvested acreage,acres,    Oregon,1993,6200
+Harvested acreage,acres,    Pennsylvania,1993,1500
+Harvested acreage,acres,    Virginia,1993,NA
+Harvested acreage,acres,    Washington ,1993,1600
+Harvested acreage,acres,    Wisconsin,1993,1100
+Yield per acre,thousand pounds,    Arkansas,1993,3
+Yield per acre,thousand pounds,    California,1993,45.5
+Yield per acre,thousand pounds,    Florida,1993,28
+Yield per acre,thousand pounds,    Louisiana,1993,10
+Yield per acre,thousand pounds,    Michigan,1993,6
+Yield per acre,thousand pounds,    New Jersey,1993,3.5
+Yield per acre,thousand pounds,    New York,1993,6
+Yield per acre,thousand pounds,    North Carolina,1993,4.5
+Yield per acre,thousand pounds,    Ohio,1993,5.3
+Yield per acre,thousand pounds,    Oregon,1993,10
+Yield per acre,thousand pounds,    Pennsylvania,1993,3.6
+Yield per acre,thousand pounds,    Virginia,1993,NA
+Yield per acre,thousand pounds,    Washington ,1993,7
+Yield per acre,thousand pounds,    Wisconsin,1993,5.2
+Production,million pounds,    Arkansas,1993,0.7
+Production,million pounds,    California,1993,1142.1
+Production,million pounds,    Florida,1993,162.4
+Production,million pounds,    Louisiana,1993,11
+Production,million pounds,    Michigan,1993,11.4
+Production,million pounds,    New Jersey,1993,1.8
+Production,million pounds,    New York,1993,15.6
+Production,million pounds,    North Carolina,1993,10.8
+Production,million pounds,    Ohio,1993,6.4
+Production,million pounds,    Oregon,1993,62
+Production,million pounds,    Pennsylvania,1993,5.4
+Production,million pounds,    Virginia,1993,NA
+Production,million pounds,    Washington ,1993,11.2
+Production,million pounds,    Wisconsin,1993,5.7
+Harvested acreage,acres,    Arkansas,1994,180
+Harvested acreage,acres,    California,1994,23300
+Harvested acreage,acres,    Florida,1994,5800
+Harvested acreage,acres,    Louisiana,1994,1100
+Harvested acreage,acres,    Michigan,1994,1800
+Harvested acreage,acres,    New Jersey,1994,450
+Harvested acreage,acres,    New York,1994,2400
+Harvested acreage,acres,    North Carolina,1994,2400
+Harvested acreage,acres,    Ohio,1994,1200
+Harvested acreage,acres,    Oregon,1994,6100
+Harvested acreage,acres,    Pennsylvania,1994,1500
+Harvested acreage,acres,    Virginia,1994,NA
+Harvested acreage,acres,    Washington ,1994,1400
+Harvested acreage,acres,    Wisconsin,1994,1200
+Yield per acre,thousand pounds,    Arkansas,1994,3
+Yield per acre,thousand pounds,    California,1994,57
+Yield per acre,thousand pounds,    Florida,1994,29
+Yield per acre,thousand pounds,    Louisiana,1994,14
+Yield per acre,thousand pounds,    Michigan,1994,5.5
+Yield per acre,thousand pounds,    New Jersey,1994,3.1
+Yield per acre,thousand pounds,    New York,1994,4
+Yield per acre,thousand pounds,    North Carolina,1994,6.5
+Yield per acre,thousand pounds,    Ohio,1994,5.1
+Yield per acre,thousand pounds,    Oregon,1994,11.5
+Yield per acre,thousand pounds,    Pennsylvania,1994,4.2
+Yield per acre,thousand pounds,    Virginia,1994,NA
+Yield per acre,thousand pounds,    Washington ,1994,8
+Yield per acre,thousand pounds,    Wisconsin,1994,5.1
+Production,million pounds,    Arkansas,1994,0.5
+Production,million pounds,    California,1994,1328.1
+Production,million pounds,    Florida,1994,168.2
+Production,million pounds,    Louisiana,1994,15.4
+Production,million pounds,    Michigan,1994,9.9
+Production,million pounds,    New Jersey,1994,1.4
+Production,million pounds,    New York,1994,9.6
+Production,million pounds,    North Carolina,1994,15.6
+Production,million pounds,    Ohio,1994,6.1
+Production,million pounds,    Oregon,1994,70.2
+Production,million pounds,    Pennsylvania,1994,6.3
+Production,million pounds,    Virginia,1994,NA
+Production,million pounds,    Washington ,1994,11.2
+Production,million pounds,    Wisconsin,1994,6.1
+Harvested acreage,acres,    Arkansas,1995,180
+Harvested acreage,acres,    California,1995,23600
+Harvested acreage,acres,    Florida,1995,6000
+Harvested acreage,acres,    Louisiana,1995,950
+Harvested acreage,acres,    Michigan,1995,1700
+Harvested acreage,acres,    New Jersey,1995,450
+Harvested acreage,acres,    New York,1995,2200
+Harvested acreage,acres,    North Carolina,1995,2400
+Harvested acreage,acres,    Ohio,1995,1100
+Harvested acreage,acres,    Oregon,1995,5700
+Harvested acreage,acres,    Pennsylvania,1995,1400
+Harvested acreage,acres,    Virginia,1995,NA
+Harvested acreage,acres,    Washington ,1995,1300
+Harvested acreage,acres,    Wisconsin,1995,1100
+Yield per acre,thousand pounds,    Arkansas,1995,6.7
+Yield per acre,thousand pounds,    California,1995,55
+Yield per acre,thousand pounds,    Florida,1995,28
+Yield per acre,thousand pounds,    Louisiana,1995,9.5
+Yield per acre,thousand pounds,    Michigan,1995,6
+Yield per acre,thousand pounds,    New Jersey,1995,3.4
+Yield per acre,thousand pounds,    New York,1995,3.5
+Yield per acre,thousand pounds,    North Carolina,1995,8
+Yield per acre,thousand pounds,    Ohio,1995,4.5
+Yield per acre,thousand pounds,    Oregon,1995,10.5
+Yield per acre,thousand pounds,    Pennsylvania,1995,4.6
+Yield per acre,thousand pounds,    Virginia,1995,NA
+Yield per acre,thousand pounds,    Washington ,1995,8
+Yield per acre,thousand pounds,    Wisconsin,1995,5
+Production,million pounds,    Arkansas,1995,1.2
+Production,million pounds,    California,1995,1298
+Production,million pounds,    Florida,1995,168
+Production,million pounds,    Louisiana,1995,9
+Production,million pounds,    Michigan,1995,10.2
+Production,million pounds,    New Jersey,1995,1.5
+Production,million pounds,    New York,1995,7.7
+Production,million pounds,    North Carolina,1995,19.2
+Production,million pounds,    Ohio,1995,5
+Production,million pounds,    Oregon,1995,59.9
+Production,million pounds,    Pennsylvania,1995,6.4
+Production,million pounds,    Virginia,1995,NA
+Production,million pounds,    Washington ,1995,10.4
+Production,million pounds,    Wisconsin,1995,5.5
+Harvested acreage,acres,    Arkansas,1996,170
+Harvested acreage,acres,    California,1996,25200
+Harvested acreage,acres,    Florida,1996,6000
+Harvested acreage,acres,    Louisiana,1996,750
+Harvested acreage,acres,    Michigan,1996,1500
+Harvested acreage,acres,    New Jersey,1996,450
+Harvested acreage,acres,    New York,1996,1900
+Harvested acreage,acres,    North Carolina,1996,1800
+Harvested acreage,acres,    Ohio,1996,1000
+Harvested acreage,acres,    Oregon,1996,5200
+Harvested acreage,acres,    Pennsylvania,1996,1300
+Harvested acreage,acres,    Virginia,1996,NA
+Harvested acreage,acres,    Washington ,1996,1300
+Harvested acreage,acres,    Wisconsin,1996,1100
+Yield per acre,thousand pounds,    Arkansas,1996,2.1
+Yield per acre,thousand pounds,    California,1996,54
+Yield per acre,thousand pounds,    Florida,1996,26
+Yield per acre,thousand pounds,    Louisiana,1996,7.5
+Yield per acre,thousand pounds,    Michigan,1996,4
+Yield per acre,thousand pounds,    New Jersey,1996,3.5
+Yield per acre,thousand pounds,    New York,1996,3.9
+Yield per acre,thousand pounds,    North Carolina,1996,9
+Yield per acre,thousand pounds,    Ohio,1996,3.6
+Yield per acre,thousand pounds,    Oregon,1996,9.2
+Yield per acre,thousand pounds,    Pennsylvania,1996,4.3
+Yield per acre,thousand pounds,    Virginia,1996,NA
+Yield per acre,thousand pounds,    Washington ,1996,8.1
+Yield per acre,thousand pounds,    Wisconsin,1996,4
+Production,million pounds,    Arkansas,1996,0.4
+Production,million pounds,    California,1996,1360.8
+Production,million pounds,    Florida,1996,156
+Production,million pounds,    Louisiana,1996,5.6
+Production,million pounds,    Michigan,1996,6
+Production,million pounds,    New Jersey,1996,1.6
+Production,million pounds,    New York,1996,7.4
+Production,million pounds,    North Carolina,1996,16.2
+Production,million pounds,    Ohio,1996,3.6
+Production,million pounds,    Oregon,1996,47.8
+Production,million pounds,    Pennsylvania,1996,5.6
+Production,million pounds,    Virginia,1996,NA
+Production,million pounds,    Washington ,1996,10.5
+Production,million pounds,    Wisconsin,1996,4.4
+Harvested acreage,acres,    Arkansas,1997,210
+Harvested acreage,acres,    California,1997,22600
+Harvested acreage,acres,    Florida,1997,6100
+Harvested acreage,acres,    Louisiana,1997,450
+Harvested acreage,acres,    Michigan,1997,1500
+Harvested acreage,acres,    New Jersey,1997,450
+Harvested acreage,acres,    New York,1997,1600
+Harvested acreage,acres,    North Carolina,1997,1500
+Harvested acreage,acres,    Ohio,1997,950
+Harvested acreage,acres,    Oregon,1997,5000
+Harvested acreage,acres,    Pennsylvania,1997,1400
+Harvested acreage,acres,    Virginia,1997,NA
+Harvested acreage,acres,    Washington ,1997,1400
+Harvested acreage,acres,    Wisconsin,1997,1100
+Yield per acre,thousand pounds,    Arkansas,1997,7.1
+Yield per acre,thousand pounds,    California,1997,59
+Yield per acre,thousand pounds,    Florida,1997,29
+Yield per acre,thousand pounds,    Louisiana,1997,11
+Yield per acre,thousand pounds,    Michigan,1997,6.5
+Yield per acre,thousand pounds,    New Jersey,1997,4.4
+Yield per acre,thousand pounds,    New York,1997,4.2
+Yield per acre,thousand pounds,    North Carolina,1997,12
+Yield per acre,thousand pounds,    Ohio,1997,3.6
+Yield per acre,thousand pounds,    Oregon,1997,10
+Yield per acre,thousand pounds,    Pennsylvania,1997,4.6
+Yield per acre,thousand pounds,    Virginia,1997,NA
+Yield per acre,thousand pounds,    Washington ,1997,6.5
+Yield per acre,thousand pounds,    Wisconsin,1997,5.1
+Production,million pounds,    Arkansas,1997,1.5
+Production,million pounds,    California,1997,1333.4
+Production,million pounds,    Florida,1997,176.9
+Production,million pounds,    Louisiana,1997,5
+Production,million pounds,    Michigan,1997,9.8
+Production,million pounds,    New Jersey,1997,2
+Production,million pounds,    New York,1997,6.7
+Production,million pounds,    North Carolina,1997,18
+Production,million pounds,    Ohio,1997,3.4
+Production,million pounds,    Oregon,1997,50
+Production,million pounds,    Pennsylvania,1997,6.4
+Production,million pounds,    Virginia,1997,NA
+Production,million pounds,    Washington ,1997,9.1
+Production,million pounds,    Wisconsin,1997,5.6
+Harvested acreage,acres,    Arkansas,1998,180
+Harvested acreage,acres,    California,1998,24200
+Harvested acreage,acres,    Florida,1998,6200
+Harvested acreage,acres,    Louisiana,1998,400
+Harvested acreage,acres,    Michigan,1998,1400
+Harvested acreage,acres,    New Jersey,1998,450
+Harvested acreage,acres,    New York,1998,1600
+Harvested acreage,acres,    North Carolina,1998,1600
+Harvested acreage,acres,    Ohio,1998,700
+Harvested acreage,acres,    Oregon,1998,4400
+Harvested acreage,acres,    Pennsylvania,1998,1200
+Harvested acreage,acres,    Virginia,1998,NA
+Harvested acreage,acres,    Washington ,1998,1500
+Harvested acreage,acres,    Wisconsin,1998,1100
+Yield per acre,thousand pounds,    Arkansas,1998,4.4
+Yield per acre,thousand pounds,    California,1998,56
+Yield per acre,thousand pounds,    Florida,1998,26
+Yield per acre,thousand pounds,    Louisiana,1998,15
+Yield per acre,thousand pounds,    Michigan,1998,6.8
+Yield per acre,thousand pounds,    New Jersey,1998,4.4
+Yield per acre,thousand pounds,    New York,1998,3.8
+Yield per acre,thousand pounds,    North Carolina,1998,12.5
+Yield per acre,thousand pounds,    Ohio,1998,5.1
+Yield per acre,thousand pounds,    Oregon,1998,11.5
+Yield per acre,thousand pounds,    Pennsylvania,1998,4.2
+Yield per acre,thousand pounds,    Virginia,1998,NA
+Yield per acre,thousand pounds,    Washington ,1998,8
+Yield per acre,thousand pounds,    Wisconsin,1998,5.5
+Production,million pounds,    Arkansas,1998,0.8
+Production,million pounds,    California,1998,1355.2
+Production,million pounds,    Florida,1998,161.2
+Production,million pounds,    Louisiana,1998,6
+Production,million pounds,    Michigan,1998,9.5
+Production,million pounds,    New Jersey,1998,2
+Production,million pounds,    New York,1998,6.1
+Production,million pounds,    North Carolina,1998,20
+Production,million pounds,    Ohio,1998,3.6
+Production,million pounds,    Oregon,1998,50.6
+Production,million pounds,    Pennsylvania,1998,5
+Production,million pounds,    Virginia,1998,NA
+Production,million pounds,    Washington ,1998,12
+Production,million pounds,    Wisconsin,1998,6.1
+Harvested acreage,acres,    Arkansas,1999,210
+Harvested acreage,acres,    California,1999,25800
+Harvested acreage,acres,    Florida,1999,6200
+Harvested acreage,acres,    Louisiana,1999,400
+Harvested acreage,acres,    Michigan,1999,1400
+Harvested acreage,acres,    New Jersey,1999,450
+Harvested acreage,acres,    New York,1999,1600
+Harvested acreage,acres,    North Carolina,1999,1600
+Harvested acreage,acres,    Ohio,1999,700
+Harvested acreage,acres,    Oregon,1999,4200
+Harvested acreage,acres,    Pennsylvania,1999,1300
+Harvested acreage,acres,    Virginia,1999,NA
+Harvested acreage,acres,    Washington ,1999,1500
+Harvested acreage,acres,    Wisconsin,1999,1100
+Yield per acre,thousand pounds,    Arkansas,1999,5.2
+Yield per acre,thousand pounds,    California,1999,59.5
+Yield per acre,thousand pounds,    Florida,1999,30
+Yield per acre,thousand pounds,    Louisiana,1999,15
+Yield per acre,thousand pounds,    Michigan,1999,6.4
+Yield per acre,thousand pounds,    New Jersey,1999,4.4
+Yield per acre,thousand pounds,    New York,1999,4.9
+Yield per acre,thousand pounds,    North Carolina,1999,11
+Yield per acre,thousand pounds,    Ohio,1999,4
+Yield per acre,thousand pounds,    Oregon,1999,9.9
+Yield per acre,thousand pounds,    Pennsylvania,1999,4
+Yield per acre,thousand pounds,    Virginia,1999,NA
+Yield per acre,thousand pounds,    Washington ,1999,8
+Yield per acre,thousand pounds,    Wisconsin,1999,4.7
+Production,million pounds,    Arkansas,1999,1.1
+Production,million pounds,    California,1999,1535.1
+Production,million pounds,    Florida,1999,186
+Production,million pounds,    Louisiana,1999,6
+Production,million pounds,    Michigan,1999,9
+Production,million pounds,    New Jersey,1999,2
+Production,million pounds,    New York,1999,7.8
+Production,million pounds,    North Carolina,1999,17.6
+Production,million pounds,    Ohio,1999,2.8
+Production,million pounds,    Oregon,1999,41.6
+Production,million pounds,    Pennsylvania,1999,5.2
+Production,million pounds,    Virginia,1999,NA
+Production,million pounds,    Washington ,1999,12
+Production,million pounds,    Wisconsin,1999,5.2
+Harvested acreage,acres,    Arkansas,2000,NA
+Harvested acreage,acres,    California,2000,27600
+Harvested acreage,acres,    Florida,2000,6300
+Harvested acreage,acres,    Louisiana,2000,NA
+Harvested acreage,acres,    Michigan,2000,1200
+Harvested acreage,acres,    New Jersey,2000,450
+Harvested acreage,acres,    New York,2000,1600
+Harvested acreage,acres,    North Carolina,2000,1700
+Harvested acreage,acres,    Ohio,2000,700
+Harvested acreage,acres,    Oregon,2000,3500
+Harvested acreage,acres,    Pennsylvania,2000,1300
+Harvested acreage,acres,    Virginia,2000,500
+Harvested acreage,acres,    Washington ,2000,1500
+Harvested acreage,acres,    Wisconsin,2000,1000
+Yield per acre,thousand pounds,    Arkansas,2000,NA
+Yield per acre,thousand pounds,    California,2000,57
+Yield per acre,thousand pounds,    Florida,2000,35
+Yield per acre,thousand pounds,    Louisiana,2000,NA
+Yield per acre,thousand pounds,    Michigan,2000,6.9
+Yield per acre,thousand pounds,    New Jersey,2000,3.6
+Yield per acre,thousand pounds,    New York,2000,4.1
+Yield per acre,thousand pounds,    North Carolina,2000,13.5
+Yield per acre,thousand pounds,    Ohio,2000,4.4
+Yield per acre,thousand pounds,    Oregon,2000,10
+Yield per acre,thousand pounds,    Pennsylvania,2000,5
+Yield per acre,thousand pounds,    Virginia,2000,11
+Yield per acre,thousand pounds,    Washington ,2000,8.6
+Yield per acre,thousand pounds,    Wisconsin,2000,4.4
+Production,million pounds,    Arkansas,2000,NA
+Production,million pounds,    California,2000,1573.2
+Production,million pounds,    Florida,2000,220.5
+Production,million pounds,    Louisiana,2000,NA
+Production,million pounds,    Michigan,2000,8.3
+Production,million pounds,    New Jersey,2000,1.6
+Production,million pounds,    New York,2000,6.5
+Production,million pounds,    North Carolina,2000,23.1
+Production,million pounds,    Ohio,2000,3.1
+Production,million pounds,    Oregon,2000,35.3
+Production,million pounds,    Pennsylvania,2000,6.5
+Production,million pounds,    Virginia,2000,5.4
+Production,million pounds,    Washington ,2000,12.9
+Production,million pounds,    Wisconsin,2000,4.4
+Harvested acreage,acres,    Arkansas,2001,NA
+Harvested acreage,acres,    California,2001,26400
+Harvested acreage,acres,    Florida,2001,6500
+Harvested acreage,acres,    Louisiana,2001,NA
+Harvested acreage,acres,    Michigan,2001,900
+Harvested acreage,acres,    New Jersey,2001,400
+Harvested acreage,acres,    New York,2001,1600
+Harvested acreage,acres,    North Carolina,2001,1700
+Harvested acreage,acres,    Ohio,2001,700
+Harvested acreage,acres,    Oregon,2001,3100
+Harvested acreage,acres,    Pennsylvania,2001,1300
+Harvested acreage,acres,    Virginia,2001,500
+Harvested acreage,acres,    Washington ,2001,1600
+Harvested acreage,acres,    Wisconsin,2001,1000
+Yield per acre,thousand pounds,    Arkansas,2001,NA
+Yield per acre,thousand pounds,    California,2001,52
+Yield per acre,thousand pounds,    Florida,2001,26
+Yield per acre,thousand pounds,    Louisiana,2001,NA
+Yield per acre,thousand pounds,    Michigan,2001,5.6
+Yield per acre,thousand pounds,    New Jersey,2001,4.5
+Yield per acre,thousand pounds,    New York,2001,3.8
+Yield per acre,thousand pounds,    North Carolina,2001,11.5
+Yield per acre,thousand pounds,    Ohio,2001,4.6
+Yield per acre,thousand pounds,    Oregon,2001,13
+Yield per acre,thousand pounds,    Pennsylvania,2001,6.6
+Yield per acre,thousand pounds,    Virginia,2001,8.2
+Yield per acre,thousand pounds,    Washington ,2001,10
+Yield per acre,thousand pounds,    Wisconsin,2001,4.6
+Production,million pounds,    Arkansas,2001,NA
+Production,million pounds,    California,2001,1372.8
+Production,million pounds,    Florida,2001,169
+Production,million pounds,    Louisiana,2001,NA
+Production,million pounds,    Michigan,2001,5
+Production,million pounds,    New Jersey,2001,1.8
+Production,million pounds,    New York,2001,6
+Production,million pounds,    North Carolina,2001,19.6
+Production,million pounds,    Ohio,2001,3.2
+Production,million pounds,    Oregon,2001,40.2
+Production,million pounds,    Pennsylvania,2001,8.6
+Production,million pounds,    Virginia,2001,4.1
+Production,million pounds,    Washington ,2001,16
+Production,million pounds,    Wisconsin,2001,4.6
+Harvested acreage,acres,    Arkansas,2002,NA
+Harvested acreage,acres,    California,2002,28500
+Harvested acreage,acres,    Florida,2002,6900
+Harvested acreage,acres,    Louisiana,2002,NA
+Harvested acreage,acres,    Michigan,2002,1200
+Harvested acreage,acres,    New Jersey,2002,NA
+Harvested acreage,acres,    New York,2002,1400
+Harvested acreage,acres,    North Carolina,2002,1800
+Harvested acreage,acres,    Ohio,2002,800
+Harvested acreage,acres,    Oregon,2002,3000
+Harvested acreage,acres,    Pennsylvania,2002,1300
+Harvested acreage,acres,    Virginia,2002,NA
+Harvested acreage,acres,    Washington ,2002,1800
+Harvested acreage,acres,    Wisconsin,2002,900
+Yield per acre,thousand pounds,    Arkansas,2002,NA
+Yield per acre,thousand pounds,    California,2002,56.5
+Yield per acre,thousand pounds,    Florida,2002,25.5
+Yield per acre,thousand pounds,    Louisiana,2002,NA
+Yield per acre,thousand pounds,    Michigan,2002,4.7
+Yield per acre,thousand pounds,    New Jersey,2002,NA
+Yield per acre,thousand pounds,    New York,2002,4.5
+Yield per acre,thousand pounds,    North Carolina,2002,12.5
+Yield per acre,thousand pounds,    Ohio,2002,3.5
+Yield per acre,thousand pounds,    Oregon,2002,11.5
+Yield per acre,thousand pounds,    Pennsylvania,2002,5.6
+Yield per acre,thousand pounds,    Virginia,2002,NA
+Yield per acre,thousand pounds,    Washington ,2002,9
+Yield per acre,thousand pounds,    Wisconsin,2002,4.8
+Production,million pounds,    Arkansas,2002,NA
+Production,million pounds,    California,2002,1609.7
+Production,million pounds,    Florida,2002,176
+Production,million pounds,    Louisiana,2002,NA
+Production,million pounds,    Michigan,2002,5.6
+Production,million pounds,    New Jersey,2002,NA
+Production,million pounds,    New York,2002,6.3
+Production,million pounds,    North Carolina,2002,22.5
+Production,million pounds,    Ohio,2002,2.8
+Production,million pounds,    Oregon,2002,33.8
+Production,million pounds,    Pennsylvania,2002,7.3
+Production,million pounds,    Virginia,2002,NA
+Production,million pounds,    Washington ,2002,16.2
+Production,million pounds,    Wisconsin,2002,4.3
+Harvested acreage,acres,    Arkansas,2003,NA
+Harvested acreage,acres,    California,2003,29600
+Harvested acreage,acres,    Florida,2003,7100
+Harvested acreage,acres,    Louisiana,2003,NA
+Harvested acreage,acres,    Michigan,2003,1100
+Harvested acreage,acres,    New Jersey,2003,NA
+Harvested acreage,acres,    New York,2003,1500
+Harvested acreage,acres,    North Carolina,2003,1700
+Harvested acreage,acres,    Ohio,2003,800
+Harvested acreage,acres,    Oregon,2003,2600
+Harvested acreage,acres,    Pennsylvania,2003,1300
+Harvested acreage,acres,    Virginia,2003,NA
+Harvested acreage,acres,    Washington ,2003,1800
+Harvested acreage,acres,    Wisconsin,2003,900
+Yield per acre,thousand pounds,    Arkansas,2003,NA
+Yield per acre,thousand pounds,    California,2003,64.5
+Yield per acre,thousand pounds,    Florida,2003,22
+Yield per acre,thousand pounds,    Louisiana,2003,NA
+Yield per acre,thousand pounds,    Michigan,2003,5.7
+Yield per acre,thousand pounds,    New Jersey,2003,NA
+Yield per acre,thousand pounds,    New York,2003,3.3
+Yield per acre,thousand pounds,    North Carolina,2003,10
+Yield per acre,thousand pounds,    Ohio,2003,4.8
+Yield per acre,thousand pounds,    Oregon,2003,11.5
+Yield per acre,thousand pounds,    Pennsylvania,2003,6.4
+Yield per acre,thousand pounds,    Virginia,2003,NA
+Yield per acre,thousand pounds,    Washington ,2003,9
+Yield per acre,thousand pounds,    Wisconsin,2003,5
+Production,million pounds,    Arkansas,2003,NA
+Production,million pounds,    California,2003,1909.2
+Production,million pounds,    Florida,2003,156.2
+Production,million pounds,    Louisiana,2003,NA
+Production,million pounds,    Michigan,2003,6.3
+Production,million pounds,    New Jersey,2003,NA
+Production,million pounds,    New York,2003,5
+Production,million pounds,    North Carolina,2003,17
+Production,million pounds,    Ohio,2003,3.8
+Production,million pounds,    Oregon,2003,29.5
+Production,million pounds,    Pennsylvania,2003,8.3
+Production,million pounds,    Virginia,2003,NA
+Production,million pounds,    Washington ,2003,16.2
+Production,million pounds,    Wisconsin,2003,4.5
+Harvested acreage,acres,    Arkansas,2004,NA
+Harvested acreage,acres,    California,2004,33200
+Harvested acreage,acres,    Florida,2004,7100
+Harvested acreage,acres,    Louisiana,2004,NA
+Harvested acreage,acres,    Michigan,2004,900
+Harvested acreage,acres,    New Jersey,2004,NA
+Harvested acreage,acres,    New York,2004,1500
+Harvested acreage,acres,    North Carolina,2004,1600
+Harvested acreage,acres,    Ohio,2004,800
+Harvested acreage,acres,    Oregon,2004,2400
+Harvested acreage,acres,    Pennsylvania,2004,1300
+Harvested acreage,acres,    Virginia,2004,NA
+Harvested acreage,acres,    Washington ,2004,1800
+Harvested acreage,acres,    Wisconsin,2004,900
+Yield per acre,thousand pounds,    Arkansas,2004,NA
+Yield per acre,thousand pounds,    California,2004,59
+Yield per acre,thousand pounds,    Florida,2004,23
+Yield per acre,thousand pounds,    Louisiana,2004,NA
+Yield per acre,thousand pounds,    Michigan,2004,4.6
+Yield per acre,thousand pounds,    New Jersey,2004,NA
+Yield per acre,thousand pounds,    New York,2004,4.3
+Yield per acre,thousand pounds,    North Carolina,2004,11
+Yield per acre,thousand pounds,    Ohio,2004,4.8
+Yield per acre,thousand pounds,    Oregon,2004,13.5
+Yield per acre,thousand pounds,    Pennsylvania,2004,6.1
+Yield per acre,thousand pounds,    Virginia,2004,NA
+Yield per acre,thousand pounds,    Washington ,2004,8.5
+Yield per acre,thousand pounds,    Wisconsin,2004,4.6
+Production,million pounds,    Arkansas,2004,NA
+Production,million pounds,    California,2004,1958.8
+Production,million pounds,    Florida,2004,163.3
+Production,million pounds,    Louisiana,2004,NA
+Production,million pounds,    Michigan,2004,4.1
+Production,million pounds,    New Jersey,2004,NA
+Production,million pounds,    New York,2004,6.5
+Production,million pounds,    North Carolina,2004,17.6
+Production,million pounds,    Ohio,2004,3.8
+Production,million pounds,    Oregon,2004,32.4
+Production,million pounds,    Pennsylvania,2004,7.9
+Production,million pounds,    Virginia,2004,NA
+Production,million pounds,    Washington ,2004,15.3
+Production,million pounds,    Wisconsin,2004,4.1
+Harvested acreage,acres,    Arkansas,2005,NA
+Harvested acreage,acres,    California,2005,34300
+Harvested acreage,acres,    Florida,2005,7300
+Harvested acreage,acres,    Louisiana,2005,NA
+Harvested acreage,acres,    Michigan,2005,1000
+Harvested acreage,acres,    New Jersey,2005,NA
+Harvested acreage,acres,    New York,2005,1500
+Harvested acreage,acres,    North Carolina,2005,1500
+Harvested acreage,acres,    Ohio,2005,800
+Harvested acreage,acres,    Oregon,2005,2200
+Harvested acreage,acres,    Pennsylvania,2005,1300
+Harvested acreage,acres,    Virginia,2005,NA
+Harvested acreage,acres,    Washington ,2005,1700
+Harvested acreage,acres,    Wisconsin,2005,860
+Yield per acre,thousand pounds,    Arkansas,2005,NA
+Yield per acre,thousand pounds,    California,2005,60
+Yield per acre,thousand pounds,    Florida,2005,24.5
+Yield per acre,thousand pounds,    Louisiana,2005,NA
+Yield per acre,thousand pounds,    Michigan,2005,5.2
+Yield per acre,thousand pounds,    New Jersey,2005,NA
+Yield per acre,thousand pounds,    New York,2005,3.5
+Yield per acre,thousand pounds,    North Carolina,2005,13
+Yield per acre,thousand pounds,    Ohio,2005,5.3
+Yield per acre,thousand pounds,    Oregon,2005,11.5
+Yield per acre,thousand pounds,    Pennsylvania,2005,5.4
+Yield per acre,thousand pounds,    Virginia,2005,NA
+Yield per acre,thousand pounds,    Washington ,2005,9
+Yield per acre,thousand pounds,    Wisconsin,2005,5.1
+Production,million pounds,    Arkansas,2005,NA
+Production,million pounds,    California,2005,2058
+Production,million pounds,    Florida,2005,178.9
+Production,million pounds,    Louisiana,2005,NA
+Production,million pounds,    Michigan,2005,5.2
+Production,million pounds,    New Jersey,2005,NA
+Production,million pounds,    New York,2005,5.2
+Production,million pounds,    North Carolina,2005,19.5
+Production,million pounds,    Ohio,2005,4.2
+Production,million pounds,    Oregon,2005,25
+Production,million pounds,    Pennsylvania,2005,7
+Production,million pounds,    Virginia,2005,NA
+Production,million pounds,    Washington ,2005,15.3
+Production,million pounds,    Wisconsin,2005,4.4
+Harvested acreage,acres,    Arkansas,2006,NA
+Harvested acreage,acres,    California,2006,35800
+Harvested acreage,acres,    Florida,2006,7300
+Harvested acreage,acres,    Louisiana,2006,NA
+Harvested acreage,acres,    Michigan,2006,850
+Harvested acreage,acres,    New Jersey,2006,NA
+Harvested acreage,acres,    New York,2006,1500
+Harvested acreage,acres,    North Carolina,2006,1600
+Harvested acreage,acres,    Ohio,2006,750
+Harvested acreage,acres,    Oregon,2006,2100
+Harvested acreage,acres,    Pennsylvania,2006,1200
+Harvested acreage,acres,    Virginia,2006,NA
+Harvested acreage,acres,    Washington ,2006,1600
+Harvested acreage,acres,    Wisconsin,2006,760
+Yield per acre,thousand pounds,    Arkansas,2006,NA
+Yield per acre,thousand pounds,    California,2006,59
+Yield per acre,thousand pounds,    Florida,2006,28
+Yield per acre,thousand pounds,    Louisiana,2006,NA
+Yield per acre,thousand pounds,    Michigan,2006,6.5
+Yield per acre,thousand pounds,    New Jersey,2006,NA
+Yield per acre,thousand pounds,    New York,2006,2.9
+Yield per acre,thousand pounds,    North Carolina,2006,13.5
+Yield per acre,thousand pounds,    Ohio,2006,5.7
+Yield per acre,thousand pounds,    Oregon,2006,11
+Yield per acre,thousand pounds,    Pennsylvania,2006,5.7
+Yield per acre,thousand pounds,    Virginia,2006,NA
+Yield per acre,thousand pounds,    Washington ,2006,8
+Yield per acre,thousand pounds,    Wisconsin,2006,6.2
+Production,million pounds,    Arkansas,2006,NA
+Production,million pounds,    California,2006,2116.3
+Production,million pounds,    Florida,2006,204.4
+Production,million pounds,    Louisiana,2006,NA
+Production,million pounds,    Michigan,2006,5.5
+Production,million pounds,    New Jersey,2006,NA
+Production,million pounds,    New York,2006,4.4
+Production,million pounds,    North Carolina,2006,21.6
+Production,million pounds,    Ohio,2006,4.3
+Production,million pounds,    Oregon,2006,23
+Production,million pounds,    Pennsylvania,2006,6.8
+Production,million pounds,    Virginia,2006,NA
+Production,million pounds,    Washington ,2006,12.8
+Production,million pounds,    Wisconsin,2006,4.7
+Harvested acreage,acres,    Arkansas,2007,NA
+Harvested acreage,acres,    California,2007,35500
+Harvested acreage,acres,    Florida,2007,6600
+Harvested acreage,acres,    Louisiana,2007,NA
+Harvested acreage,acres,    Michigan,2007,850
+Harvested acreage,acres,    New Jersey,2007,NA
+Harvested acreage,acres,    New York,2007,1400
+Harvested acreage,acres,    North Carolina,2007,1500
+Harvested acreage,acres,    Ohio,2007,780
+Harvested acreage,acres,    Oregon,2007,1900
+Harvested acreage,acres,    Pennsylvania,2007,1200
+Harvested acreage,acres,    Virginia,2007,NA
+Harvested acreage,acres,    Washington ,2007,1600
+Harvested acreage,acres,    Wisconsin,2007,850
+Yield per acre,thousand pounds,    Arkansas,2007,NA
+Yield per acre,thousand pounds,    California,2007,60.5
+Yield per acre,thousand pounds,    Florida,2007,32
+Yield per acre,thousand pounds,    Louisiana,2007,NA
+Yield per acre,thousand pounds,    Michigan,2007,5.1
+Yield per acre,thousand pounds,    New Jersey,2007,NA
+Yield per acre,thousand pounds,    New York,2007,3.3
+Yield per acre,thousand pounds,    North Carolina,2007,12.5
+Yield per acre,thousand pounds,    Ohio,2007,4.9
+Yield per acre,thousand pounds,    Oregon,2007,13
+Yield per acre,thousand pounds,    Pennsylvania,2007,4.7
+Yield per acre,thousand pounds,    Virginia,2007,NA
+Yield per acre,thousand pounds,    Washington ,2007,8.4
+Yield per acre,thousand pounds,    Wisconsin,2007,5.6
+Production,million pounds,    Arkansas,2007,NA
+Production,million pounds,    California,2007,2154
+Production,million pounds,    Florida,2007,211.2
+Production,million pounds,    Louisiana,2007,NA
+Production,million pounds,    Michigan,2007,4.3
+Production,million pounds,    New Jersey,2007,NA
+Production,million pounds,    New York,2007,4.6
+Production,million pounds,    North Carolina,2007,18.9
+Production,million pounds,    Ohio,2007,3.8
+Production,million pounds,    Oregon,2007,24.7
+Production,million pounds,    Pennsylvania,2007,5.6
+Production,million pounds,    Virginia,2007,NA
+Production,million pounds,    Washington ,2007,13.4
+Production,million pounds,    Wisconsin,2007,4.8
+Harvested acreage,acres,    Arkansas,2008,NA
+Harvested acreage,acres,    California,2008,37600
+Harvested acreage,acres,    Florida,2008,6900
+Harvested acreage,acres,    Louisiana,2008,NA
+Harvested acreage,acres,    Michigan,2008,800
+Harvested acreage,acres,    New Jersey,2008,NA
+Harvested acreage,acres,    New York,2008,1400
+Harvested acreage,acres,    North Carolina,2008,1600
+Harvested acreage,acres,    Ohio,2008,770
+Harvested acreage,acres,    Oregon,2008,1800
+Harvested acreage,acres,    Pennsylvania,2008,1200
+Harvested acreage,acres,    Virginia,2008,NA
+Harvested acreage,acres,    Washington ,2008,1600
+Harvested acreage,acres,    Wisconsin,2008,800
+Yield per acre,thousand pounds,    Arkansas,2008,NA
+Yield per acre,thousand pounds,    California,2008,60.5
+Yield per acre,thousand pounds,    Florida,2008,26
+Yield per acre,thousand pounds,    Louisiana,2008,NA
+Yield per acre,thousand pounds,    Michigan,2008,6.1
+Yield per acre,thousand pounds,    New Jersey,2008,NA
+Yield per acre,thousand pounds,    New York,2008,3.2
+Yield per acre,thousand pounds,    North Carolina,2008,13
+Yield per acre,thousand pounds,    Ohio,2008,5.5
+Yield per acre,thousand pounds,    Oregon,2008,13
+Yield per acre,thousand pounds,    Pennsylvania,2008,6.1
+Yield per acre,thousand pounds,    Virginia,2008,NA
+Yield per acre,thousand pounds,    Washington ,2008,9
+Yield per acre,thousand pounds,    Wisconsin,2008,6.1
+Production,million pounds,    Arkansas,2008,NA
+Production,million pounds,    California,2008,2267.5
+Production,million pounds,    Florida,2008,179.4
+Production,million pounds,    Louisiana,2008,NA
+Production,million pounds,    Michigan,2008,4.9
+Production,million pounds,    New Jersey,2008,NA
+Production,million pounds,    New York,2008,4.5
+Production,million pounds,    North Carolina,2008,20.8
+Production,million pounds,    Ohio,2008,4.2
+Production,million pounds,    Oregon,2008,23.8
+Production,million pounds,    Pennsylvania,2008,7.3
+Production,million pounds,    Virginia,2008,NA
+Production,million pounds,    Washington ,2008,14.4
+Production,million pounds,    Wisconsin,2008,4.9
+Harvested acreage,acres,    Arkansas,2009,NA
+Harvested acreage,acres,    California,2009,39800
+Harvested acreage,acres,    Florida,2009,8800
+Harvested acreage,acres,    Louisiana,2009,NA
+Harvested acreage,acres,    Michigan,2009,800
+Harvested acreage,acres,    New Jersey,2009,NA
+Harvested acreage,acres,    New York,2009,1400
+Harvested acreage,acres,    North Carolina,2009,1500
+Harvested acreage,acres,    Ohio,2009,710
+Harvested acreage,acres,    Oregon,2009,1700
+Harvested acreage,acres,    Pennsylvania,2009,1100
+Harvested acreage,acres,    Virginia,2009,NA
+Harvested acreage,acres,    Washington ,2009,1500
+Harvested acreage,acres,    Wisconsin,2009,770
+Yield per acre,thousand pounds,    Arkansas,2009,NA
+Yield per acre,thousand pounds,    California,2009,62.5
+Yield per acre,thousand pounds,    Florida,2009,27
+Yield per acre,thousand pounds,    Louisiana,2009,NA
+Yield per acre,thousand pounds,    Michigan,2009,5.8
+Yield per acre,thousand pounds,    New Jersey,2009,NA
+Yield per acre,thousand pounds,    New York,2009,3.1
+Yield per acre,thousand pounds,    North Carolina,2009,13
+Yield per acre,thousand pounds,    Ohio,2009,4.2
+Yield per acre,thousand pounds,    Oregon,2009,12.5
+Yield per acre,thousand pounds,    Pennsylvania,2009,5.9
+Yield per acre,thousand pounds,    Virginia,2009,NA
+Yield per acre,thousand pounds,    Washington ,2009,9.5
+Yield per acre,thousand pounds,    Wisconsin,2009,6.1
+Production,million pounds,    Arkansas,2009,NA
+Production,million pounds,    California,2009,2485.6
+Production,million pounds,    Florida,2009,237.6
+Production,million pounds,    Louisiana,2009,NA
+Production,million pounds,    Michigan,2009,4.6
+Production,million pounds,    New Jersey,2009,NA
+Production,million pounds,    New York,2009,4.4
+Production,million pounds,    North Carolina,2009,19.5
+Production,million pounds,    Ohio,2009,3
+Production,million pounds,    Oregon,2009,21.1
+Production,million pounds,    Pennsylvania,2009,6.5
+Production,million pounds,    Virginia,2009,NA
+Production,million pounds,    Washington ,2009,14.3
+Production,million pounds,    Wisconsin,2009,4.7
+Harvested acreage,acres,    Arkansas,2010,NA
+Harvested acreage,acres,    California,2010,38600
+Harvested acreage,acres,    Florida,2010,8800
+Harvested acreage,acres,    Louisiana,2010,NA
+Harvested acreage,acres,    Michigan,2010,750
+Harvested acreage,acres,    New Jersey,2010,NA
+Harvested acreage,acres,    New York,2010,1400
+Harvested acreage,acres,    North Carolina,2010,1500
+Harvested acreage,acres,    Ohio,2010,730
+Harvested acreage,acres,    Oregon,2010,1900
+Harvested acreage,acres,    Pennsylvania,2010,1100
+Harvested acreage,acres,    Virginia,2010,NA
+Harvested acreage,acres,    Washington ,2010,1500
+Harvested acreage,acres,    Wisconsin,2010,710
+Yield per acre,thousand pounds,    Arkansas,2010,NA
+Yield per acre,thousand pounds,    California,2010,67
+Yield per acre,thousand pounds,    Florida,2010,22
+Yield per acre,thousand pounds,    Louisiana,2010,NA
+Yield per acre,thousand pounds,    Michigan,2010,3.9
+Yield per acre,thousand pounds,    New Jersey,2010,NA
+Yield per acre,thousand pounds,    New York,2010,2.5
+Yield per acre,thousand pounds,    North Carolina,2010,12
+Yield per acre,thousand pounds,    Ohio,2010,4.8
+Yield per acre,thousand pounds,    Oregon,2010,12.5
+Yield per acre,thousand pounds,    Pennsylvania,2010,5.1
+Yield per acre,thousand pounds,    Virginia,2010,NA
+Yield per acre,thousand pounds,    Washington ,2010,8.3
+Yield per acre,thousand pounds,    Wisconsin,2010,5.8
+Production,million pounds,    Arkansas,2010,NA
+Production,million pounds,    California,2010,2585.9
+Production,million pounds,    Florida,2010,193.6
+Production,million pounds,    Louisiana,2010,NA
+Production,million pounds,    Michigan,2010,2.9
+Production,million pounds,    New Jersey,2010,NA
+Production,million pounds,    New York,2010,3.5
+Production,million pounds,    North Carolina,2010,18
+Production,million pounds,    Ohio,2010,3.5
+Production,million pounds,    Oregon,2010,23.6
+Production,million pounds,    Pennsylvania,2010,5.6
+Production,million pounds,    Virginia,2010,NA
+Production,million pounds,    Washington ,2010,12.5
+Production,million pounds,    Wisconsin,2010,4.1
+Harvested acreage,acres,    Arkansas,2011,NA
+Harvested acreage,acres,    California,2011,38000
+Harvested acreage,acres,    Florida,2011,9900
+Harvested acreage,acres,    Louisiana,2011,NA
+Harvested acreage,acres,    Michigan,2011,700
+Harvested acreage,acres,    New Jersey,2011,NA
+Harvested acreage,acres,    New York,2011,1400
+Harvested acreage,acres,    North Carolina,2011,1500
+Harvested acreage,acres,    Ohio,2011,730
+Harvested acreage,acres,    Oregon,2011,2000
+Harvested acreage,acres,    Pennsylvania,2011,990
+Harvested acreage,acres,    Virginia,2011,NA
+Harvested acreage,acres,    Washington ,2011,1500
+Harvested acreage,acres,    Wisconsin,2011,700
+Yield per acre,thousand pounds,    Arkansas,2011,NA
+Yield per acre,thousand pounds,    California,2011,68
+Yield per acre,thousand pounds,    Florida,2011,25
+Yield per acre,thousand pounds,    Louisiana,2011,NA
+Yield per acre,thousand pounds,    Michigan,2011,4.4
+Yield per acre,thousand pounds,    New Jersey,2011,NA
+Yield per acre,thousand pounds,    New York,2011,2.6
+Yield per acre,thousand pounds,    North Carolina,2011,13
+Yield per acre,thousand pounds,    Ohio,2011,3.6
+Yield per acre,thousand pounds,    Oregon,2011,11.5
+Yield per acre,thousand pounds,    Pennsylvania,2011,4
+Yield per acre,thousand pounds,    Virginia,2011,NA
+Yield per acre,thousand pounds,    Washington ,2011,8.3
+Yield per acre,thousand pounds,    Wisconsin,2011,5.7
+Production,million pounds,    Arkansas,2011,NA
+Production,million pounds,    California,2011,2584.6
+Production,million pounds,    Florida,2011,247.5
+Production,million pounds,    Louisiana,2011,NA
+Production,million pounds,    Michigan,2011,3.1
+Production,million pounds,    New Jersey,2011,NA
+Production,million pounds,    New York,2011,3.6
+Production,million pounds,    North Carolina,2011,19.5
+Production,million pounds,    Ohio,2011,2.6
+Production,million pounds,    Oregon,2011,22.6
+Production,million pounds,    Pennsylvania,2011,4
+Production,million pounds,    Virginia,2011,NA
+Production,million pounds,    Washington ,2011,12.5
+Production,million pounds,    Wisconsin,2011,4
+Harvested acreage,acres,    Arkansas,2012,NA
+Harvested acreage,acres,    California,2012,38500
+Harvested acreage,acres,    Florida,2012,8700
+Harvested acreage,acres,    Louisiana,2012,NA
+Harvested acreage,acres,    Michigan,2012,650
+Harvested acreage,acres,    New Jersey,2012,NA
+Harvested acreage,acres,    New York,2012,1400
+Harvested acreage,acres,    North Carolina,2012,1500
+Harvested acreage,acres,    Ohio,2012,660
+Harvested acreage,acres,    Oregon,2012,2000
+Harvested acreage,acres,    Pennsylvania,2012,820
+Harvested acreage,acres,    Virginia,2012,NA
+Harvested acreage,acres,    Washington ,2012,1300
+Harvested acreage,acres,    Wisconsin,2012,610
+Yield per acre,thousand pounds,    Arkansas,2012,NA
+Yield per acre,thousand pounds,    California,2012,72
+Yield per acre,thousand pounds,    Florida,2012,21
+Yield per acre,thousand pounds,    Louisiana,2012,NA
+Yield per acre,thousand pounds,    Michigan,2012,5.1
+Yield per acre,thousand pounds,    New Jersey,2012,NA
+Yield per acre,thousand pounds,    New York,2012,2.3
+Yield per acre,thousand pounds,    North Carolina,2012,13.5
+Yield per acre,thousand pounds,    Ohio,2012,4.2
+Yield per acre,thousand pounds,    Oregon,2012,10.5
+Yield per acre,thousand pounds,    Pennsylvania,2012,5.1
+Yield per acre,thousand pounds,    Virginia,2012,NA
+Yield per acre,thousand pounds,    Washington ,2012,7.9
+Yield per acre,thousand pounds,    Wisconsin,2012,5.1
+Production,million pounds,    Arkansas,2012,NA
+Production,million pounds,    California,2012,2763.7
+Production,million pounds,    Florida,2012,182.7
+Production,million pounds,    Louisiana,2012,NA
+Production,million pounds,    Michigan,2012,3.3
+Production,million pounds,    New Jersey,2012,NA
+Production,million pounds,    New York,2012,3.2
+Production,million pounds,    North Carolina,2012,20.3
+Production,million pounds,    Ohio,2012,2.8
+Production,million pounds,    Oregon,2012,21.3
+Production,million pounds,    Pennsylvania,2012,4.2
+Production,million pounds,    Virginia,2012,NA
+Production,million pounds,    Washington ,2012,10.3
+Production,million pounds,    Wisconsin,2012,3.1
